@@ -1,0 +1,562 @@
+# Translation of Themes - Fashionistas in Dutch
+# This file is distributed under the same license as the Themes - Fashionistas package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-09-09 20:08:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Fashionistas\n"
+
+#. Description of the theme
+msgid "Fashionistas is a bold and fun theme built on Bootstrap, suitable for magazine style blogs."
+msgstr "Fashionistas is een gewaagd en leuk thema gebouwd op Bootstrap, geschikt voor blogs in tijdschriftstijl."
+
+#. Theme Name of the theme
+msgid "Fashionistas"
+msgstr "Fashionistas"
+
+#: functions.php:209
+msgid " by aThemes"
+msgstr "door aThemes"
+
+#: functions.php:205
+msgid ". All rights reserved."
+msgstr ". Alle rechten voorbehouden."
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Pagina in volledige breedte"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Zoeken"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Zoeken &hellip;"
+
+#: searchform.php:10 searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Zoeken naar:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Het lijkt erop dat we niet kunnen vinden waar je naar zoekt. Misschien kun je er naar zoeken."
+
+#: no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Helaas, er waren geen overeenkomsten met jouw zoekterm. Probeer het opnieuw met enkele andere zoekwoorden."
+
+#: no-results.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Klaar om je eerste bericht te publiceren? <a href=\"%1$s\">Start hier</a>."
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#: inc/widgets/widget-tabs.php:91 inc/widgets/widget-tabs.php:96
+msgid "No Comments"
+msgstr "Geen reacties"
+
+#: inc/widgets/widget-tabs.php:76
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/widgets/widget-tabs.php:75
+msgid "Latest"
+msgstr "Laatste"
+
+#: inc/widgets/widget-tabs.php:74
+msgid "Popular"
+msgstr "Populair"
+
+#: inc/widgets/widget-tabs.php:48
+msgid "Tags to Show"
+msgstr "Tags om weer te geven"
+
+#: inc/widgets/widget-tabs.php:43
+msgid "Posts to Show"
+msgstr "Berichten om weer te geven"
+
+#: inc/widgets/widget-tabs.php:29
+msgid "Display a tabbed content widget for your popular posts, recent posts and popular tags."
+msgstr "Geef een inhoud widget met tabbladen weer voor je populaire berichten, recente berichten en populaire tags."
+
+#: inc/widgets/widget-social-icons.php:110
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/widgets/widget-social-icons.php:105
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: inc/widgets/widget-social-icons.php:100
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widgets/widget-social-icons.php:95
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/widgets/widget-social-icons.php:90
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/widgets/widget-social-icons.php:85
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/widgets/widget-social-icons.php:80
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/widgets/widget-social-icons.php:75
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widgets/widget-social-icons.php:70
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widgets/widget-social-icons.php:65
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/widgets/widget-social-icons.php:60
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/widgets/widget-social-icons.php:55
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widgets/widget-social-icons.php:50
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-social-icons.php:29
+msgid "Display links to your social network profiles, enter full profile URLs"
+msgstr "Geef links naar je sociale netwerkprofielen weer, voer volledige profiel-URL's in"
+
+#: inc/widgets/widget-preview-post.php:64
+msgid "Leave empty for no link"
+msgstr "Laat leeg voor geen link"
+
+#: inc/widgets/widget-preview-post.php:63
+msgid "Read more link text"
+msgstr "Lees meer link tekst"
+
+#: inc/widgets/widget-preview-post.php:58
+msgid "Show excerpt"
+msgstr "Toon uittreksel"
+
+#: inc/widgets/widget-preview-post.php:53
+msgid "Show featured image"
+msgstr "Toon uitgelichte afbeelding"
+
+#: inc/widgets/widget-preview-post.php:48
+msgid "Show post title"
+msgstr "Titel van bericht weergeven"
+
+#: inc/widgets/widget-preview-post.php:43
+msgid "Post ID"
+msgstr "Bericht ID"
+
+#: inc/widgets/widget-preview-post.php:27
+msgid "A widget that shows post/page preview"
+msgstr "Een widget die een voorbeeld van een bericht/pagina laat zien"
+
+#: inc/widgets/widget-media-embed.php:60
+msgid "Description"
+msgstr "Beschrijving"
+
+#: inc/widgets/widget-media-embed.php:55
+msgid "Embed width in pixels"
+msgstr "Breedte insluiten in pixels"
+
+#: inc/widgets/widget-media-embed.php:50
+msgid "Embed URL"
+msgstr "URL insluiten"
+
+#: inc/widgets/widget-media-embed.php:29
+msgid "Display media (video/slideshow) widget, support many sites including YouTube, Vimeo, Flickr, etc."
+msgstr "Geef media (video/diavoorstelling) widget weer, ondersteun veel sites, waaronder YouTube, Vimeo, Flickr, enz."
+
+#: inc/widgets/widget-flickr-stream.php:74
+msgid "Display"
+msgstr "Weergave"
+
+#: inc/widgets/widget-flickr-stream.php:65
+msgid "Type (user or group)"
+msgstr "Type (gebruiker of groep)"
+
+#: inc/widgets/widget-flickr-stream.php:54
+msgid "Number of Photos"
+msgstr "Aantal foto's"
+
+#: inc/widgets/widget-flickr-stream.php:49
+msgid "Flickr ID"
+msgstr "Flickr ID"
+
+#: inc/widgets/widget-social-icons.php:43 inc/widgets/widget-media-embed.php:43
+#: inc/widgets/widget-flickr-stream.php:42
+msgid "Title"
+msgstr "Titel"
+
+#: inc/widgets/widget-flickr-stream.php:28
+msgid "Displays your Flickr photos."
+msgstr "Geeft je Flickr foto's weer."
+
+#: inc/template-tags.php:177
+msgid "<span class=\"posted-on\">%1$s</span><span class=\"byline\">%2$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span><span class=\"byline\">%2$s</span>"
+
+#: inc/template-tags.php:98
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#: inc/template-tags.php:94
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:89
+msgctxt "1: date, 2: time"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:71
+msgid "Edit"
+msgstr "Bewerken"
+
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:48
+msgid "Newer Articles <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere artikelen <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older Articles"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere artikelen"
+
+#: inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Berichtnavigatie"
+
+#: inc/extras.php:135
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: inc/customizer.php:421
+msgid "Select your desired font for the body."
+msgstr "Selecteer het gewenste lettertype voor de body."
+
+#: inc/customizer.php:404
+msgid "Select your desired font for the headings."
+msgstr "Selecteer het gewenste lettertype voor de headers."
+
+#: inc/customizer.php:365
+msgid "Fonts"
+msgstr "Lettertypen"
+
+#: inc/customizer.php:354
+msgid "Text"
+msgstr "Tekst"
+
+#: inc/customizer.php:333
+msgid "Entry title"
+msgstr "Titel van het item"
+
+#: inc/customizer.php:312
+msgid "Site description"
+msgstr "Sitebeschrijving"
+
+#: inc/customizer.php:291
+msgid "Site title"
+msgstr "Site titel"
+
+#: inc/customizer.php:270
+msgid "Main color"
+msgstr "Hoofdkleur"
+
+#: inc/customizer.php:250
+msgid "Check this box to hide the author bio on single posts."
+msgstr "Vink dit vakje aan om de biografie van de auteur voor afzonderlijke berichten te verbergen."
+
+#: inc/customizer.php:235
+msgid "Check this box to show featured images on pages"
+msgstr "Vink dit vakje aan om uitgelichte afbeeldingen op pagina's weer te geven"
+
+#: inc/customizer.php:220
+msgid "Check this box to show featured images on single posts"
+msgstr "Vink dit vakje aan om uitgelichte afbeeldingen bij afzonderlijke berichten weer te geven"
+
+#: inc/customizer.php:205
+msgid "Single posts/pages"
+msgstr "Enkele berichten/pagina's"
+
+#: inc/customizer.php:196
+msgid "Search"
+msgstr "Zoeken"
+
+#: inc/customizer.php:181
+msgid "Archives, tags, categories, author"
+msgstr "Archieven, tags, categorieën, auteur"
+
+#: inc/customizer.php:166
+msgid "Blog index"
+msgstr "Blog index"
+
+#: inc/customizer.php:151
+msgid "Check the boxes below to display the content instead of the excerpt."
+msgstr "Vink de onderstaande vakjes aan om de inhoud weer te geven in plaats van de samenvatting."
+
+#: inc/customizer.php:150
+msgid "Content/Excerpt"
+msgstr "Inhoud/Samenvatting"
+
+#: inc/customizer.php:139
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr "Upload je Apple Touch pictogram (57x57 pixels)"
+
+#: inc/customizer.php:119
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr "Upload je Apple Touch pictogram (72x72 pixels)"
+
+#: inc/customizer.php:99
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr "Upload je Apple Touch pictogram (114x114 pixels)"
+
+#: inc/customizer.php:79
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr "Upload je Apple Touch pictogram (144x144 pixels)"
+
+#: inc/customizer.php:59
+msgid "Upload your favicon"
+msgstr "Upload je favicon"
+
+#: inc/customizer.php:38
+msgid "Upload your logo"
+msgstr "Upload je logo"
+
+#: inc/customizer.php:21
+msgid "General"
+msgstr "Algemeen"
+
+#: image.php:73
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Reageren en trackbacks plaatsen is op dit moment gesloten."
+
+#: image.php:71
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Trackbacks zijn gesloten, maar je kan een <a class=\"comment-link\" href=\"#respond\" title=\"Reactie plaatsen\">reactie plaatsen</a>."
+
+#: image.php:69
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Reageren is gesloten, maar je kan een trackback achterlaten: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL voor jouw bericht\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:67
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Plaats reactie\">Plaats reactie</a> of laat een trackback achter: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL voor jouw bericht\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:61
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Volgende <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vorige"
+
+#: image.php:23
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "Geplaatst <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> om <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: functions.php:105
+msgid "Sub Footer 4"
+msgstr "Sub footer 4"
+
+#: functions.php:97
+msgid "Sub Footer 3"
+msgstr "Sub footer 3"
+
+#: functions.php:89
+msgid "Sub Footer 2"
+msgstr "Sub footer 2"
+
+#: functions.php:81
+msgid "Sub Footer 1"
+msgstr "Sub footer 1"
+
+#: functions.php:73
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:65
+msgid "Sidebar"
+msgstr "Zijbalk"
+
+#: functions.php:52
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: functions.php:51
+msgid "Top Menu"
+msgstr "Bovenste Menu"
+
+#: content.php:57
+msgid "<i class=\"ico-tags\"></i> %1$s"
+msgstr "<i class=\"ico-tags\"></i> %1$s"
+
+#: content.php:48
+msgid "<i class=\"ico-folder\"></i> %1$s"
+msgstr "<i class=\"ico-folder\"></i> %1$s"
+
+#: inc/extras.php:77 content.php:36
+msgid "Continue Reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:55
+msgid "<span class=\"cat-links\"><i class=\"ico-folder\"></i> %1$s</span>"
+msgstr "<span class=\"cat-links\"><i class=\"ico-folder\"></i> %1$s</span>"
+
+#: content-single.php:53
+msgid "<span class=\"cat-links\"><i class=\"ico-folder\"></i> %1$s</span><span class=\"tags-links\"><i class=\"ico-tags\"></i> %2$s</span>"
+msgstr "<span class=\"cat-links\"><i class=\"ico-folder\"></i> %1$s</span><span class=\"tags-links\"><i class=\"ico-tags\"></i> %2$s</span>"
+
+#: content-single.php:47
+msgid "<span class=\"tags-links\"><i class=\"ico-tags\"></i> %2$s</span>"
+msgstr "<span class=\"tags-links\"><i class=\"ico-tags\"></i> %2$s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:44 content.php:53
+msgid ", "
+msgstr ", "
+
+#: inc/widgets/widget-tabs.php:91 inc/widgets/widget-tabs.php:96
+#: content-single.php:15 content.php:16
+msgid "% Comments"
+msgstr "% reacties"
+
+#: inc/widgets/widget-tabs.php:91 inc/widgets/widget-tabs.php:96
+#: content-single.php:15 content.php:16
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: content-single.php:15 content.php:16
+msgid "Leave a Comment"
+msgstr "Een reactie plaatsen"
+
+#: content-single.php:30 content-page.php:24 image.php:53 content.php:37
+msgid "Pages:"
+msgstr "Pagina&#39;s:"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Nieuwere reacties &rarr;"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Oudere reacties"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Eén reactie"
+msgstr[1] "%1$s reacties"
+
+#: archive.php:63
+msgid "Archives"
+msgstr "Archieven"
+
+#: archive.php:60
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:57
+msgid "Quotes"
+msgstr "Citaten"
+
+#: archive.php:54
+msgid "Videos"
+msgstr "Video&#39;s"
+
+#: archive.php:51
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "Asides"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "Jaar: %s"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "Maand: %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "Dag: %s"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "Auteur: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Probeer eens te zoeken in het maandelijks archief: %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Meest gebruikte categorie&#235;n"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Het lijkt erop dat niets gevonden is op deze locatie. Wellicht kan je één van de volgende links gebruiken of je kan zoeken?"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Deze pagina kon niet worden gevonden."
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "https://athemes.com"
+
+#. Author of the theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/fashionista"
+msgstr "https://athemes.com/theme/fashionista"

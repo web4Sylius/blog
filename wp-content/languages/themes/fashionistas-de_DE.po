@@ -1,0 +1,558 @@
+# Translation of Themes - Fashionistas in German
+# This file is distributed under the same license as the Themes - Fashionistas package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-12-28 01:18:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: de\n"
+"Project-Id-Version: Themes - Fashionistas\n"
+
+#. Theme Name of the theme
+msgid "Fashionistas"
+msgstr "Fashionistas"
+
+#. Description of the theme
+msgid "Fashionistas is a bold and fun theme built on Bootstrap, suitable for magazine style blogs."
+msgstr "Fashionistas ist ein mutiges und fröhliches Theme, welches mit Bootstrap gebaut wurde. Es eignet sich für Magazin Blogs."
+
+#: functions.php:209
+msgid " by aThemes"
+msgstr "von aThemes"
+
+#: functions.php:205
+msgid ". All rights reserved."
+msgstr ". Alle Rechte vorbehalten."
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Seite mit voller Breite"
+
+#: searchform.php:13
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suche"
+
+#: searchform.php:11
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Suche&#160;&hellip;"
+
+#: searchform.php:10 searchform.php:11
+msgctxt "label"
+msgid "Search for:"
+msgstr "Suche nach:"
+
+#: search.php:16
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für: %s"
+
+#: no-results.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Es sieht so aus, als ob wir nicht das finden konnten, wonach du gesucht hast. Möglicherweise hilft die Suchfunktion."
+
+#: no-results.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Entschuldigung, aber zu deinen Suchbegriffen wurde nichts passendes gefunden. Bitte versuche es mit anderen Stichworten noch einmal."
+
+#: no-results.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Bereit, um deinen ersten Beitrag zu veröffentlichen? <a href=\"%1$s\">Starte hier</a>."
+
+#: no-results.php:13
+msgid "Nothing Found"
+msgstr "Es konnte nichts gefunden werden."
+
+#: inc/widgets/widget-tabs.php:91 inc/widgets/widget-tabs.php:96
+msgid "No Comments"
+msgstr "Keine Kommentare"
+
+#: inc/widgets/widget-tabs.php:76
+msgid "Tags"
+msgstr "Schlagwörter"
+
+#: inc/widgets/widget-tabs.php:75
+msgid "Latest"
+msgstr "Letztes"
+
+#: inc/widgets/widget-tabs.php:74
+msgid "Popular"
+msgstr "Beliebt"
+
+#: inc/widgets/widget-tabs.php:43
+msgid "Posts to Show"
+msgstr "Beiträge zum Anzeigen"
+
+#: inc/widgets/widget-tabs.php:29
+msgid "Display a tabbed content widget for your popular posts, recent posts and popular tags."
+msgstr "Zeigt deine beliebtesten Beiträge, letzten Beiträge und beliebtesten Schlagworte in Form von Reitern. "
+
+#: inc/widgets/widget-tabs.php:48
+msgid "Tags to Show"
+msgstr "Schlagwörter zum Anzeigen"
+
+#: inc/widgets/widget-social-icons.php:105
+msgid "Last.fm"
+msgstr "Last.fm"
+
+#: inc/widgets/widget-social-icons.php:110
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: inc/widgets/widget-social-icons.php:100
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/widgets/widget-social-icons.php:95
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/widgets/widget-social-icons.php:90
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/widgets/widget-social-icons.php:85
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/widgets/widget-social-icons.php:80
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/widgets/widget-social-icons.php:75
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/widgets/widget-social-icons.php:70
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/widgets/widget-social-icons.php:65
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/widgets/widget-social-icons.php:60
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/widgets/widget-social-icons.php:55
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/widgets/widget-preview-post.php:58
+msgid "Show excerpt"
+msgstr "Auszug anzeigen"
+
+#: inc/widgets/widget-social-icons.php:50
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/widgets/widget-preview-post.php:53
+msgid "Show featured image"
+msgstr "Beitragsbild anzeigen"
+
+#: inc/widgets/widget-preview-post.php:63
+msgid "Read more link text"
+msgstr "Weiterlesen Link Text"
+
+#: inc/widgets/widget-preview-post.php:64
+msgid "Leave empty for no link"
+msgstr "Lasse es leer um keinen Link zu setzten."
+
+#: inc/widgets/widget-social-icons.php:29
+msgid "Display links to your social network profiles, enter full profile URLs"
+msgstr "Zeige Links zu deinen Sozial Media Profilen. Füge komplette URLs der Profile ein. "
+
+#: inc/widgets/widget-preview-post.php:27
+msgid "A widget that shows post/page preview"
+msgstr "Ein Widget, das die Vorschau von Beiträgen und Seiten zeigt. "
+
+#: inc/widgets/widget-preview-post.php:48
+msgid "Show post title"
+msgstr "Beitragstitel anzeigen"
+
+#: inc/widgets/widget-preview-post.php:43
+msgid "Post ID"
+msgstr "Beitrags-ID"
+
+#: inc/widgets/widget-flickr-stream.php:74
+msgid "Display"
+msgstr "Anzeige"
+
+#: inc/widgets/widget-media-embed.php:60
+msgid "Description"
+msgstr "Beschreibung"
+
+#: inc/widgets/widget-flickr-stream.php:54
+msgid "Number of Photos"
+msgstr "Anzahl der Bilder"
+
+#: inc/widgets/widget-flickr-stream.php:65
+msgid "Type (user or group)"
+msgstr "Art (Benutzer oder Gruppe)"
+
+#: inc/widgets/widget-media-embed.php:29
+msgid "Display media (video/slideshow) widget, support many sites including YouTube, Vimeo, Flickr, etc."
+msgstr "Zeige Medien (Video / Slideshow) Widget, unterstützt viele Seiten wie YouTube, Vimeo, Flickr, usw."
+
+#: inc/widgets/widget-media-embed.php:50
+msgid "Embed URL"
+msgstr "Bette URL ein"
+
+#: inc/widgets/widget-flickr-stream.php:49
+msgid "Flickr ID"
+msgstr "Flickr-ID"
+
+#: inc/widgets/widget-social-icons.php:43 inc/widgets/widget-media-embed.php:43
+#: inc/widgets/widget-flickr-stream.php:42
+msgid "Title"
+msgstr "Titel"
+
+#: inc/widgets/widget-flickr-stream.php:28
+msgid "Displays your Flickr photos."
+msgstr "Zeigt deine Flickr Fotos"
+
+#: inc/template-tags.php:177
+msgid "<span class=\"posted-on\">%1$s</span><span class=\"byline\">%2$s</span>"
+msgstr "<span class=\"posted-on\">%1$s</span><span class=\"byline\">%2$s</span>"
+
+#: inc/template-tags.php:98
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wartet auf Freischaltung."
+
+#: inc/template-tags.php:94
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:89
+msgctxt "1: date, 2: time"
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/template-tags.php:71
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/template-tags.php:71
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older Articles"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vorherige Beiträge"
+
+#: inc/template-tags.php:48
+msgid "Newer Articles <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Neuere Beiträge <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: inc/template-tags.php:34
+msgid "Post navigation"
+msgstr "Artikel-Navigation"
+
+#: inc/extras.php:135
+msgid "Page %s"
+msgstr "Seite %s"
+
+#: inc/customizer.php:404
+msgid "Select your desired font for the headings."
+msgstr "Wähle deine gewünschte Schriftart für die Überschriften."
+
+#: inc/customizer.php:421
+msgid "Select your desired font for the body."
+msgstr "Wähle deine gewünschte Schriftart für den Textkörper."
+
+#: inc/customizer.php:365
+msgid "Fonts"
+msgstr "Schriftart"
+
+#: inc/customizer.php:312
+msgid "Site description"
+msgstr "Beschreibung des Forums:"
+
+#: inc/customizer.php:354
+msgid "Text"
+msgstr "Text"
+
+#: inc/customizer.php:333
+msgid "Entry title"
+msgstr "Entry title"
+
+#: inc/customizer.php:291
+msgid "Site title"
+msgstr "Titel der Website"
+
+#: inc/customizer.php:205
+msgid "Single posts/pages"
+msgstr "Einzelne Beiträge/Seiten"
+
+#: inc/customizer.php:220
+msgid "Check this box to show featured images on single posts"
+msgstr "Setze hier ein Häkchen um bei Beiträgen ein Beitragsbild anzuzeigen"
+
+#: inc/customizer.php:235
+msgid "Check this box to show featured images on pages"
+msgstr "Setze hier ein Häkchen um auf Seiten ein Beitragsbild anzuzeigen"
+
+#: inc/customizer.php:270
+msgid "Main color"
+msgstr "Hauptfarbe"
+
+#: inc/customizer.php:250
+msgid "Check this box to hide the author bio on single posts."
+msgstr "Markiere dieses Kästchen, um die Autor Bio auf einzelnen Beiträgen zu verstecken."
+
+#: inc/customizer.php:196
+msgid "Search"
+msgstr "Suchen"
+
+#: inc/customizer.php:151
+msgid "Check the boxes below to display the content instead of the excerpt."
+msgstr "Markiere dieses Kästchen, um den gesamten Inhalt statt des Auszugs anzuzeigen."
+
+#: inc/customizer.php:166
+msgid "Blog index"
+msgstr "Blog Index"
+
+#: inc/customizer.php:181
+msgid "Archives, tags, categories, author"
+msgstr "Archive, Schlagwörter, Kategorien, Autor"
+
+#: inc/customizer.php:38
+msgid "Upload your logo"
+msgstr "Lade dein Logo hoch"
+
+#: inc/customizer.php:59
+msgid "Upload your favicon"
+msgstr "Lade dein Favicon hoch"
+
+#: inc/customizer.php:79
+msgid "Upload your Apple Touch Icon (144x144 pixels)"
+msgstr "Lade dein Apple Touch Icon hoch (144x144 Pixel)"
+
+#: inc/customizer.php:99
+msgid "Upload your Apple Touch Icon (114x114 pixels)"
+msgstr "Lade dein Apple Touch Icon hoch (114x114 Pixel)"
+
+#: inc/customizer.php:119
+msgid "Upload your Apple Touch Icon (72x72 pixels)"
+msgstr "Lade dein Apple Touch Icon hoch (72x72 Pixel)"
+
+#: inc/customizer.php:139
+msgid "Upload your Apple Touch Icon (57x57 pixels)"
+msgstr "Lade dein Apple Touch Icon hoch (57x57 Pixel)"
+
+#: inc/customizer.php:150
+msgid "Content/Excerpt"
+msgstr "Inhalt/Auszug"
+
+#: inc/customizer.php:21
+msgid "General"
+msgstr "Allgemein"
+
+#: image.php:73
+msgid "Both comments and trackbacks are currently closed."
+msgstr "Sowohl Kommentare, als auch Trackbacks sind geschlossen."
+
+#: image.php:71
+msgid "Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr "Trackbacks sind geschlossen, aber Du kannst <a class=\"comment-link\" href=\"#respond\" title=\"Kommentar hinterlassen\">einen Kommentar hinterlassen</a>."
+
+#: image.php:69
+msgid "Comments are closed, but you can leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "Kommentare sind geschlossen, aber Du kannst ein Trackback hinterlassen: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL für Deinen Beitrag\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:67
+msgid "<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr "<a class=\"comment-link\" href=\"#respond\" title=\"Kommentar hinterlassen\">Hinterlasse einen Kommentar</a> oder ein Trackback: <a class=\"trackback-link\" href=\"%s\" title=\"Trackback URL für Deinen Beitrag\" rel=\"trackback\">Trackback URL</a>."
+
+#: image.php:61
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiter <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:23
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr "Veröffentlicht <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> am <a href=\"%3$s\" title=\"Link zum Originalbild\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Zurück zu %7$s\" rel=\"gallery\">%8$s</a>"
+
+#: image.php:60
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Vorherige"
+
+#: functions.php:81
+msgid "Sub Footer 1"
+msgstr "Sub Footer 1"
+
+#: functions.php:89
+msgid "Sub Footer 2"
+msgstr "Sub Footer 2"
+
+#: functions.php:97
+msgid "Sub Footer 3"
+msgstr "Sub Footer 3"
+
+#: functions.php:105
+msgid "Sub Footer 4"
+msgstr "Sub Footer 4"
+
+#: functions.php:73
+msgid "Header"
+msgstr "Header"
+
+#: functions.php:65
+msgid "Sidebar"
+msgstr "Seitenleiste"
+
+#: functions.php:52
+msgid "Main Menu"
+msgstr "Hauptmenü"
+
+#: functions.php:51
+msgid "Top Menu"
+msgstr "Top Menu"
+
+#: content.php:48
+msgid "<i class=\"ico-folder\"></i> %1$s"
+msgstr "<i class=\"ico-folder\"></i> %1$s"
+
+#: content.php:57
+msgid "<i class=\"ico-tags\"></i> %1$s"
+msgstr "<i class=\"ico-tags\"></i> %1$s"
+
+#: inc/extras.php:77 content.php:36
+msgid "Continue Reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Weiterlesen <span class=\"meta-nav\">&rarr;</span>"
+
+#: content-single.php:47
+msgid "<span class=\"tags-links\"><i class=\"ico-tags\"></i> %2$s</span>"
+msgstr "<span class=\"tags-links\"><i class=\"ico-tags\"></i> %2$s</span>"
+
+#: content-single.php:53
+msgid "<span class=\"cat-links\"><i class=\"ico-folder\"></i> %1$s</span><span class=\"tags-links\"><i class=\"ico-tags\"></i> %2$s</span>"
+msgstr "<span class=\"cat-links\"><i class=\"ico-folder\"></i> %1$s</span><span class=\"tags-links\"><i class=\"ico-tags\"></i> %2$s</span>"
+
+#: content-single.php:55
+msgid "<span class=\"cat-links\"><i class=\"ico-folder\"></i> %1$s</span>"
+msgstr "<span class=\"cat-links\"><i class=\"ico-folder\"></i> %1$s</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: content-single.php:39 content-single.php:42 content.php:44 content.php:53
+msgid ", "
+msgstr ", "
+
+#: inc/widgets/widget-tabs.php:91 inc/widgets/widget-tabs.php:96
+#: content-single.php:15 content.php:16
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: inc/widgets/widget-tabs.php:91 inc/widgets/widget-tabs.php:96
+#: content-single.php:15 content.php:16
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: content-single.php:15 content.php:16
+msgid "Leave a Comment"
+msgstr "Hinterlasse einen Kommentar"
+
+#: content-single.php:30 content-page.php:24 image.php:53 content.php:37
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "Ein Kommentar"
+msgstr[1] "%1$s Kommentare"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: archive.php:63
+msgid "Archives"
+msgstr "Archive"
+
+#: archive.php:60
+msgid "Links"
+msgstr "Links"
+
+#: archive.php:57
+msgid "Quotes"
+msgstr "Zitate"
+
+#: archive.php:54
+msgid "Videos"
+msgstr "Videos"
+
+#: archive.php:51
+msgid "Images"
+msgstr "Bilder"
+
+#: archive.php:48
+msgid "Asides"
+msgstr "Kurzmitteilungen"
+
+#: archive.php:45
+msgid "Year: %s"
+msgstr "Jahr: %s"
+
+#: archive.php:42
+msgid "Month: %s"
+msgstr "Monat: %s"
+
+#: archive.php:39
+msgid "Day: %s"
+msgstr "Tag: %s"
+
+#: archive.php:31
+msgid "Author: %s"
+msgstr "Autor: %s"
+
+#. translators: %1$s: smiley
+#: 404.php:44
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Versuchs mit einem Blick in die monatlichen Archive. %1$s"
+
+#: 404.php:27
+msgid "Most Used Categories"
+msgstr "Oft verwendete Kategorien"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Es wurde nichts gefunden. Versuche es mit einem der folgenden Links oder der Suche."
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Die Seite konnte nicht gefunden werden."
+
+#. Theme URI of the theme
+msgid "https://athemes.com/theme/fashionista"
+msgstr "http://athemes.com/theme/fashionista"
+
+#. Author of the theme
+msgid "aThemes"
+msgstr "aThemes"
+
+#. Author URI of the theme
+msgid "https://athemes.com"
+msgstr "http://athemes.com"

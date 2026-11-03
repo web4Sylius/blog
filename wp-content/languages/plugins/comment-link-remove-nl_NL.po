@@ -1,0 +1,821 @@
+# Translation of Plugins - Comment Link Remove and Other Comment Tools - Stable (latest release) in Dutch
+# This file is distributed under the same license as the Plugins - Comment Link Remove and Other Comment Tools - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-05-19 07:43:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Comment Link Remove and Other Comment Tools - Stable (latest release)\n"
+
+#: class-qcld-free-plugin-upgrade-notice.php:103
+msgid "Settings"
+msgstr "Instellingen"
+
+#: class-qcld-free-plugin-upgrade-notice.php:106
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: qc-clr-cookies-for-comments.php:30
+msgid "to activate this feature."
+msgstr "om deze functie te activeren."
+
+#: qc-clr-settings.php:711
+msgid "Auto Moderate Comments Action"
+msgstr "Automatisch modereren reacties actie"
+
+#: qc-clr-settings.php:695
+msgid "Enable Delete and Move To Spam Buttons on the Frontend"
+msgstr "Schakel verwijderen en verplaatsen naar spam knoppen op de frontend in"
+
+#: qc-clr-settings.php:189
+msgid "Comment Moderation"
+msgstr "Reactie modereren"
+
+#: qc-clr-settings.php:182
+msgid "Voice Message"
+msgstr "Spraakbericht"
+
+#: qc-clr-settings.php:667
+msgid "Enable Voice Message on User Comments"
+msgstr "Spraakbericht inschakelen bij gebruikersopmerkingen"
+
+#: qc-clr-email-subscription.php:43
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: qc-clr-email-subscription.php:44
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: qc-clr-cookies-for-comments.php:57
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#. Translators: If the type names in your language are wider or narrower than
+#. in English - you can change the width of the column here.
+#: qc-clr-settings-pro.php:561
+msgctxt "Allowed File Types Setting: column width in px"
+msgid "100"
+msgstr "100"
+
+#: qc-clr-settings-pro.php:370
+msgid "All users"
+msgstr "Alle gebruikers"
+
+#: qc-clr-email-subscription.php:89 qc-clr-email-subscription.php:117
+msgid "Action"
+msgstr "Actie"
+
+#: qc-clr-settings-pro.php:269
+msgid "Admin Panel"
+msgstr "Beheerpaneel"
+
+#: qc-clr-settings-pro.php:117
+msgid "archive"
+msgstr "archief"
+
+#: qc-clr-settings-pro.php:93
+msgid "audio"
+msgstr "audio"
+
+#: qc-clr-cookies-for-comments.php:57
+msgid "before"
+msgstr "voor"
+
+#: qc-clr-settings-pro.php:121
+msgid "code"
+msgstr "code"
+
+#: qc-clr-settings-pro.php:531
+msgid "Crop"
+msgstr "Bijsnijden"
+
+#: qc-clr-cookies-for-comments.php:41
+msgid "CSS file."
+msgstr "CSS bestand."
+
+#: qc-clr-email-subscription.php:80 qc-clr-email-subscription.php:105
+msgid "Date"
+msgstr "Datum"
+
+#: qc-clr-cookies-for-comments.php:66
+msgid "As you are using WordPress MU, copy these lines into your .htaccess file, making sure the paths match the location of the signup form."
+msgstr "Aangezien je WordPress MU gebruikt, kopieer je deze regels naar je .htaccess-bestand en zorg je ervoor dat de paden overeenkomen met de locatie van het aanmeldingsformulier."
+
+#: qc-clr-settings-pro.php:335
+msgid "Attachment image size"
+msgstr "Afbeeldingsgrootte bijlage"
+
+#: qc-clr-settings-pro.php:358
+msgid "available for embedding."
+msgstr "beschikbaar voor insluiten."
+
+#: qc-clr-settings-pro.php:321
+msgid "Combine images to gallery?"
+msgstr "Afbeeldingen combineren tot galerij?"
+
+#: qc-clr-cookies-for-comments.php:38
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: qc-clr-settings-pro.php:383
+msgid "Delete attachment when comment is deleted?"
+msgstr "Bijlage verwijderen als reactie verwijderd is?"
+
+#: qc-clr-settings-pro.php:101
+msgid "document"
+msgstr "document"
+
+#: qc-clr-email-subscription.php:54
+msgid "Email Subscription List"
+msgstr "Lijst met e-mailabonnementen"
+
+#: qc-clr-settings-pro.php:300
+msgid "Embed attachment?"
+msgstr "Bijlage insluiten?"
+
+#: qc-clr-cookies-for-comments.php:57
+msgid "file. They will stop comments from spambots before they reach the database or are executed in PHP:"
+msgstr "betand. Ze stoppen reacties van spambots voordat ze de database bereiken of worden uitgevoerd in PHP:"
+
+#: qc-clr-settings-pro.php:525
+msgid "Size"
+msgstr "Grootte"
+
+#: qc-clr-cookies-for-comments.php:46
+msgid "Some spammers visit your site, leave a real looking comment and disappear again. They will do this quickly and then move on to the next target site."
+msgstr "Sommige spammers bezoeken je site, laten een echt uitziende reactie achter en verdwijnen weer. Ze zullen dit snel doen en dan doorgaan naar de volgende doelsite."
+
+#: qc-clr-cookies-for-comments.php:38
+msgid "Spam"
+msgstr "Spam"
+
+#: qc-clr-settings-pro.php:105
+msgid "spreadsheet"
+msgstr "spreadsheet"
+
+#: qc-clr-settings-pro.php:113
+msgid "text"
+msgstr "tekst"
+
+#: qc-clr-cookies-for-comments.php:43
+msgid "The CSS file loads at the top of the page, possibly slowing down how fast the page renders. The image loads at the end but if your server is very slow someone may have time to enter a comment before the image loads. Unlikely but it might happen."
+msgstr "Het CSS bestand wordt bovenaan de pagina geladen, wat mogelijk de snelheid van de pagina vertraagt. De afbeelding wordt aan het einde geladen, maar als je server erg traag is, heeft iemand misschien tijd om een opmerking in te voeren voordat de afbeelding wordt geladen. Onwaarschijnlijk, maar het kan gebeuren."
+
+#: qc-clr-settings-pro.php:336
+msgid "The size of the thumbnail for attached images."
+msgstr "De grootte van de thumbnail voor bijgevoegde afbeeldingen."
+
+#: qc-clr-settings-pro.php:357
+msgid "Allowed File Types"
+msgstr "Toegestane bestandstypen"
+
+#: qc-clr-settings-pro.php:358
+msgid "allowed only for Administrators and Editors."
+msgstr "alleen toegestaan voor beheerders en redacteuren."
+
+#: qc-clr-cookies-for-comments.php:29
+msgid "Comments for Cookies Configuration"
+msgstr "Reacties voor cookies configuratie"
+
+#: qc-clr-settings-pro.php:265
+msgid "General"
+msgstr "Algemeen"
+
+#: qc-clr-settings-pro.php:89
+msgid "image"
+msgstr "afbeelding"
+
+#: qc-clr-settings-pro.php:109
+msgid "interactive"
+msgstr "Interactief"
+
+#: qc-clr-settings-pro.php:293
+msgid "Is attachment required?"
+msgstr "Is een bijlage vereist?"
+
+#: qc-clr-settings-pro.php:342
+msgid "Link thumbnail?"
+msgstr "Link thumbnail?"
+
+#: qc-clr-settings-pro.php:539
+msgid "Full (original image)"
+msgstr "Volledig (originele afbeelding)"
+
+#: qc-clr-settings-pro.php:328
+msgid "Gallery image size"
+msgstr "Galerij afbeelding grootte"
+
+#: qc-clr-settings-pro.php:266
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: qc-clr-settings-pro.php:527
+msgid "No"
+msgstr "Nee"
+
+#: qc-clr-settings-pro.php:348
+msgid "Not link"
+msgstr "Geen link"
+
+#: qc-clr-settings-pro.php:125
+msgid "other"
+msgstr "ander"
+
+#: qc-clr-settings-pro.php:268
+msgid "Permissions"
+msgstr "Rechten"
+
+#: qc-clr-cookies-for-comments.php:47
+msgid "Seconds"
+msgstr "Seconden"
+
+#: qc-clr-settings-pro.php:587
+msgid "Show all"
+msgstr "Toon alles"
+
+#: qc-clr-settings-pro.php:397
+msgid "Unattach attachment from comment"
+msgstr "Bijlage verwijderen uit bericht"
+
+#: qc-clr-settings-pro.php:97
+msgid "video"
+msgstr "video"
+
+#: qc-clr-settings.php:175
+msgid "View Advanced Pro Features"
+msgstr "Geavanceerde Pro functies bekijken"
+
+#: qc-clr-cookies-for-comments.php:37
+msgid "What should happen to comments caught"
+msgstr "Wat moet er gebeuren met gevangen reacties?"
+
+#: qc-clr-settings-pro.php:364
+msgid "Who can upload attachment?"
+msgstr "Wie kan bijlage uploaden?"
+
+#: qc-clr-settings-pro.php:529
+msgid "Yes"
+msgstr "Ja"
+
+#: qc-clr-settings-pro.php:314
+msgid "Enable multiple upload?"
+msgstr "Meerdere uploads inschakelen?"
+
+#: qc-clr-cookies-for-comments.php:34 qc-clr-cookies-for-comments.php:35
+msgid "Enable Spam Protection"
+msgstr "Spambeveiliging inschakelen"
+
+#: qc-clr-settings-pro.php:377
+msgid "If checked, all comments with attachments must be manually approved before they appear on the site."
+msgstr "Indien aangevinkt, moeten alle opmerkingen met bijlagen handmatig worden goedgekeurd voordat ze op de site verschijnen."
+
+#: qc-clr-settings-pro.php:322
+msgid "If checked, attached images will be combined to a gallery. Otherwise, the images will be displayed as a list."
+msgstr "Indien aangevinkt, worden bijgevoegde afbeeldingen gecombineerd tot een galerij. Anders worden de afbeeldingen weergegeven als een lijst."
+
+#: qc-clr-settings-pro.php:301
+msgid "If checked, the attachment is displayed as an image, video, audio, or file link. Otherwise, all attachments will be displayed as links to files."
+msgstr "Indien aangevinkt, zal de bijlage worden getoond als afbeelding, video- of audiobestand, of als bestandslink. Anders worden alle bijlagen weergegeven als links naar bestanden."
+
+#: qc-clr-settings-pro.php:294
+msgid "If checked, the user will not be able to post a comment without attaching an attachment."
+msgstr "Indien aangevinkt, zal de gebruiker geen bericht kunnen posten zonder bijlage."
+
+#: qc-clr-settings-pro.php:315
+msgid "If checked, users will be able to upload multiple attachments at once."
+msgstr "Indien aangevinkt, kunnen gebruikers meerdere bijlagen tegelijk uploaden."
+
+#: qc-clr-cookies-for-comments.php:42
+msgid "Image file. (recommended)"
+msgstr "Beeldbestand. (aanbevolen)"
+
+#: qc-clr-settings-pro.php:351
+msgid "Link to a full-size image in a new tab"
+msgstr "Link naar een afbeelding op volledige grootte in een nieuw tabblad"
+
+#: qc-clr-cookies-for-comments.php:49
+msgid "Rejection Message"
+msgstr "Afwijzingsbericht"
+
+#: qc-clr-settings-pro.php:267
+msgid "Multiple upload"
+msgstr "Meerdere uploads"
+
+#: qc-clr-settings-pro.php:371
+msgid "Only logged users"
+msgstr "Alleen ingelogde gebruikers"
+
+#: qc-clr-settings-pro.php:352
+msgid "Link to the attachment page"
+msgstr "Link naar de bijlagepagina"
+
+#: qc-clr-settings-pro.php:285
+msgid "Maximum upload file size"
+msgstr "Maximale bestandsgrootte van upload"
+
+#. translators: %s: the maximum allowed upload file size
+#: qc-clr-settings-pro.php:287
+msgid "Set the value in megabytes. Currently your server allows you to upload files up to %s."
+msgstr "Stel de waarde in megabytes in. Momenteel staat je server toe bestanden te uploaden tot %s."
+
+#. translators: %s: the link to the plugin FAQ section on WordPress.org
+#: qc-clr-settings-pro.php:350
+msgid "Link to a full-size image with lightbox plugins support (see <a href=\"%s\">FAQ</a> for details)"
+msgstr "Link naar een afbeelding op volledige grootte met ondersteuning voor lightbox plugins (zie <a href=\"%s\">FAQ</a> voor details)"
+
+#: qc-clr-cookies-for-comments.php:30 qc-clr-settings.php:178
+msgid "Upgrade to the Pro Version "
+msgstr "Upgraden naar de Pro versie "
+
+#: qc-clr-settings.php:178
+msgid " to enable these advanced features"
+msgstr " om deze geavanceerde functies in te schakelen"
+
+#: qc-clr-settings.php:175
+msgid "Show"
+msgstr "Weergeven"
+
+#: qc-clr-settings-pro.php:390
+msgid "Delete Attachment action on Edit Comments page"
+msgstr "Verwijder bijlage actie op de pagina 'Reacties bewerken'"
+
+#: qc-clr-settings-pro.php:384
+msgid "If unchecked, the attachment will be available in Media Library after the comment has been deleted."
+msgstr "Indien niet aangevinkt, zal de bijlage beschikbaar blijven in de Mediabibliotheek na het verwijderen van de reactie."
+
+#: qc-clr-cookies-for-comments.php:57
+msgid "If you are feeling adventerous, you can add the following two lines"
+msgstr "Als je avontuurlijk bent, kun je de volgende twee regels toevoegen"
+
+#: qc-clr-cookies-for-comments.php:57
+msgid "the regular WordPress mod_rewrite rules in your "
+msgstr "de reguliere WordPress mod_rewrite regels in je "
+
+#: qc-clr-email-subscription.php:56
+msgid "Email Subscription List is a Pro Version Feature. Please "
+msgstr "E-mail abonnementslijst is een Pro versie functie. Gelieve "
+
+#: qc-clr-settings-pro.php:396
+msgid "Delete attachment from Media Library"
+msgstr "Verwijder bijlage uit de mediabibliotheek"
+
+#: qc-clr-cookies-for-comments.php:44
+msgid "Speed Spammers"
+msgstr "Speed spammers"
+
+#: qc-clr-settings-pro.php:329
+msgid "The size of the thumbnail for the gallery of attached images."
+msgstr "De grootte van de thumbnail voor de galerij met bijgevoegde afbeeldingen."
+
+#: qc-clr-main.php:185 qc-clr-main.php:186
+msgid "Comment Spam Protection"
+msgstr "Reactie spambescherming"
+
+#: qc-clr-main.php:176 qc-clr-main.php:177 qc-clr-settings.php:195
+msgid "Email Subscription"
+msgstr "E-mail abonnering"
+
+#: qc-clr-settings.php:628
+msgid "Enable Email Subscription"
+msgstr "E-mailabonnement inschakelen"
+
+#: qc-clr-settings.php:649
+msgid "Enable Zapier"
+msgstr "Zapier inschakelen"
+
+#: qc-clr-settings.php:635
+msgid "Language ( Subscribe to our newsletter ) "
+msgstr "Taal (Schrijf je in op onze nieuwsbrief) "
+
+#: qc-clr-settings.php:642
+msgid "Enable Mailchimp :"
+msgstr "MailChimp inschakelen:"
+
+#: qc-clr-settings.php:261
+msgid "Easy"
+msgstr "Eenvoudig"
+
+#: qc-clr-settings.php:261
+msgid "Charts"
+msgstr "Grafieken"
+
+#: qc-clr-settings.php:261
+msgid "and"
+msgstr "en"
+
+#: qc-clr-settings.php:261
+msgid "Graphs"
+msgstr "Grafieken"
+
+#: qc-clr-settings.php:261
+msgid "plugin - iChart"
+msgstr "plugin - iChart"
+
+#: qc-clr-settings.php:168
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: qc-clr-settings.php:153
+msgid "Delete All Comments"
+msgstr "Alle reacties verwijderen"
+
+#: qc-clr-settings.php:161
+msgid "Delete Spam Comments"
+msgstr "Verwijder spamreacties"
+
+#: qc-clr-settings.php:258
+msgid "Increase Sales"
+msgstr "Verhoog verkopen"
+
+#: qc-clr-settings.php:258
+msgid "on Your Stores"
+msgstr "in je winkels"
+
+#: qc-clr-settings.php:259
+msgid "Shop Assistant"
+msgstr "Winkel assistent"
+
+#: qc-clr-settings.php:157
+msgid "Delete Pending Comments"
+msgstr "Verwijder reacties in de wacht"
+
+#: qc-clr-settings.php:1158
+msgid "Alex Gould"
+msgstr "Alex Gould"
+
+#: qc-clr-settings.php:251
+msgid "Business Directory"
+msgstr "Bedrijvengids"
+
+#: qc-clr-settings.php:264
+msgid "Buttons plugin"
+msgstr "Knoppen plugin"
+
+#: qc-clr-settings.php:253 qc-clr-settings.php:254
+msgid "ChatBot"
+msgstr "ChatBot"
+
+#: qc-clr-settings.php:929
+msgid "Current redirect page"
+msgstr "Huidige omleidingspagina"
+
+#: qc-clr-settings.php:370
+msgid "Custom Message for Quick comments"
+msgstr "Aangepast bericht voor snelle reacties"
+
+#: qc-clr-settings.php:1163
+msgid "D.R. Allisonin"
+msgstr "D.R. Allisonin"
+
+#: qc-clr-settings.php:200
+msgid "( Works with English language only )"
+msgstr "(Werkt alleen met de Engelse taal)"
+
+#: qc-clr-settings.php:1168
+msgid "Anonymous"
+msgstr "Anoniem"
+
+#: qc-clr-settings.php:260
+msgid "Woo Tabbed Category"
+msgstr "Categorie met Woo tabbladen"
+
+#: qc-clr-settings.php:260
+msgid "Product Listing"
+msgstr "Productvermelding"
+
+#: qc-clr-settings.php:262
+msgid "Infographic"
+msgstr "Infografiek"
+
+#: qc-clr-settings.php:262
+msgid "Maker plugin - iList"
+msgstr "Maker plugin - iList"
+
+#: qc-clr-settings.php:263
+msgid "KnowledgeBase Helpdesk"
+msgstr "Kennisbank helpdesk"
+
+#: qc-clr-settings.php:263
+msgid "Plugin with ChatBot"
+msgstr "Plugin met ChatBot"
+
+#: qc-clr-settings.php:264
+msgid "Floating Action"
+msgstr "Zwevende actie"
+
+#: qc-clr-settings.php:265
+msgid "SEO"
+msgstr "SEO"
+
+#: qc-clr-settings.php:265
+msgid "Help"
+msgstr "Hulp"
+
+#: qc-clr-settings.php:304
+msgid "Remove hyper-link from comment AUTHOR Bio"
+msgstr "Hyperlink uit reactie verwijderen AUTEUR Bio"
+
+#: qc-clr-settings.php:320
+msgid "Remove HTML Link Tags in comments"
+msgstr "Verwijder HTML-linktags in reacties"
+
+#: qc-clr-settings.php:336
+msgid "Hide Existing Comments"
+msgstr "Bestaande reacties verbergen"
+
+#: qc-clr-settings.php:344
+msgid "Open Comment Links in New Tab"
+msgstr "Open reactielinks in nieuw tabblad"
+
+#: qc-clr-settings.php:362
+msgid "Minimum Time (In Seconds) <br> <span class=\"qcld_msg\">( Set Time Interval Required Between Comments to Avoid Spamming )</span>"
+msgstr "Minimale tijd (in seconden) <br> <span class=\"qcld_msg\">( Stel het vereiste tijdsinterval tussen opmerkingen in om spam te voorkomen)</span>"
+
+#: qc-clr-settings.php:378
+msgid "Minimum Length of Character in Comments <br> <span class=\"qcld_msg\">( Avoid Low Value Comments )</span>"
+msgstr "Minimale lengte van karakter in opmerkingen <br> <span class=\"qcld_msg\">( Vermijd opmerkingen met een lage waarde)</span>"
+
+#: qc-clr-settings.php:925
+msgid "Don't redirect first time commenters"
+msgstr "Stuur mensen die voor het eerst reageren niet door"
+
+#: qc-clr-email-subscription.php:86 qc-clr-email-subscription.php:113
+#: qc-clr-settings.php:1152
+msgid "Email"
+msgstr "E-mail"
+
+#: qc-clr-settings.php:526
+msgid "Enable a button in the WP toolbar to email all the commenters on a post"
+msgstr "Schakel een knop in de WP toolbar in om alle reageerders op een bericht te e-mailen"
+
+#: qc-clr-settings.php:502
+msgid "Enable Comments Read More option"
+msgstr "Schakel de optie reacties Lees meer in"
+
+#: qc-clr-settings.php:1173
+msgid "Dave Arnold"
+msgstr "Dave Arnold"
+
+#: qc-clr-settings.php:257
+msgid "Express Shop"
+msgstr "Express Shop"
+
+#: qc-clr-settings.php:253
+msgid "for WordPress"
+msgstr "voor WordPress"
+
+#: qc-clr-settings.php:254
+msgid "for WooCommerce"
+msgstr "voor WooCommerce"
+
+#: qc-clr-settings.php:250 qc-clr-settings.php:251 qc-clr-settings.php:252
+msgid "Simple"
+msgstr "Eenvoudig"
+
+#: qc-clr-settings.php:255
+msgid "Slider Hero"
+msgstr "Slider Hero"
+
+#: qc-clr-settings.php:1145
+msgid "There are 5 unique and approved commenter email addresses for this site."
+msgstr "Er zijn 5 unieke en goedgekeurde e-mailadressen van reageerders voor deze site."
+
+#: qc-clr-settings.php:601
+msgid "Threshold by Negative Score (EX: 0.5)"
+msgstr "Drempel op negatieve score (EX: 0,5)"
+
+#: qc-clr-settings.php:609
+msgid "Threshold Message"
+msgstr "Drempelbericht"
+
+#: qc-clr-settings.php:593
+msgid "Allow Comments Threshold by Negative Score"
+msgstr "Reactiedrempel toestaan op negatieve score"
+
+#. Plugin Name of the plugin
+msgid "Comment Link Remove"
+msgstr "Comment Link Remove"
+
+#: qc-clr-settings.php:200
+msgid "Comment Sentiment Settings"
+msgstr "Reactie sentiment instellingen"
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/comment-link-remove"
+msgstr "https://wordpress.org/plugins/comment-link-remove"
+
+#. Author URI of the plugin
+msgid "https://www.quantumcloud.com/"
+msgstr "https://www.quantumcloud.com/"
+
+#: qc-clr-settings.php:250
+msgid "Link  Directory"
+msgstr "Link  Directory"
+
+#: qc-clr-settings.php:147
+msgid "Free Features"
+msgstr "Gratis functies"
+
+#: qc-clr-settings.php:1178
+msgid "Manuel Castillo"
+msgstr "Manuel Castillo"
+
+#: qc-clr-email-subscription.php:83 qc-clr-email-subscription.php:109
+#: qc-clr-settings.php:1153
+msgid "Name"
+msgstr "Naam"
+
+#: qc-clr-settings.php:459
+msgid "Notify a user when their comment is approved"
+msgstr "Een gebruiker op de hoogte stellen wanneer hun opmerking is goedgekeurd"
+
+#: qc-clr-settings.php:466
+msgid "Notify Subject"
+msgstr "Onderwerp informeren"
+
+#: qc-clr-settings.php:217
+msgid "Other Settings"
+msgstr "Andere instellingen"
+
+#: qc-clr-settings.php:213
+msgid "SEO Settings"
+msgstr "SEO instellingen"
+
+#: qc-clr-settings.php:542
+msgid "Show All Comments"
+msgstr "Toon alle reacties"
+
+#: qc-clr-settings.php:578
+msgid "Show Emotions in Comment"
+msgstr "Toon emoticons in reacties"
+
+#: qc-clr-settings.php:510
+msgid "Show Read More after (in Words)"
+msgstr "Toon Lees meer na (in woorden)"
+
+#: qc-clr-settings.php:248
+msgid "Try our other free plugins!"
+msgstr "Probeer onze andere gratis plugins!"
+
+#: qc-clr-settings.php:1154
+msgid "URL"
+msgstr "URL"
+
+#: qc-clr-settings.php:209
+msgid "User Notification"
+msgstr "Gebruikers melding"
+
+#: qc-clr-settings.php:550
+msgid "Vertical scroll in recent comments widget"
+msgstr "Verticaal scrollen in widget voor recente reacties"
+
+#: qc-clr-settings.php:252
+msgid "Video Directory"
+msgstr "Video Directory"
+
+#: qc-clr-settings.php:257 qc-clr-settings.php:259
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: qc-clr-settings.php:254
+msgid "WoowBot"
+msgstr "WoowBot"
+
+#: qc-clr-settings.php:256
+msgid "WordPress"
+msgstr "WordPress"
+
+#: qc-clr-settings.php:255
+msgid "WordPress Slider Plugin"
+msgstr "WordPress Slider Plugin"
+
+#: qc-clr-settings.php:253
+msgid "WPBot"
+msgstr "WPBot"
+
+#: qc-clr-settings.php:534
+msgid "Adds a sidebar widget to show the top commentators in your WP site"
+msgstr "Voegt een zijbalkwidget toe om de beste commentatoren op je WP site te tonen"
+
+#: qc-clr-settings.php:571
+msgid "Enable Like/Dislike"
+msgstr "Duimpje omhoog/omlaag inschakelen"
+
+#: qc-clr-settings.php:1188
+msgid "Include commenter website?"
+msgstr "Site opnemen in reactie?"
+
+#: qc-clr-settings.php:250 qc-clr-settings.php:252 qc-clr-settings.php:256
+msgid "plugin"
+msgstr "plugin"
+
+#: qc-clr-settings.php:251
+msgid "plugin with maps"
+msgstr "plugin met maps"
+
+#: qc-clr-settings.php:256
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: qc-clr-settings.php:32
+msgid "QC CLR Settings"
+msgstr "QC CLR instellingen"
+
+#. Author of the plugin
+#: qc-clr-settings.php:243
+msgid "QuantumCloud"
+msgstr "QuantumCloud"
+
+#: qc-clr-settings.php:1157
+msgid "sample1@gmail.com"
+msgstr "sample1@gmail.com"
+
+#: qc-clr-settings.php:1162
+msgid "sample2@gmail.com"
+msgstr "sample2@gmail.com"
+
+#: qc-clr-settings.php:1167
+msgid "sample3@gmail.com"
+msgstr "sample3@gmail.com"
+
+#: qc-clr-settings.php:1172
+msgid "sample4@gmail.com"
+msgstr "sample4@gmail.com"
+
+#: qc-clr-settings.php:1177
+msgid "sample5@gmail.com"
+msgstr "sample5@gmail.com"
+
+#: qc-clr-settings.php:518
+msgid "Links in the admin comments section to email individual commenters"
+msgstr "Links in de beheerder reacties om individuele reageerders te e-mailen"
+
+#: qc-clr-settings.php:394
+msgid "Maximum of Character in Comments <br> <span class=\"qcld_msg\">( Helps Avoid Spamming )</span>"
+msgstr "Maximum aantal tekens in opmerkingen <br> <span class=\"qcld_msg\">( Helpt spam te voorkomen)</span>"
+
+#: qc-clr-settings.php:1143
+msgid "List of All Commenter Email IDs"
+msgstr "Lijst met alle e-mail ID's van reageerders"
+
+#. Description of the plugin
+msgid "Remove author link and any other posted links from the comment fields."
+msgstr "Verwijder de auteurslink en alle andere geplaatste links uit de reactievelden."
+
+#: qc-clr-settings.php:51
+msgid "Commenter Emails"
+msgstr "Reageerders e-mails"
+
+#: qc-clr-settings.php:31 qc-clr-settings.php:65
+msgid "Comment Link Remove & Comment Tools"
+msgstr "Reactie link verwijderen & reactie gereedschap"
+
+#: qc-clr-settings.php:66
+msgid "Here you can manage custom settings for the Comment Link Remove plugin."
+msgstr "Hier kan je aangepaste instellingen beheren voor de plugin Comment Link Remove."
+
+#: qc-clr-settings.php:402
+msgid "Alert Message for Maximum Comments Length "
+msgstr "Waarschuwingsbericht voor maximale lengte van reacties "
+
+#: qc-clr-settings.php:423
+msgid "Set “follow” or “nofollow” to Comments Link "
+msgstr "Stel \"follow\" of \"nofollow\" in op reacties link "
+
+#: qc-clr-settings.php:439
+msgid "Add “noopener” to “rel” attribute if  Comments Link Open in New Tab  "
+msgstr "Voeg “noopener” toe aan “rel” attribuut als links in reacties openen in een nieuw tab "
+
+#: qc-clr-settings.php:431
+msgid "Add “noreferrer” to “rel” attribute if  Comments Link Open in New Tab  "
+msgstr "Voeg “noreferrer” toe aan “rel” attribuut als links in reacties openen in een nieuw tab "
+
+#: qc-clr-email-subscription.php:56 qc-clr-settings-pro.php:244
+#: qc-clr-settings.php:1144 qc-clr-settings.php:1193
+msgid "Upgrade to the Pro Version."
+msgstr "Upgrade naar de Pro versie."
+
+#: qc-clr-settings.php:1188
+msgid "Download this list of email addresses as a CSV file :"
+msgstr "Download deze lijst met e-mailadressen als CSV-bestand:"
+
+#: qc-clr-settings.php:149
+msgid "Delete comments easily:"
+msgstr "Verwijder eenvoudig reacties:"
+
+#: qc-clr-settings.php:328
+msgid "Disable Comments Globally"
+msgstr "Schakel reacties globaal uit"
+
+#: qc-clr-settings.php:386
+msgid "Alert Message for Minimum Comments Length "
+msgstr "Waarschuwingsbericht voor minimum reacties lengte "
+
+#: qc-clr-settings.php:474
+msgid "Notify Message "
+msgstr "Meldingsbericht "

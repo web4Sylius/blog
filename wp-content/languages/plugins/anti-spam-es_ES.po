@@ -1,0 +1,3379 @@
+# Translation of Plugins - Titan Anti-spam &amp; Security - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Titan Anti-spam &amp; Security - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-09-22 10:03:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Titan Anti-spam &amp; Security - Development (trunk)\n"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:552
+msgid "Enter the option name to search..."
+msgstr "Introduce el nombre de la opción a buscar..."
+
+#: admin/boot.php:115
+msgid "Maintenance, Security, Backups & Support for your WordPress Install. <a href=\"%s\" target=\"_blank\" rel=\"noopener\">Now 49$/month!</a>"
+msgstr "Mantenimiento, seguridad, copias de seguridad y soporte para tu instalación de WordPress. <a href=\"%s\" target=\"_blank\" rel=\"noopener\">¡Ahora a 49 $/mes!</a>"
+
+#: libs/factory/templates/includes/ajax-handlers.php:66
+msgid "Unknown error while trying to subscribe to newsletter."
+msgstr "Error desconocido al intentar la suscripción al boletín."
+
+#: libs/factory/templates/includes/ajax-handlers.php:41
+msgid "Group ID is empty!"
+msgstr "¡El ID del grupo está vacío!"
+
+#: libs/factory/templates/includes/ajax-handlers.php:37
+msgid "You did not send your email address or it is incorrect!"
+msgstr "¡No has enviado tu dirección de correo electrónico o es incorrecta!"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:513
+msgid "Subscribe"
+msgstr "Suscribir"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:509
+msgid "I confirm to subscribe to the CreativeMotion newsletter to receive the latest news. You can find how we use your information on our %s Privacy Policy %s"
+msgstr "Confirmo la suscripción al boletín de CreativeMotion para recibir las últimas noticias. Puedes averiguar cómo usamos esta información en nuestra %s política de privacidad %s"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:506
+msgid "Enter your email address"
+msgstr "Introduce tu dirección de correo electrónico"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:501
+msgid "Thank you for your subscription, a confirmation email has been sent to you. You need to confirm your subscription to complete this process."
+msgstr "Gracias por tu suscripción. Te ha sido enviado un correo electrónico de confirmación. Tienes que confirmar tu suscripción para completar este proceso."
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:498
+msgid "Thank you, you have successfully subscribed!"
+msgstr "¡Gracias, te has suscrito correctamente!"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:493
+msgid "Subscribe to plugin’s newsletter"
+msgstr "Suscríbete al boletín del plugin"
+
+#: admin/pages/setup/steps/class-step-setting-scan-malware.php:107
+msgid "Sorry, you are not allowed to access this page."
+msgstr "Lo siento, no tienes permiso para acceder a esta página."
+
+#: admin/pages/setup/steps/class-step-setting-scan-malware.php:92
+msgid "Not verified"
+msgstr "No verificado"
+
+#: admin/pages/setup/steps/class-step-setting-scan-malware.php:87
+msgid "Suspicious"
+msgstr "Sospechoso"
+
+#: admin/pages/setup/steps/class-step-setting-scan-malware.php:82
+msgid "Cleaned"
+msgstr "Limpiado"
+
+#: admin/pages/setup/steps/class-step-setting-scan-malware.php:66
+msgid "Titan Scanner to check your website for viruses and malicious code. After scan, you will receive a detailed report on the crawl of your site."
+msgstr "Titan Scanner comprueba tu web en busca de virus y código malicioso. Después de la exploración, recibirás un informe detallado sobre el rastreo de tu sitio."
+
+#: admin/pages/setup/steps/class-step-setting-scan-malware.php:20
+#: admin/pages/setup/steps/class-step-setting-scan-malware.php:64
+msgid "Scan Malware"
+msgstr "Explorador de malware"
+
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:24
+msgid "Tweaks are minor security fixes to your site. Enabling tweaks can prevent your site from being hacked."
+msgstr "Los retoques son pequeñas correcciones de seguridad para tu sitio. Al activar los retoques puedes evitar que tu sitio sea hackeado."
+
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:19
+msgid "Setting Tweaks"
+msgstr "Ajustes de retoques"
+
+#: admin/pages/setup/steps/class-step-default.php:36
+msgid "Yes, I want to try the wizard"
+msgstr "Sí, quiero probar el asistente"
+
+#: admin/pages/setup/steps/class-step-default.php:32
+msgid "Protect your site from external and internal threats in just 2 minutes."
+msgstr "Protege tu sitio de amenazas externas e internas en solo 2 minutos."
+
+#: admin/pages/setup/steps/class-step-default.php:27
+msgid "Welcome to"
+msgstr "Bienvenido a"
+
+#: admin/pages/setup/steps/class-step-congratulation.php:173
+msgid "Get Pro"
+msgstr "Conseguir la versión Pro"
+
+#: admin/pages/setup/steps/class-step-congratulation.php:96
+msgid "PRO"
+msgstr "PRO"
+
+#: admin/pages/setup/steps/class-step-congratulation.php:89
+msgid "Basic protection will help you avoid many security problems for your site, but to fully protect your site, we recommend that you purchase the premium version of the plugin."
+msgstr "La protección básica te ayudará a evitar muchos problemas de seguridad para tu sitio, pero para proteger tu sitio completamente, te recomendamos que compres la versión premium del plugin."
+
+#: admin/pages/setup/steps/class-step-congratulation.php:81
+msgid "You have successfully completed the basic plugin setup! You can go to the general plugin settings to enable other options that we did not offer you. Your site is 60% secure."
+msgstr "¡Has completado la configuración básica del plugin correctamente! Puedes ir a los ajustes generales del plugin para activar otras opciones que no te ofrecimos. Tu sitio está 60% seguro."
+
+#: admin/pages/setup/steps/class-step-congratulation.php:72
+msgid "5% Use Site Checker"
+msgstr "5% Usar el comprobador del sitio"
+
+#: admin/pages/setup/steps/class-step-congratulation.php:71
+msgid "10% Use Malware scanner PRO"
+msgstr "10% Usar el explorador de malware PRO"
+
+#: admin/pages/setup/steps/class-step-congratulation.php:70
+msgid "10% Use WordPress Security Scanner PRO"
+msgstr "10% Usar el explorador de seguridad PRO para WordPress "
+
+#: admin/pages/setup/steps/class-step-congratulation.php:69
+msgid "15% Use the Titan Firewall"
+msgstr "15% Usar el cortafuegos Titan"
+
+#: admin/pages/setup/steps/class-step-congratulation.php:41
+msgid "Congratulations, the plugin configuration is complete!"
+msgstr "¡Felicitaciones, la configuración del plugin se ha completado!"
+
+#: admin/pages/setup/steps/class-step-plugins.php:34
+msgid "Security score"
+msgstr "Puntuación de seguridad"
+
+#: admin/pages/setup/steps/class-step-plugins.php:33
+msgid "Plugin"
+msgstr "Plugin"
+
+#: admin/pages/setup/steps/class-step-plugins.php:28
+msgid ""
+"We analyzed your site and decided that in order to get the maximum result in\n"
+"\t\t\t\toptimizing your site, you will need to install additional plugins."
+msgstr ""
+"Analizamos tu sitio y decidimos que para obtener el máximo resultado en\n"
+"\t\t\t\tla optimización de tu sitio, deberás instalar plugins adicionales."
+
+#: admin/pages/setup/steps/class-step-plugins.php:27
+msgid "Installing plugins"
+msgstr "Instalando plugins"
+
+#: admin/pages/setup/steps/class-step-setting-antispam.php:24
+msgid "The antispam module protects comment forms on your site from spam attacks. We recommend enabling protection if you do not use other antispam plugins and use comments in your articles."
+msgstr "El módulo antispam protege los formularios de comentarios en tu sitio de los ataques de spam. Recomendamos activar la protección si no usas otros plugins antispam y utilizas comentarios en tus artículos."
+
+#: admin/pages/setup/steps/class-step-setting-antispam.php:19
+msgid "Setting Antispam"
+msgstr "Ajustes antispam"
+
+#: admin/pages/setup/steps/class-step-security-audit.php:84
+msgid ""
+"We will audit your site for potential threats, vulnerabilities and security issues. Please see the list\n"
+"\t\t\t\tof issues below:"
+msgstr ""
+"Auditaremos tu sitio para detectar posibles amenazas, vulnerabilidades y problemas de seguridad. Por favor, consulta la lista\n"
+"\t\t\t\tde problemas a continuación:"
+
+#: admin/pages/setup/steps/class-step-security-audit.php:82
+msgid "Issues"
+msgstr "Problemas"
+
+#: admin/pages/setup/steps/class-step-security-audit.php:19
+#: admin/pages/setup/steps/class-step-security-audit.php:82
+msgid "Security Audit"
+msgstr "Auditoría de seguridad"
+
+#: includes/audit/views/all-audit.php:48 includes/audit/views/all-audit.php:51
+msgid "Fix it"
+msgstr "Corregirlo"
+
+#: libs/factory/templates/pages/class-page-setup.php:179
+msgid "Not now"
+msgstr "Ahora no"
+
+#: libs/factory/templates/pages/class-page-setup.php:84
+msgid "Setup"
+msgstr "Configuración"
+
+#: libs/factory/templates/pages/class-page-setup.php:77
+#: libs/factory/templates/pages/class-page-setup.php:78
+msgid "Setup master"
+msgstr "Configuración maestra"
+
+#: libs/factory/templates/pages/setup-parts/class-step-custom.php:35
+msgid "Skip"
+msgstr "Omitir"
+
+#: admin/pages/setup/steps/class-step-congratulation.php:18
+#: libs/factory/templates/pages/setup-parts/class-step-custom.php:24
+msgid "Finish"
+msgstr "Finalizar"
+
+#: libs/factory/templates/pages/setup-parts/class-step-custom.php:21
+#: libs/factory/templates/pages/setup-parts/class-step-form.php:93
+msgid "Continue"
+msgstr "Continuar"
+
+#: libs/factory/core/ajax/install-addons.php:199
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "No ha sido posible conectar al sistema de archivos. Por favor, confirma tus credenciales."
+
+#: libs/factory/core/ajax/install-addons.php:154
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Lo siento, no tienes permisos para instalar plugins en este sitio."
+
+#: libs/factory/core/ajax/install-addons.php:144
+msgid "No plugin specified."
+msgstr "No se ha especificado ningún plugin."
+
+#: admin/pages/class-page-two-factor.php:47
+msgid "Two-factor authentication"
+msgstr "Identificación de dos factores"
+
+#: admin/pages/class-page-two-factor.php:46
+msgid "Two-factor"
+msgstr "Dos factores"
+
+#: admin/pages/class-page-backup.php:54
+msgid "Manage backups"
+msgstr "Gestiona las copias de seguridad"
+
+#: admin/pages/class-page-backup.php:53
+msgid "Backup"
+msgstr "Copia de seguridad"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:97
+msgid "Webcraftic Hide Login Page"
+msgstr "Webcraftic Hide Login Page"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:65
+msgid "Login security"
+msgstr "Seguridad en el acceso"
+
+#: libs/hide-login-page/hide-login-page.php:45
+msgid "Webcraftic Hide login page"
+msgstr "Webcraftic Hide login page"
+
+#: views/backup.php:111
+msgid "Current storage"
+msgstr "Almacenamiento actual"
+
+#: views/backup.php:110
+msgid "Size"
+msgstr "Tamaño"
+
+#: views/backup.php:109
+msgid "Backup date"
+msgstr "Fecha de la copia de seguridad"
+
+#: views/backup.php:99
+msgid "Create new backup"
+msgstr "Crear una nueva copia de seguridad"
+
+#: views/backup.php:98
+msgid "Starting..."
+msgstr "Empezando..."
+
+#: views/backup.php:88
+msgid "Dropbox"
+msgstr "DropBox"
+
+#: views/backup.php:83
+msgid "FTP"
+msgstr "FTP"
+
+#: views/backup.php:78
+msgid "Local"
+msgstr "Local"
+
+#: views/backup.php:74
+msgid "Storage:"
+msgstr "Almacenamiento:"
+
+#: views/backup.php:63
+msgid "files per minute"
+msgstr "archivos por minuto"
+
+#: views/backup.php:61
+msgid "Custom speed:"
+msgstr "Velocidad personalizada:"
+
+#: views/backup.php:48
+msgid "Archiving speed:"
+msgstr "Velocidad de archivo:"
+
+#: views/backup.php:39
+msgid "Remove old archives (older than 7 days)"
+msgstr "Eliminar los archivos antiguos (de más de 7 días)"
+
+#: views/backup.php:30
+msgid "Everyday"
+msgstr "Todos los días"
+
+#: views/backup.php:25
+msgid "Every 8 hours"
+msgstr "Cada 8 horas"
+
+#: views/backup.php:20
+msgid "Every 2 hours"
+msgstr "Cada 2 horas"
+
+#: views/backup.php:15
+msgid "Manually"
+msgstr "Manualmente"
+
+#: views/backup.php:11
+msgid "Schedule:"
+msgstr "Programación:"
+
+#: views/two-factor.php:125
+msgid "Enabling..."
+msgstr "Activando..."
+
+#: views/two-factor.php:120
+msgid "No"
+msgstr "No"
+
+#: views/backup.php:112 views/two-factor.php:113
+msgid "Actions"
+msgstr "Acciones"
+
+#: views/two-factor.php:112
+msgid "Two-Factor Enabled?"
+msgstr "¿Activar el doble factor?"
+
+#: views/two-factor.php:111
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: views/two-factor.php:103
+msgid "Users"
+msgstr "Usuarios"
+
+#: views/two-factor.php:85
+msgid "Send auth code"
+msgstr "Enviar el código de identificación"
+
+#: views/two-factor.php:84
+msgid "Sending..."
+msgstr "Enviando..."
+
+#: views/two-factor.php:71
+msgid "Refresh"
+msgstr "Recargar"
+
+#: views/two-factor.php:69
+msgid "Updating..."
+msgstr "Actualizando..."
+
+#: views/two-factor.php:63
+msgid "2FA activation"
+msgstr "Activación de 2FA"
+
+#: views/two-factor.php:47
+msgid "Enter the 6-digit token generated by the app and enable TOTP protection"
+msgstr "Introduce el token de 6 dígitos generado por la aplicación y activa la protección TOTP"
+
+#: views/two-factor.php:44
+msgid "Enter token"
+msgstr "Introducir el token"
+
+#: views/two-factor.php:38 views/two-factor.php:78
+msgid "Please, scan the following QR code with your app"
+msgstr "Por favor, escanea el siguiente código QR con tu aplicación"
+
+#: views/two-factor.php:35 views/two-factor.php:76
+msgid "Scan QR code"
+msgstr "Escanear código QR"
+
+#: views/two-factor.php:21
+msgid "Download 2FA Auth app to your smartphone to start using tokens"
+msgstr "Descarga la aplicación de identificación 2FA en tu móvil para empezar a usar tokens"
+
+#: views/two-factor.php:18
+msgid "Get the App"
+msgstr "Obtener la aplicación"
+
+#: views/two-factor.php:17 views/two-factor.php:34 views/two-factor.php:43
+msgid "Step %d"
+msgstr "Paso %d"
+
+#: admin/pages/class-pages-license.php:103
+msgid "Titan Anti-spam & Security [%s]"
+msgstr "Titan Anti-spam & Security [%s]"
+
+#: admin/pages/class-pages-components-license.php:182
+msgid "Activate Premium License"
+msgstr "Activa la licencia premium"
+
+#: admin/pages/class-pages-components-license.php:180
+msgid "License details"
+msgstr "Detalles de la licencia"
+
+#: admin/pages/class-pages-components-license.php:167
+msgid "days remained"
+msgstr "días restantes"
+
+#: admin/pages/class-pages-components-license.php:166
+msgid "Expired"
+msgstr "Caducada"
+
+#: admin/pages/class-pages-components-license.php:160
+msgid "Type"
+msgstr "Tipo"
+
+#: admin/pages/class-pages-components-license.php:154
+msgid "Plan"
+msgstr "Plan"
+
+#: admin/pages/class-pages-components-license.php:148
+msgid "License key"
+msgstr "Clave de licencia"
+
+#: admin/pages/class-pages-components-license.php:115
+msgid "<strong>Products activation</strong>."
+msgstr "<strong>Activación de productos</strong>."
+
+#: admin/pages/class-pages-components-license.php:71
+msgid "Titan Premium Components"
+msgstr "Componentes premium de Titan"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:550
+msgid "Can't find the settings you need? Use the search by the plugin options:"
+msgstr "¿No puedes encontrar los ajustes que necesitas? Usa el buscador de opciones del plugin:"
+
+#: views/dashboard.php:247
+msgid "Digest"
+msgstr "Resumen"
+
+#: admin/pages/class-pages-dashboard.php:361
+msgid "Reload the page and try again"
+msgstr "Vuelve a cargar la página e inténtalo de nuevo"
+
+#: admin/pages/class-pages-plugin-settings.php:284 views/dashboard.php:262
+msgid "You can get a weekly digest on threats found"
+msgstr "Puedes obtener un resumen semanal de las amenazas encontradas"
+
+#: admin/pages/class-pages-plugin-settings.php:283
+msgid "Digest on E-mail"
+msgstr "Resumen en el correo electrónico"
+
+#: admin/pages/class-pages-plugin-settings.php:280 views/dashboard.php:257
+msgid "Disable"
+msgstr "Desactivar"
+
+#: admin/pages/class-pages-plugin-settings.php:276 views/dashboard.php:252
+#: views/two-factor.php:126
+msgid "Enable"
+msgstr "Activar"
+
+#: views/dashboard.php:120
+msgid "Spam blocked in the last 7 days: "
+msgstr "Spam bloqueado en los últimos 7 días: "
+
+#: admin/pages/class-pages-components-license.php:117
+#: libs/factory/templates/pages/class-pages-components.php:178
+#: views/components.php:16
+msgid "These are components of the plugin bundle. When you activate the plugin, all the components turned on by default. If you don’t need some function, you can easily turn it off on this page."
+msgstr "Estos son los componentes del paquete del plugin. Cuando activas el plugin, todos los componentes se activan por defecto. Si no necesitas alguna función, puedes desactivarla fácilmente en esta página."
+
+#: libs/factory/templates/pages/class-pages-components.php:176
+#: views/components.php:14
+msgid "<strong>Plugin Components</strong>."
+msgstr "<strong>Componentes del plugin</strong>."
+
+#: admin/pages/class-pages-components.php:189
+msgid "Hide Login Page is a very light plugin that lets you easily and safely change the url of the login form page to anything you want. The settings are located in the Tweaks tab."
+msgstr "Hide Login Page es un plugin muy ligero que te permite cambiar, fácil y de forma segura, la URL de la página del formulario de acceso a la que quieras. Los ajustes están ubicados en la pestaña «Ajustes»."
+
+#: admin/pages/class-pages-components.php:127
+#: libs/factory/templates/pages/class-pages-components.php:111
+msgid "An unknown error occurred while updating plugin components. Please contact the plugin support team to resolve this issue."
+msgstr "Ha ocurrido un error desconocido al actualizar los componentes del plugin. Por favor, contacta con el equipo de soporte del plugin para resolver este problema."
+
+#: admin/pages/class-pages-components.php:119
+#: libs/factory/templates/pages/class-pages-components.php:103
+msgid "To use premium components, you need activate a license!"
+msgstr "¡Para usar los componentes premium, tienes que activar una licencia!"
+
+#: admin/pages/class-pages-components.php:111
+#: libs/factory/templates/pages/class-pages-components.php:95
+msgid "Components have been successfully updated to the latest version."
+msgstr "Los componentes han sido actualizados correctamente a la última versión."
+
+#: admin/pages/class-pages-components.php:64
+#: libs/factory/templates/pages/class-pages-components.php:49
+msgid "More features for plugin"
+msgstr "Más características para el plugin"
+
+#: admin/pages/class-pages-components.php:63
+#: libs/factory/templates/pages/class-pages-components.php:48
+msgid "Components"
+msgstr "Componentes"
+
+#: admin/includes/classes/class.install-plugins-button.php:323
+#: libs/factory/core/includes/components/class-install-component-button.php:429
+#: libs/factory/templates/pages/class-pages-components.php:232
+#: views/components.php:71
+msgid "Read more"
+msgstr "Leer más"
+
+#: admin/includes/classes/class.install-plugins-button.php:322
+#: libs/factory/core/includes/components/class-install-component-button.php:428
+msgid "Preparation..."
+msgstr "Preparación..."
+
+#: admin/includes/classes/class.install-plugins-button.php:321
+#: libs/factory/core/includes/components/class-install-component-button.php:427
+msgid "Please wait..."
+msgstr "Por favor, espera..."
+
+#: admin/includes/classes/class.install-plugins-button.php:320
+#: libs/factory/core/includes/components/class-install-component-button.php:426
+msgid "Delete"
+msgstr "Borrar"
+
+#: admin/includes/classes/class.install-plugins-button.php:319
+#: libs/factory/core/includes/components/class-install-component-button.php:425
+msgid "Deactivate"
+msgstr "Desactivar"
+
+#: admin/includes/classes/class.install-plugins-button.php:318
+#: libs/factory/core/includes/components/class-install-component-button.php:424
+msgid "Install"
+msgstr "Instalar"
+
+#: admin/includes/classes/class.install-plugins-button.php:317
+#: libs/factory/core/includes/components/class-install-component-button.php:423
+msgid "Activate"
+msgstr "Activar"
+
+#: admin/ajax/install-addons.php:112
+#: libs/factory/core/ajax/install-addons.php:116
+msgid "Required attribute [component_name] is empty."
+msgstr "Está vacío el atributo necesario `[component_name]`."
+
+#: admin/ajax/install-addons.php:92
+#: libs/factory/core/ajax/install-addons.php:97
+msgid "An unknown error occurred during the activation of the component."
+msgstr "Ha ocurrido un error desconocido durante la activación del componente."
+
+#: admin/ajax/install-addons.php:46
+#: libs/factory/core/ajax/install-addons.php:47
+msgid "You are trying to perform an invalid action."
+msgstr "Estás intentando realizar una acción no válida."
+
+#: admin/ajax/install-addons.php:30
+#: libs/factory/core/ajax/install-addons.php:31
+msgid "Required attributes are not passed or empty."
+msgstr "No se han pasado los atributos necesarios o están vacíos."
+
+#: admin/ajax/install-addons.php:26
+#: libs/factory/core/ajax/install-addons.php:27
+msgid "Something went wrong."
+msgstr "Algo ha ido mal."
+
+#: admin/class-page-titan-basic.php:106
+msgid "Help the author, leave a review on wordpress.org. Thanks to feedback, we will know that the plugin is really useful to you and is needed."
+msgstr "Ayuda al autor, deja una reseña en wordpress.org. Gracias a los comentarios, sabré que el plugin te es útil realmente y que es necesario."
+
+#: admin/pages/class-pages-check.php:196
+msgid "Yes, confirm"
+msgstr "Sí, confirmar"
+
+#: admin/pages/class-pages-check.php:189
+msgid "Attention! The prefix for the names of all tables in your database will be changed. Please backup the database and wp-config.php file. If an error occurs when changing the database prefix, you can restore data from backup by replacing the wp-config.php file and restoring the database backup manually."
+msgstr "¡Atención! Se va a cambiar el prefijo de los nombres de todas las tablas en tu base de datos. Por favor, haz una copia de seguridad de la base de datos y del archivo wp-config.php. Si ocurre algún error mientras se cambia el prefijo, podrás recuperar los datos desde la copia de seguridad reemplazando el archivo wp-config.php y la base de datos manualmente."
+
+#: admin/pages/class-pages-check.php:188
+msgid "Are you sure you want to change the database prefix?"
+msgstr "¿Estás seguro de que quieres cambiar el prefijo de la base de datos?"
+
+#: admin/pages/class-pages-check.php:180 admin/pages/class-pages-check.php:223
+#: admin/pages/class-pages-check.php:279
+msgid "You are not have permission for this action!"
+msgstr "¡No tienes permiso para realizar esta acción!"
+
+#: admin/pages/class-pages-check.php:130
+msgid "The database prefix cannot be changed because the wp-config.php file is not writable."
+msgstr "No se puede cambiar el prefijo de la base de datos porque el archivo wp-config.php no tiene permisos de escritura."
+
+#: admin/pages/class-pages-check.php:120
+msgid "Prefix cannot be empty!"
+msgstr "¡El prefijo no puede estar vacío!"
+
+#: admin/pages/class-pages-check.php:110
+msgid "Database prefix has been changed!"
+msgstr "¡Se ha cambiado el prefijo de la base de datos!"
+
+#: admin/pages/class-pages-check.php:83
+msgid "Security audit and vulnerability detection"
+msgstr "Auditoría de seguridad y detección de vulnerabilidades"
+
+#: admin/pages/class-pages-check.php:82
+msgid "Audit"
+msgstr "Auditar"
+
+#: admin/pages/class-pages-plugin-settings.php:371
+msgid "Settings are not defined or do not exist."
+msgstr "Los ajustes no están definidos o no existen."
+
+#: admin/pages/class-pages-plugin-settings.php:320
+msgid "Import options"
+msgstr "Opciones de importación"
+
+#: admin/pages/class-pages-plugin-settings.php:317
+msgid "Import/Export settings"
+msgstr "Ajustes de importación/exportación"
+
+#: admin/pages/class-pages-plugin-settings.php:290
+msgid "Import/Export"
+msgstr "Importar/Exportar"
+
+#: admin/pages/class-pages-plugin-settings.php:263
+msgid "Date and time of the custom scan schedule"
+msgstr "Hora y fecha para la exploración programada personalizada"
+
+#: admin/pages/class-pages-plugin-settings.php:261
+msgid "Date and time for the Custom schedule"
+msgstr "Hora y fecha para la programación personalizada"
+
+#: admin/pages/class-pages-plugin-settings.php:246
+#: admin/pages/class-pages-plugin-settings.php:248
+msgid "Time for the weekly scan"
+msgstr "Hora para la exploración semanal"
+
+#: admin/pages/class-pages-plugin-settings.php:238
+msgid "Day of the week for the weekly scan"
+msgstr "Día de la semana para la exploración semanal"
+
+#: admin/pages/class-pages-plugin-settings.php:236
+msgid "Day for the weekly scan"
+msgstr "Dia para la exploración semanal"
+
+#: admin/pages/class-pages-plugin-settings.php:213
+msgid "What time should start scanning"
+msgstr "Hora a la que empezar a examinar"
+
+#: admin/pages/class-pages-plugin-settings.php:211
+msgid "Time for the daily scan"
+msgstr "Hora para la exploración diaria"
+
+#: admin/pages/class-pages-plugin-settings.php:192
+msgid "Schedule scan"
+msgstr "Programar exploración"
+
+#: admin/pages/class-pages-plugin-settings.php:159
+msgid "Recommended speed: "
+msgstr "Velocidad recomendada: "
+
+#: admin/pages/class-pages-plugin-settings.php:159
+#: admin/pages/class-pages-plugin-settings.php:194
+msgid "The speed of scanning affects the resources consumed"
+msgstr "La velocidad de la exploración afecta a los recursos consumidos"
+
+#: admin/pages/class-pages-plugin-settings.php:147
+msgid "Advanced scan"
+msgstr "Exploración avanzada"
+
+#: admin/pages/class-pages-plugin-settings.php:146
+msgid "Basic scan"
+msgstr "Exploración básica"
+
+#: admin/pages/class-pages-plugin-settings.php:144
+msgid "Advanced scanning includes a full set of signatures"
+msgstr "La exploración avanzada incluye un set completo de firmas"
+
+#: admin/pages/class-pages-plugin-settings.php:144
+msgid "The basic scan includes fewer signatures"
+msgstr "La exploración básica incluye menos firmas"
+
+#: admin/pages/class-pages-plugin-settings.php:142
+msgid "Scanning type"
+msgstr "Tipo de exploración"
+
+#: admin/pages/class-pages-plugin-settings.php:128
+msgid "Antivirus settings"
+msgstr "Ajustes del antivirus"
+
+#: admin/pages/class-pages-plugin-settings.php:122
+msgid "When the plugin is deleted from the Plugins menu, also delete all plugin settings."
+msgstr "Eliminar también todos los ajustes del plugin cuando el plugin sea eliminado del menú de plugins."
+
+#: admin/pages/class-pages-plugin-settings.php:120
+msgid "Complete Uninstall"
+msgstr "Desinstalación completa"
+
+#: admin/pages/class-pages-plugin-settings.php:112
+msgid "This setting allows you to enable/disable the additional menu of the plugin, in the admin bar."
+msgstr "Este ajuste te permite activar/desactivar el menú adicional del plugin, en la barra de administración."
+
+#: admin/pages/class-pages-plugin-settings.php:110
+msgid "Plugin menu in adminbar"
+msgstr "Menú del plugin en la barra de administración"
+
+#: admin/pages/class-pages-plugin-settings.php:103
+#: admin/pages/class-pages-plugin-settings.php:128
+#: admin/pages/class-pages-plugin-settings.php:290
+msgid "This group of settings allows you to configure the work of the plugin."
+msgstr "Este grupo de ajustes te permiten configurar el funcionamiento del plugin."
+
+#: admin/pages/class-pages-plugin-settings.php:103
+msgid "Advanced settings"
+msgstr "Ajustes avanzados"
+
+#: admin/pages/class-pages-plugin-settings.php:84
+msgid "During the setup, an unknown error occurred, please try again or contact the plugin support."
+msgstr "Si ocurre algún error durante la instalación, prueba a intentarlo de nuevo o contacta al soporte del plugin."
+
+#: admin/pages/class-pages-plugin-settings.php:83
+msgid "Settings successfully updated!"
+msgstr "¡Ajustes actualizados correctamente!"
+
+#: admin/pages/class-pages-plugin-settings.php:53
+msgid "Global plugin settings"
+msgstr "Ajustes globales del plugin"
+
+#: admin/pages/class-pages-tweaks.php:285
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:132
+msgid "<b>Use this option carefully!</b><br> Plugins like jetpack may have problems using this option."
+msgstr "<b>¡Usa esta opción con cuidado!</b><br> Los plugins como Jetpack pueden tener problemas con esta opción."
+
+#: admin/pages/class-pages-tweaks.php:262
+msgid "Example"
+msgstr "Ejemplo"
+
+#: admin/pages/class-pages-tweaks.php:262
+msgid "Enter Stylesheet/Script file names to exclude from version removal (each exclude file starts with a new line)"
+msgstr "Introduce los nombres de las hojas de estilo/scrips a excluir de la eliminación de la versión (cada archivo a excluir en una nueva línea)"
+
+#: admin/pages/class-pages-tweaks.php:260
+msgid "Exclude stylesheet/script file names"
+msgstr "Nombres de las hojas de estilos/scripts excluidos"
+
+#: admin/pages/class-pages-tweaks.php:237
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:109
+msgid "Removes the wordpress version number from stylesheets (not logged in user only)."
+msgstr "Quita el número de versión de WordPress de las hojas de estilos (solo usuarios no conectados)."
+
+#: admin/pages/class-pages-tweaks.php:234
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:106
+msgid "Remove Version from Stylesheet"
+msgstr "Quitar versión de las hojas de estilos"
+
+#: admin/pages/class-pages-tweaks.php:226
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:98
+msgid "Removes wordpress version number from scripts (not logged in user only)."
+msgstr "Quita el número de versión de WordPress de los scripts (solo usuarios no conectados)."
+
+#: admin/pages/class-pages-tweaks.php:225
+#: admin/pages/class-pages-tweaks.php:236
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:97
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:108
+msgid ""
+"To make it more difficult for others to hack your website you can remove the WordPress version number from your site, your css and js. Without that number it's not possible to see if you run not the current version to exploit bugs from the older versions. <br><br>\n"
+"\t\t\t\t\tAdditionally it can improve the loading speed of your site, because without query strings in the URL the css and js files can be cached."
+msgstr ""
+"Para hacer más difícil que otros puedan hackear tu web, puedes eliminar de tu sitio el número de la versión de WordPress, de tu CSS y de tu JS. Sin ese número, no es posible ver si no ejecutas la versión actual para explotar los fallos de versiones anteriores.<br><br>\n"
+"\t\t\t\t\tAdemás, puede mejorar la velocidad de carga de tu sitio, ya que, sin las cadenas de consulta en la URL, pueden ser almacenados en la caché los archivos CSS y JS."
+
+#: admin/pages/class-pages-tweaks.php:223
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:95
+msgid "Remove Version from Script"
+msgstr "Quitar versión de los scripts"
+
+#: admin/pages/class-pages-tweaks.php:210
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:87
+msgid "Removes the meta tag from the %s section"
+msgstr "Quita la etiqueta meta de la sección %s"
+
+#: admin/pages/class-pages-tweaks.php:210
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:87
+msgid "Allows attacker to learn the version of WP installed on the site. This meta tag has no useful function."
+msgstr "Permite al atacante saber la versión de WP instalada en el sitio. Esta etiqueta meta no tiene ninguna función útil."
+
+#: admin/pages/class-pages-tweaks.php:208
+#: admin/pages/class-pages-tweaks.php:223
+#: admin/pages/class-pages-tweaks.php:234
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: admin/pages/class-pages-tweaks.php:208
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:85
+msgid "Remove meta generator"
+msgstr "Quita el generador meta"
+
+#: admin/pages/class-pages-tweaks.php:200
+msgid "Remove html comments in source code."
+msgstr "Quita los comentarios html del código fuente."
+
+#: admin/pages/class-pages-tweaks.php:200
+msgid "This function will remove all html comments in the source code, except for special and hidden comments. This is necessary to hide the version of installed plugins."
+msgstr "Esta función quitará todos los comentarios html del código fuente, excepto los especiales y ocultos. Esto es necesario para ocultar la versión de los plugins instalados."
+
+#: admin/pages/class-pages-tweaks.php:198
+msgid "Remove html comments"
+msgstr "Quitar los comentarios html"
+
+#: admin/pages/class-pages-tweaks.php:191
+msgid "WordPress itself and many plugins shows their version at the public areas of your site. An attacker received this information may be aware of the vulnerabilities found in the version of the WordPress core or plugins."
+msgstr "WordPress y muchos plugins muestran su versión en áreas públicas de tu sitio. Con esta información, un atacante puede tener en cuenta las vulnerabilidades encontradas en la versión del núcleo de WordPress o de los plugins."
+
+#: admin/pages/class-pages-tweaks.php:191
+msgid "<strong>Hide WordPress versions</strong>"
+msgstr "<strong>Ocultar versiones de WordPress</strong>"
+
+#: admin/pages/class-pages-tweaks.php:170
+msgid "Removes the server responses a reference to the xmlrpc file."
+msgstr "Elimina de las respuestas del servidor la referencia al archivo XML-RPC."
+
+#: admin/pages/class-pages-tweaks.php:170
+msgid "A pingback is basically an automated comment that gets created when another blog links to you. A self-pingback is created when you link to an article within your own blog. Pingbacks are essentially nothing more than spam and simply waste resources."
+msgstr "Un pingback es básicamente un comentario automático que se crea cuando otro blog enlaza hacia ti. Un self-pingback es creado cuando enlazas a un artículo de tu propio blog. Los pingbacks no son más que spam y simplemente malgastan recursos."
+
+#: admin/pages/class-pages-tweaks.php:168
+msgid "Disable XML-RPC"
+msgstr "Desactivar XML-RPC"
+
+#: admin/pages/class-pages-tweaks.php:160
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:77
+msgid "Changes in the text of the error so that attackers could not find the login."
+msgstr "Cambios en el texto del error para que los atacantes no puedan encontrar el acceso."
+
+#: admin/pages/class-pages-tweaks.php:160
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:77
+msgid "WP by default shows whether you entered a wrong login or incorrect password, which allows attackers to understand if there is a certain user on the site, and then start searching through the passwords."
+msgstr "Por defecto WP muestra si has introducido un usuario o contraseña incorrecto, lo que ayuda a los atacantes a entender si hay cierto usuario en el sitio, para comenzar a buscar la contraseña."
+
+#: admin/pages/class-pages-tweaks.php:158
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:75
+msgid "Hide errors when logging into the site"
+msgstr "Esconder errores de acceso al sitio"
+
+#: admin/pages/class-pages-tweaks.php:150
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:67
+msgid "An attacker can find out the author's login, using a similar request to get your site. mysite.com/?author=1"
+msgstr "Un atacante puede averiguar el acceso del autor usando una petición similar para acceder a tu sitio: mi-sitio.com/?author=1"
+
+#: admin/pages/class-pages-tweaks.php:148
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:65
+msgid "Hide author login"
+msgstr "Ocultar el acceso del autor"
+
+#: admin/pages/class-pages-tweaks.php:136
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:57
+msgid "Minimum role at which a user must choose a strong password. For more information on WordPress roles and capabilities please see http://codex.wordpress.org/Roles_and_Capabilities. Warning: If your site invites public registrations setting the role too low may annoy your members."
+msgstr "Perfil mínimo en el que un usuario debe elegir una contraseña fuerte. Para más información sobre los perfiles y capacidades de WordPress, consulta https://es.wordpress.org/support/article/roles-and-capabilities/. Advertencia: Si tu sitio invita al público a registrarse, establecer un perfil demasiado bajo puede molestar a tus miembros."
+
+#: admin/pages/class-pages-tweaks.php:127
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:48
+msgid "Strong Password Minimum Role"
+msgstr "Perfil mínimo para contraseña fuerte"
+
+#: admin/pages/class-pages-tweaks.php:114
+#: admin/pages/class-pages-tweaks.php:150
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:35
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:67
+msgid "Sets the redirect to exclude the possibility of obtaining a login."
+msgstr "Establece la redirección para excluir la posibilidad de obtener un acceso."
+
+#: admin/pages/class-pages-tweaks.php:112
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:33
+msgid "Strong Password Requirement"
+msgstr "Requisito de contraseña fuerte"
+
+#: admin/pages/class-pages-tweaks.php:105
+msgid "<strong>Base settings</strong>."
+msgstr "<strong>Ajustes básicos</strong>."
+
+#: admin/pages/class-pages-tweaks.php:55
+msgid "Security tweaks"
+msgstr "Retoques de seguridad"
+
+#: admin/pages/class-pages-tweaks.php:54
+msgid "Tweaks"
+msgstr "Retoques"
+
+#: admin/pages/class-pages-scanner.php:67
+msgid "Checking site for viruses"
+msgstr "Comprobando el sitio en busca de virus"
+
+#: admin/pages/class-pages-license.php:290
+msgid "We use certain personal data, such as your email address. By activating the license, you confirm that you have read the <a href=\"https://titansitescanner.com/terms-of-use/\">Terms of Service</a> and <a href=\"https://titansitescanner.com/privacy/\">Privacy Policy (in accordance with GDPR)</a>"
+msgstr "Usamos ciertos datos personales, como tu dirección de correo electrónico. Si activas la licencia, confirmas que has leído los <a href=\"https://titansitescanner.com/terms-of-use/\">términos de servicio</a> y la <a href=\"https://titansitescanner.com/privacy/\">política de privacidad (según el RGPD)</a>"
+
+#. Plugin Name of the plugin
+#: admin/class-page-titan-basic.php:51 admin/pages/class-pages-license.php:123
+#: libs/hide-login-page/admin/pages/hide-login.php:95
+msgid "Titan Anti-spam & Security"
+msgstr "Titan Anti-spam & Security"
+
+#: admin/pages/class-pages-license.php:70
+msgid "Titan security Pro"
+msgstr "Titan security Pro"
+
+#: admin/pages/class-pages-sitechecker.php:111
+msgid "ServiceWorker not supported. Your site must work on HTTPS"
+msgstr "ServiceWorker no es compatible. Tu sitio debe funcionar con HTTPS"
+
+#: admin/pages/class-pages-sitechecker.php:110
+msgid "Your browser does not support notifications"
+msgstr "Su navegador no soporta notificaciones"
+
+#: admin/pages/class-pages-sitechecker.php:109
+msgid "Your site must work on HTTPS to subscribe to notifications"
+msgstr "Tu sitio debe funcionar con HTTPS para que puedas suscribirte a las notificaciones"
+
+#: admin/pages/class-pages-sitechecker.php:75
+msgid "Checking sites for availability"
+msgstr "Comprobando los sitios para disponibilidad"
+
+#: admin/pages/class-pages-sitechecker.php:74
+msgid "Site Checker"
+msgstr "Verificador de sitios"
+
+#: admin/pages/class-pages-antispam.php:193
+msgid "In order to protect your comment forms, you need to make it difficult or impossible for an automated tool to fill in or submit the form while keeping it as easy as possible for your customers to fill out the form."
+msgstr "Para proteger tus formularios de comentarios, tienes que hacer difícil o imposible que una herramienta automatizada rellene o envíe el formulario y, al mismo tiempo, mantenerlo lo más sencillo posible para que tus clientes rellenen el formulario."
+
+#: admin/pages/class-pages-antispam.php:146
+#: admin/pages/setup/steps/class-step-setting-antispam.php:35
+msgid "Enable or disable anti-spam for all site."
+msgstr "Activar o desactivar anti-spam para todo el sitio."
+
+#: admin/pages/class-pages-antispam.php:144
+#: admin/pages/setup/steps/class-step-setting-antispam.php:33
+msgid "Anti-spam mode"
+msgstr "Modo anti-spam"
+
+#: admin/pages/class-pages-antispam.php:94
+msgid "Detected and stoped spam"
+msgstr "Spam detectado y detenido"
+
+#: admin/pages/class-pages-logs.php:88
+msgid "In this section, you can track errors. Sending this log to us, will help in solving possible issues."
+msgstr "En esta sección, puedes rastrear errores. Enviarnos este registro nos ayudará a resolver posibles problemas."
+
+#: admin/pages/class-pages-dashboard.php:402
+msgid "Scanner schedule is not selected"
+msgstr "No has seleccionado el horario de la exploración"
+
+#: admin/pages/class-pages-dashboard.php:398
+msgid "Scanner schedule successfully changed"
+msgstr "Has cambiado correctamente el horario de la exploración"
+
+#: admin/pages/class-pages-dashboard.php:348
+msgid "Scanner speed is not selected"
+msgstr "No has seleccionado la velocidad de la exploración"
+
+#: admin/pages/class-pages-dashboard.php:344
+msgid "Scanner speed successfully changed"
+msgstr "Has cambiado correctamente la velocidad de la exploración"
+
+#: admin/pages/class-pages-dashboard.php:302
+#: admin/pages/class-pages-plugin-settings.php:184
+msgid "Select the date and time of the next scan"
+msgstr "Elige la hora y la fecha para la siguiente exploración"
+
+#: admin/pages/class-pages-dashboard.php:301
+#: admin/pages/class-pages-plugin-settings.php:183
+msgid "Custom"
+msgstr "Personalizado"
+
+#: admin/pages/class-pages-dashboard.php:297
+#: admin/pages/class-pages-plugin-settings.php:179
+msgid "Scan every week"
+msgstr "Explorar cada semana"
+
+#: admin/pages/class-pages-dashboard.php:296
+#: admin/pages/class-pages-plugin-settings.php:178 includes/functions.php:46
+msgid "Weekly"
+msgstr "Semanalmente"
+
+#: admin/pages/class-pages-dashboard.php:292
+#: admin/pages/class-pages-plugin-settings.php:174
+msgid "Scan every day"
+msgstr "Explorar cada día"
+
+#: admin/pages/class-pages-dashboard.php:291
+#: admin/pages/class-pages-plugin-settings.php:173
+msgid "Daily"
+msgstr "Diariamente"
+
+#: admin/pages/class-pages-dashboard.php:287
+#: admin/pages/class-pages-plugin-settings.php:169
+msgid "Disable scheduled scanning"
+msgstr "Desactivar el escaneo programado"
+
+#: admin/pages/class-pages-dashboard.php:275
+msgid "Checks the maximum number of files per minute. We recommend that you have more than 100 MB of RAM"
+msgstr "Revisa el máximo número de archivos por minuto. Recomendamos que tengas más de 100MB de RAM"
+
+#: admin/pages/class-pages-dashboard.php:274
+#: admin/pages/class-pages-plugin-settings.php:135 views/backup.php:57
+msgid "Fast"
+msgstr "Rápido"
+
+#: admin/pages/class-pages-dashboard.php:270
+msgid "The best option for almost any capacity"
+msgstr "La mejor opción para la mayoría de las capacidades"
+
+#: admin/pages/class-pages-dashboard.php:269
+#: admin/pages/class-pages-plugin-settings.php:134
+msgid "Medium"
+msgstr "Medio"
+
+#: admin/pages/class-pages-dashboard.php:265
+msgid "Suitable for the most budget hosting services"
+msgstr "Apropiado para la mayoría de los alojamientos con presupuesto ajustado"
+
+#: admin/pages/class-pages-dashboard.php:264
+#: admin/pages/class-pages-plugin-settings.php:133 views/backup.php:52
+msgid "Slow"
+msgstr "Lento"
+
+#: admin/pages/class-pages-dashboard.php:260
+msgid "Free speed is slow"
+msgstr "La velocidad gratuita es la lenta"
+
+#: admin/pages/class-pages-dashboard.php:259
+#: admin/pages/class-pages-plugin-settings.php:132
+#: admin/pages/setup/steps/class-step-congratulation.php:95
+msgid "Free"
+msgstr "Gratis"
+
+#: admin/pages/class-pages-dashboard.php:144
+msgid "Start scanning and information about problems"
+msgstr "Empezar a escanear y dar información sobre problemas"
+
+#: admin/pages/class-pages-dashboard.php:140
+msgid "Titan Anti-spam"
+msgstr "Titan Anti-spam"
+
+#: admin/pages/firewall/class-pages-firewall-attacks-log.php:124
+msgid "Attack time"
+msgstr "Tiempo de ataque"
+
+#: admin/pages/firewall/class-pages-firewall-attacks-log.php:120
+msgid "..."
+msgstr "..."
+
+#: admin/pages/firewall/class-pages-firewall-attacks-log.php:117
+msgid "Event"
+msgstr "Evento"
+
+#: admin/pages/firewall/class-pages-firewall-attacks-log.php:104
+msgid "Attack list"
+msgstr "Lista de ataques"
+
+#: admin/pages/firewall/class-pages-firewall-attacks-log.php:75
+#: admin/pages/firewall/class-pages-firewall-attacks-log.php:76
+msgid "Attacks log"
+msgstr "Registro de ataques"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:143
+msgid "Last Attempt"
+msgstr "Último intento"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:142
+msgid "Block Count"
+msgstr "Número de bloques"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:141
+msgid "Expiration"
+msgstr "Caducidad"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:139
+msgid "Rule Added"
+msgstr "Regla añadida"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:138
+msgid "Detail"
+msgstr "Detalle"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:137
+msgid "Block Type"
+msgstr "Tipo de bloque"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:126
+msgid "Make Permanent"
+msgstr "Hacer permanente"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:123
+msgid "Unblock"
+msgstr "Desbloquear"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:115
+msgid "Filter"
+msgstr "Filtro"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:112
+msgid "Filter by Type, Detail, or Reason"
+msgstr "Filtrar por tipo, detalle o razón"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:75
+msgid "Firewall blocking"
+msgstr "Bloqueo del cortafuegos"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:74
+msgid "Blocking"
+msgstr "Bloqueo"
+
+#: admin/pages/firewall/class-pages-firewall-login-attempts.php:127
+msgid "Gateway"
+msgstr "Pasarela"
+
+#: admin/pages/firewall/class-pages-firewall-login-attempts.php:124
+msgid "Tried to log in as"
+msgstr "Ha intentado acceder como"
+
+#: admin/pages/firewall/class-pages-firewall-attacks-log.php:115
+#: admin/pages/firewall/class-pages-firewall-login-attempts.php:122
+msgid "IP"
+msgstr "IP"
+
+#: admin/pages/firewall/class-pages-firewall-attacks-log.php:106
+#: admin/pages/firewall/class-pages-firewall-login-attempts.php:109
+msgid "In this table, you can see the attacks on your site that the Titan firewall repelled."
+msgstr "En esta tabla puedes ver los ataques que el cortafuegos Titan ha parado en tu sitio."
+
+#: admin/pages/firewall/class-pages-firewall-login-attempts.php:76
+#: admin/pages/firewall/class-pages-firewall-login-attempts.php:107
+msgid "Login Attempts"
+msgstr "Intentos de acceso"
+
+#: admin/pages/firewall/class-pages-firewall-login-attempts.php:75
+msgid "Login Attempts Log"
+msgstr "Registro de intentos de acceso"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:201
+msgid "Blacklist usernames"
+msgstr "Lista negra de nombres de usuario"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:193
+msgid "Blacklist ips"
+msgstr "Lista negra de IPs"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:187
+msgid "<strong>Blacklist</strong>."
+msgstr "<strong>Lista negra</strong>."
+
+#: admin/pages/firewall/class-pages-bruteforce.php:180
+#: admin/pages/firewall/class-pages-bruteforce.php:202
+msgid "One Username per line"
+msgstr "Un nombre de usuario por línea"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:179
+msgid "Whitelist usernames"
+msgstr "Lista blanca de nombres de usuario"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:172
+#: admin/pages/firewall/class-pages-bruteforce.php:194
+msgid "One IP or IP range (1.2.3.4-5.6.7.8) per line"
+msgstr "Una IP o rango de IP (1.2.3.4-5.6.7.8) por línea"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:171
+msgid "Whitelist ips"
+msgstr "Lista blanca de IPs"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:165
+msgid "<strong>Whitelist</strong>."
+msgstr "<strong>Lista blanca</strong>."
+
+#: admin/pages/firewall/class-pages-bruteforce.php:152
+msgid "Hours until retries are reset"
+msgstr "Horas hasta el restablecimiento de los intentos"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:145
+msgid "Minutes lockout"
+msgstr "Minutos de bloqueo"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:138
+msgid "Allowed retries"
+msgstr "Reintentos permitidos"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:131
+msgid "This makes the plugin GDPR compliant"
+msgstr "Esto hace al plugin cumplir con el RGPD"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:129
+msgid "GDPR compliance"
+msgstr "Conformidad con el RGPD"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:121
+msgid "Click to enable or disable protection brute force attacks."
+msgstr "Haz clic para activar o desactivar la proteccion contra ataques de fuerza bruta."
+
+#: admin/pages/firewall/class-pages-bruteforce.php:119
+msgid "Bruteforce enabled"
+msgstr "Activado el ataque de fuerza bruta"
+
+#: admin/pages/class-pages-tweaks.php:105
+#: admin/pages/firewall/class-pages-bruteforce.php:112
+#: admin/pages/firewall/class-pages-bruteforce.php:165
+#: admin/pages/firewall/class-pages-bruteforce.php:187
+msgid "Basic recommended security settings."
+msgstr "Ajustes de seguridad básicos recomendados."
+
+#: admin/pages/firewall/class-pages-bruteforce.php:112
+msgid "<strong>Lockout</strong>."
+msgstr "<strong>Desbloquear</strong>."
+
+#: admin/pages/firewall/class-pages-bruteforce.php:61
+msgid "Stop login attacks"
+msgstr "Detener ataques de acceso"
+
+#: admin/pages/firewall/class-pages-bruteforce.php:60
+msgid "Limit login Attempts"
+msgstr "Limitar los intentos de acceso"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:323
+msgid "If you are having a problem with people stealing your content and pretending to be Google as they crawl your site, then you can enable this option which will immediately block anyone pretending to be Google. The way this option works is that we look at the visitor User-Agent HTTP header which indicates which browser the visitor is running. If it appears to be Googlebot, then we do a reverse lookup on the visitor’s IP address to verify that the IP does belong to Google. If the IP is not a Google IP, then we block it if you have this option enabled. Be careful about using this option, because we have had reports of it blocking real site visitors, especially (for some reason) legitimate visitors from Brazil. It’s possible, although we haven’t confirmed this, that some Internet service providers in Brazil use transparent proxies that  modify their customers’ user-agent headers to pretend to be Googlebot rather than the real header. Or it may be possible that these providers are engaging in some sort of crawling activity pretending to be Googlebot using the same IP address that is the public IP for their customers. Whatever the cause is, the result is that if you enable this you may block some real visitors."
+msgstr "Si estás teniendo problemas con personas que roban su contenido y se hacen pasar por Google mientras rastrean tu sitio, puedes activar esta opción que bloqueará inmediatamente a cualquiera que pretenda ser Google. La forma en que funciona esta opción es que miramos la cabecera HTTP del agente de usuario del visitante, que indica qué navegador que está ejecutando el visitante. Si parece ser robot de Google, entonces hacemos una búsqueda inversa de la dirección IP del visitante para verificar que la IP pertenece a Google. Si la IP no es una IP de Google, la bloqueamos si tienes esta opción activada. Ten cuidado al usar esta opción, porque hemos tenido informes de que bloquea a visitantes reales del sitio, especialmente (por alguna razón) a visitantes legítimos de Brasil. Es posible, aunque esto no lo tenemos confirmado, que algunos proveedores de servicios de Internet en Brasil utilicen proxies transparentes que modifican las cabeceras de los agentes de usuario de sus clientes para pretender ser el robot de Google en lugar de la cabecera real. O puede ser posible que estos proveedores estén actuando con algún tipo de actividad de rastreo pretendiendo ser el robot de Google usando la misma dirección IP que la IP pública de sus clientes. Sea la causa que sea, el resultado es que si activas esto, puedes bloquear algunos visitantes reales."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:308
+msgid "NOTE: This checkbox enables ALL blocking/throttling functions including IP, country and advanced blocking, and the \"Rate Limiting Rules\" below."
+msgstr "NOTA: Esta casilla de verificación activa TODAS las funciones de bloqueo/regulación, incluyendo la IP, el país y el bloqueo avanzado y las siguientes «Reglas de limitación de puntuación»."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:306
+#: admin/pages/firewall/class-pages-firewall-settings.php:321
+msgid "Enable Rate Limiting and Advanced Blocking"
+msgstr "Activar la limitación de puntuación y el bloqueo avanzado"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:299
+msgid "Rate Limiting."
+msgstr "Limitación de puntuación."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:289
+msgid "Whitelisted URLs."
+msgstr "Lista blanca de URLs."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:277
+msgid "Ignored IPs must be separated by commas or placed on separate lines. These addresses will be ignored from any alerts about increased attacks and can be used to ignore things like standalone website security scanners."
+msgstr "Las IP ignoradas deben ser separadas por comas o colocadas en líneas separadas. Estas direcciones serán ignoradas de cualquier alerta sobre el aumento de ataques y pueden ser usadas para ignorar cosas como los exploradores de seguridad independientes de la web."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:275
+msgid "Ignored IP addresses for Titan Web Application Firewall alerting"
+msgstr "Direcciones IP ignoradas para la alerta de la aplicación del cortafuegos web de Titán"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:267
+msgid "Separate multiple URLs with commas or place them on separate lines. Asterisks are wildcards, but use with care. If you see an attacker repeatedly probing your site for a known vulnerability you can use this to immediately block them. All URLs must start with a \"/\" without quotes and must be relative. e.g. /badURLone/, /bannedPage.html, /dont-access/this/URL/, /starts/with-*"
+msgstr "Separa las múltiples URL con comas o colócalas en líneas separadas. Los asteriscos son comodines, pero úsalos con cuidado. Si ves a un atacante investigando repetidamente tu sitio en busca de una vulnerabilidad conocida, puedes usar esto para bloquearlo inmediatamente. Todas las URL deben comenzar con «/», sin comillas, y deben ser relativas, por ejemplo, «/URLmalaUno/», «/PaginaBloqueada.html», «/no-acceder-a/esta/URL/», «/empieza/con-*»"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:265
+msgid "Immediately block IPs that access these URLs"
+msgstr "Bloquear inmediatamente las IPs que acceden estas URLs"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:256
+msgid "Select the post types for which comments will be disabled"
+msgstr "Elige los tipos de contenidos para los cuales los comentarios serán desactivados"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:246
+msgid "Whitelisted services"
+msgstr "Servicios en la lista blanca"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:231
+msgid "Whitelisted IPs must be separated by commas or placed on separate lines. You can specify ranges using the following formats: 127.0.0.1/24, 127.0.0.[1-100], or 127.0.0.1-127.0.1.100. Titan automatically whitelists private networks because these are not routable on the public Internet."
+msgstr "Las IP de la lista blanca deben estar separadas por comas o colocadas en líneas separadas. Puedes especificar los rangos usando los siguientes formatos: 127.0.0.1/24, 127.0.0.[1-100], o 127.0.0.1-127.0.1.100. Titán pone automáticamente en la lista blanca a las redes privadas porque no son enrutables en la Internet pública."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:229
+msgid "Whitelisted IP addresses that bypass all rules"
+msgstr "Las IPs de la lista blanca podrán evitar todas las reglas"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:215
+msgid "When the Titan Firewall is optimized, the Firewall loads before the WordPress environment loads. This is desired behavior, as it increases security and gives the Firewall a performance boost. But if your server has a conflict with blocking by IP, country, or other advanced blocking settings before WordPress has loaded, you can turn on this option to allow WordPress to load first. We do not recommend enabling this option except for testing purposes."
+msgstr "Cuando el cortafuegos de Titán está optimizado, el cortafuegos se carga antes de que cargue el entorno de WordPress. Este es el comportamiento deseado, ya que aumenta la seguridad y da al cortafuegos un impulso de rendimiento. Pero si tu servidor tiene un conflicto con el bloqueo por IP, país u otro ajuste avanzado de bloqueo antes de que WordPress se haya cargado, puedes activar esta opción para permitir que WordPress cargue primero. No recomendamos activar esta opción, salvo para fines de prueba."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:213
+msgid "Delay IP and Country blocking until after WordPress and plugins have loaded (only process firewall rules early)"
+msgstr "Retrasar el bloqueo de IP y país hasta después de que WordPress y los plugins se hayan cargado (procesar antes solo las reglas del cortafuegos)"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:206
+msgid "Advanced Firewall Options."
+msgstr "Opciones avanzadas del cortafuegos."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:197
+msgid "These IPs (or CIDR ranges) will be ignored when determining the requesting IP via the X-Forwarded-For HTTP header. Enter one IP or CIDR range per line."
+msgstr "Estas IPs (o rangos CIDR) serán ignoradas cuando se determine la IP solicitante a través del encabezado X-Forwarded-For HTTP. Introduce una IP o rango CIDR por línea."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:195
+msgid "Trusted Proxies"
+msgstr "Proxies de confianza"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:186
+msgid "Disable admin top bar."
+msgstr "Desactivar la barra superior de administrador."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:150
+msgid ""
+"Titan needs to determine each visitor’s IP address to provide security functions on your website. The Titan default configuration works just fine for most websites, but it’s important that this configuration is correct. For example, if Titan is not receiving IP addresses correctly and thinks an external visitor originates from a private address, it will whitelist that visitor and bypass security protocols. You can read more about which addresses Titan considers private here.\n"
+"\n"
+"The Titan scanner has an option to “Scan for misconfigured How does Titan get IPs”. This scan feature can help you detect if the wrong option has been selected for “How does Titan get IPs.”\n"
+"\n"
+"Another way of determining if Titan is getting IPs correctly is to check the “IPs” section in the Titan Tools > Diagnostics.\n"
+"\n"
+"Let Titan use the most secure method to get visitor IP addresses. Prevents spoofing and works with most sites.\n"
+"This is the default mode of operation for Titan. Titan will try to get a valid IP address from PHP and if that doesn’t work, it will look at data that a firewall or reverse proxy sends in case your website uses this configuration.\n"
+"\n"
+"This option provides a good balance between security and compatibility.\n"
+"\n"
+"Use PHP’s built in REMOTE_ADDR and don’t use anything else. Very secure if this is compatible with your site.\n"
+"If you know that you definitely don’t use a reverse proxy, cache, Cloudflare, CDN or anything else in front of your web server that “proxies” traffic to your website, and if you are sure that your website is just a standalone PHP web server, then using this option will work and is the most secure in a non-proxy or load balancer configuration.\n"
+"\n"
+"You may also want to select this option for other reasons – for example to force Titan to use the $_SERVER[‘REMOTE_ADDR’] variable in PHP.\n"
+"\n"
+"Use the X-Forwarded-For HTTP header. Only use if you have a front-end proxy or spoofing may result.\n"
+"If you are using Nginx or another load balancer as a front-end-proxy or load balancer in front of your web server, and the front-end server sends IP addresses to the web server that runs WordPress using the HTTP X-Forwarded-For header, then you should enable this option.\n"
+"\n"
+"Be careful about enabling this option if you do not have a front-end-proxy, load balancer, or CDN configuration, because it will then allow visitors to spoof their IP address and you will also miss many hits that should have been logged.\n"
+"\n"
+"Use the X-Real-IP HTTP header. Only use if you have a front-end proxy or spoofing may result.\n"
+"As with the X-Forwarded-For option above, only use this option if you are sure that you want Titan to retrieve the visitor IP address from the X-Real-IP HTTP header, and do not enable this if you don’t have a front-end proxy or load balancer that is sending visits to your real web server and adding the X-Real-IP header.\n"
+"\n"
+"Use the Cloudflare “CF-Connecting-IP” HTTP header to get a visitor IP. Only use if you’re using Cloudflare.\n"
+"Titan is fully compatible with CloudFlare, and in some configurations Cloudflare will send the real visitor IP address to your web server using the CF-Connecting-IP HTTP header. If the CloudFlare support personnel have advised you that this is the case, then enable this option on Titan to ensure that Titan is able to get your visitor IP address.\n"
+"\n"
+"Note that Cloudflare has several configurations including their own web server module that takes care of detecting the visitor IP address, so be sure to work with their technical support staff and read their documentation to determine which configuration you’re using.\n"
+"\n"
+"Multiple IPs detected\n"
+"If your host requires using the X-Forwarded-For header, there may be multiple IP addresses detected. If your own IP address does not appear where it shows “Your IP with this setting,” you may need to add trusted proxies.\n"
+"\n"
+"If you do not know whether your host uses more than one proxy address, contact your host or the reverse-proxy service that you use. If you know there is only one proxy address, it should be the last address in the “Detected IPs” field.\n"
+"\n"
+"Once you know which proxies to trust, click the + Edit trusted proxies link below the detected IPs.\n"
+"In the Trusted proxies field that appears, enter the IP addresses of the proxies. You can enter a single IP like 10.0.0.15. You can also enter a “CIDR” range like 10.0.0.0/24. Note that your host’s trusted IPs should not be the same addresses in these examples.\n"
+"Click Save Options to save the changes, and check that your IP appears correctly in the “Your IP with this setting” field."
+msgstr ""
+"Titán necesita determinar la dirección IP de cada visitante para proporcionar funciones de seguridad en tu web. La configuración por defecto de Titán funciona bien para la mayoría de las web, pero es importante que esta configuración sea correcta. Por ejemplo, si Titán no recibe las direcciones IP correctamente y piensa que un visitante externo se origina en una dirección privada, podrá en la lista blanca a ese visitante y evitará los protocolos de seguridad. Puedes leer más sobre de las direcciones que Titán considera privadas aquí.\n"
+"\n"
+"El explorador de Titán tiene una opción para «Explorar una mala configuración sobre cómo obtiene Titán las IP». Esta característica de exploración puede ayudarte a detectar si ha sido seleccionada la opción incorrecta para «Cómo obtiene Titán las IP».\n"
+"\n"
+"Otra forma de determinar si Titán está obteniendo correctamente las IP es revisar la sección «IP» en la sección «Herramientas de Titán > Diagnóstico».\n"
+"\n"
+"Deja que Titán use el método más seguro para obtener las direcciones IP de los visitantes. Evita la suplantación y funciona con la mayoría de los sitios.\n"
+"Este es el modo de funcionamiento por defecto de Titán. Titán intentará obtener una dirección IP válida desde PHP y, si eso no funciona, mirará los datos que un cortafuegos o proxy inverso envía en caso de que tu web use esta configuración.\n"
+"\n"
+"Esta opción proporciona un buen equilibrio entre seguridad y compatibilidad.\n"
+"\n"
+"Usa la variable integrada `REMOTE_ADDR` de PHP y no uses nada más. Es muy segura si es compatible con tu sitio.\n"
+"Si sabes indudablemente que no usas un proxy inverso, caché, Cloudflare, CDN o cualquier otra cosa frontal en tu servidor web que hace de «proxy» del tráfico a tu web y si estás seguro de que tu web es solo un servidor web PHP independiente, entonces el uso de esta opción funcionará y es la más segura en una configuración sin proxy o con un balanceador de carga.\n"
+"\n"
+"También puede que quieras seleccionar esta opción por otras razones - por ejemplo, para forzar a Titán a usar la variable `$_SERVER['REMOTE_ADDR']` en PHP.\n"
+"\n"
+"Usa la cabecera HTTP `X-Forwarded-For`. Úsala solo si tienes un proxy frontal o podría producirse una suplantación.\n"
+"Si estás usando Nginx u otro balanceador de carga como un proxy frontal o balanceador de carga en tu servidor web y el servidor frontal envía direcciones IP al servidor web que ejecuta WordPress usando la cabecera HTTP `X-Forwarded-For`, entonces deberías activar esta opción.\n"
+"\n"
+"Ten cuidado al activar esta opción si no tienes un proxy frontal, un balanceador de carga o una configuración CDN, porque entonces permitirás a los visitantes suplantar tu dirección IP y también se perderán muchos accesos que deberían haber sido registrados.\n"
+"\n"
+"Usa la cabecera HTTP `X-Real-IP`. Úsala solo si tienes un proxy frontal o podría producirse una suplantación.\n"
+"Como con la opción `X-Forwarded-For` anterior, usa esta opción solo si estás seguro de que quieres que Titán recupere la dirección IP del visitante desde la cabecera HTTP `X-Real-IP` y no la actives si no tienes un proxy frontal o un balanceador de carga que esté enviando visitas a tu servidor web real y añadiendo la cabecera `X-Real-IP`.\n"
+"\n"
+"Usa la cabecera HTTP `CF-Connecting-IP` de Cloudflare para obtener la IP del visitante. Úsala solo si estás utilizando Cloudflare.\n"
+"Titan es totalmente compatible con CloudFlare y, en algunas configuraciones, Cloudflare enviará la dirección IP del visitante real a tu servidor web usando la cabecera HTTP `CF-Connecting-IP`. Si el personal del soporte de CloudFlare te ha informado de que este es el caso, entonces activa esta opción en Titán para asegurarte de que Titán es capaz de obtener la dirección IP de tu visitante.\n"
+"\n"
+"Ten en cuenta que Cloudflare tiene varias configuraciones, incluyendo su propio módulo de servidor web que se encarga de detectar la dirección IP del visitante, así que asegúrate de trabajar con su personal de soporte técnico y de leer su documentación para determinar qué configuración estás usando.\n"
+"\n"
+"Múltiples IP detectadas\n"
+"Si tu alojamiento necesita el uso de la cabecera `X-Forwarded-For`, puede que se detecten múltiples direcciones IP. Si tu propia dirección IP no aparece donde se muestra «Tu IP con este ajuste», es posible que tengas que añadir proxies de confianza.\n"
+"\n"
+"Si no sabes si tu alojamiento usa más de una dirección proxy, contacta con tu alojamiento o con el servicio de proxy inverso que uses. Si sabes que solo hay una dirección proxy, debería ser la última dirección del campo «IP detectadas».\n"
+"\n"
+"Una vez que sepas en qué proxies debes confiar, haz clic en el enlace «+ Editar proxies de confianza» que se encuentra debajo de las IP detectadas.\n"
+"En el campo que aparece de poxies de confianza, introduce las direcciones IP de los proxies. Puedes introducir una sola IP, como 10.0.0.15. También puedes introducir un rango «CIDR», como 10.0.0.0/24. Ten en cuenta que las IP de confianza de tu alojamiento no deben ser las mismas direcciones de estos ejemplos.\n"
+"Haz clic en «Guardar las opciones» para guardar los cambios y comprueba que tu IP aparece correctamente en el campo «Tu IP con este ajuste»."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:146
+msgid "Use the Cloudflare \"CF-Connecting-IP\" HTTP header to get a visitor IP. Only use if you're using Cloudflare."
+msgstr "Usa la cabecera HTTP `CF-Connecting-IP`de Cloudflare para obtener la IP de un visitante. Úsala solo si estás utilizando Cloudflare."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:145
+msgid "HTTP_CF_CONNECTING_IP"
+msgstr "HTTP_CF_CONNECTING_IP"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:141
+msgid "Use the X-Real-IP HTTP header. Only use if you have a front-end proxy or spoofing may result."
+msgstr "Usa la cabecera HTTP `X-Real-IP`. Úsala solo si tienes un proxy frontal o podría producirse una suplantación."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:140
+msgid "HTTP_X_REAL_IP"
+msgstr "HTTP_X_REAL_IP"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:136
+msgid "Use the X-Forwarded-For HTTP header. Only use if you have a front-end proxy or spoofing may result."
+msgstr "Usa la cabecera HTTP `X-Forwarded-For`. Úsala solo si tienes un proxy frontal o podría producirse una suplantación."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:135
+msgid "HTTP_X_FORWARDED_FOR"
+msgstr "HTTP_X_FORWARDED_FOR"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:131
+msgid "Use PHP's built in REMOTE_ADDR and don't use anything else. Very secure if this is compatible with your site."
+msgstr "Usa la variable integrada `REMOTE_ADDR` de PHP y no uses nada más. Es muy segura si es compatible con tu sitio."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:130
+msgid "REMOTE_ADDR"
+msgstr "REMOTE_ADDR"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:126
+msgid "Let Titan use the most secure method to get visitor IP addresses. Prevents spoofing and works with most sites. (Recommended)"
+msgstr "Déjale a Titan usar el método más seguro para conseguir la dirección IP de tus visitantes. Previene la suplantación y funciona con la mayoría de los sitios. (Recomendado)"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:125
+msgid "Default"
+msgstr "Por defecto"
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:121
+msgid "How does Titan get IPs "
+msgstr "Cómo consigue Titan las IPs "
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:115
+msgid "Base Options."
+msgstr "Opciones base."
+
+#: admin/pages/firewall/class-pages-firewall-settings.php:62
+msgid "Firewall settings"
+msgstr "Ajustes del cortafuegos"
+
+#: libs/hide-login-page/admin/boot.php:71
+msgid "We found that you are use the (%s) plugin. Please do not use its wp-login.php page address change and the same feature in the Clearfy plugin, to avoid conflicts."
+msgstr "Hemos visto que estás usando el plugin (%s). Por favor, no utilices su cambio de dirección de la página wp-login.php y la misma característica en el plugin Clearfy, para evitar conflictos."
+
+#: libs/hide-login-page/admin/boot.php:69
+msgid "We found that you are use the (%s) plugin to change wp-login.php page address. Please delete it, because Clearfy already contains these functions and you do not need to use two plugins. If you do not want to remove (%s) plugin for some reason, please do not use wp-login.php page address change feature in the Clearfy plugin, to avoid conflicts."
+msgstr "Hemos visto que estás usando el plugin (%s) para cambiar la dirección de la página wp-login.php. Por favor, bórralo, porque Clearfy ya contiene estas funciones y no necesitas usar dos plugins. Si no deseas eliminar el plugin (%s) por algún motivo, no utilices la función de cambio de dirección de la página wp-login.php en el plugin Clearfy, para evitar conflictos."
+
+#: libs/hide-login-page/admin/pages/hide-login.php:384
+msgid "[%s] Your New WP Login!"
+msgstr "[%s] ¡Tu nuevo acceso para WP!"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:378
+msgid ""
+"Best Regards,\n"
+"%s"
+msgstr ""
+"Atentamente,\n"
+"%s"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:375
+msgid ""
+"Hi,\n"
+"This is %s plugin. Here is your new WordPress login address:\n"
+"URL: %s"
+msgstr ""
+"Hola,\n"
+"Soy el plugin %s. Esta es tu nueva dirección de acceso de WordPress:\n"
+"URL: %s"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:307
+#: libs/hide-login-page/admin/pages/hide-login.php:376
+msgid "IMPORTANT! Be sure that you wrote down the new login page address"
+msgstr "¡IMPORTANTE! Asegúrate de que apuntas bien tu dirección de la página de acceso"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:307
+msgid "Set a new login page name without slash. Example: mysecretlogin"
+msgstr "Establece un nombre nuevo para la página de acceso sin barra. Por ejemplo: miaccesosecreto"
+
+#: libs/hide-login-page/admin/boot.php:113
+#: libs/hide-login-page/admin/pages/hide-login.php:306
+msgid "New login page"
+msgstr "Nueva página de acceso"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:299
+#: libs/hide-login-page/admin/pages/hide-login.php:377
+msgid ""
+"If unable to access the login/admin section anymore, use the Recovery Link which reset links to default: \n"
+"%s"
+msgstr ""
+"Si no eres capaz de acceder a la sección de acceso/administración, usa el enlace de recuperación que restablece el enlace por defecto:\n"
+"%s"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:293
+msgid "When you try to get to the hidden page wp-admin or wp-login.php, you will be redirected by the link you have set. Redirect will work only if you have chosen the required option above!"
+msgstr "Cuando intentes llegar a la página oculta wp-admin o wp-login.php, serás redirigido por el enlace que hayas establecido. ¡La redirección sólo funcionará si has elegido la opción requerida arriba!"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:292
+msgid "Set custom page 404 url"
+msgstr "Establecer URL personalizada para la página 404"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:274
+msgid "Some Wordpress themes do not have page templates 404, if you see a php error (blank screen, error 500) when accessing the wp-admin page, wp-login.php, try set forbidden 403 error or set  a redirect to your custom page 404."
+msgstr "Algunos temas de WordPress no tienen plantillas de páginas 404, si ves un error php (pantalla en blanco, error 500) al acceder a la página wp-admin, wp-login.php, intenta establecer el error 403 prohibido o establecer una redirección a tu página 404 personalizada."
+
+#: libs/hide-login-page/admin/pages/hide-login.php:271
+msgid "Forbidden 403"
+msgstr "403 Prohibido"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:270
+msgid "Redirect to"
+msgstr "Redirigir a"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:269
+msgid "Page 404"
+msgstr "Página 404"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:267
+msgid "Access error type"
+msgstr "Tipo de error de acceso"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:256
+msgid "Use this option carefully! If you forget the new login page address, you can not get into the admin panel."
+msgstr "¡Usa esta opción con cuidado! Si olvidas la dirección nueva de la página de acceso, no podrás entrar en el panel de administrador."
+
+#: libs/hide-login-page/admin/pages/hide-login.php:256
+msgid "Hides the wp-login.php and wp-signup.php pages."
+msgstr "Oculta las páginas wp-login.php y wp-signup.php."
+
+#: libs/hide-login-page/admin/boot.php:108
+#: libs/hide-login-page/admin/pages/hide-login.php:63
+#: libs/hide-login-page/admin/pages/hide-login.php:64
+#: libs/hide-login-page/admin/pages/hide-login.php:254
+msgid "Hide Login Page"
+msgstr "Ocultar la página de acceso"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:243
+msgid "Hides the /wp-admin directory for unauthorized users. If the option is disabled, when you request the page /wp-admin you will be redirected to the login page, even if you changed its address. Therefore, for protection purposes enable this option."
+msgstr "Oculta el directorio /wp-admin para usuarios no autorizados. Si desactivas esta opción, cuando cargues la página /wp-admin serás redirigido a la página de acceso, aunque hayas cambiado su dirección. Por lo tanto, por protección activa esta opción."
+
+#: libs/hide-login-page/admin/boot.php:103
+#: libs/hide-login-page/admin/pages/hide-login.php:241
+msgid "Hide wp-admin"
+msgstr "Ocultar wp-admin"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:226
+msgid "Dozens of bots attack your login page at /wp-login.php and /wp-admin/daily. Bruteforce and want to access your admin panel. Even if you're sure that you have created a complex and reliable password, this does not guarantee security and does not relieve your login page load. The easiest way is to protect the login page by simply changing its address to your own and unique."
+msgstr "Docenas de bots atacan tu página de acceso en /wp-login.php y /wp-admin/ a diario por fuerza bruta y quieren acceder a tu escritorio. Aunque estés seguro de que has creado una contraseña compleja y fiable, esto no garantiza la seguridad y no alivia la carga de tu página de inicio de sesión. La forma más fácil es proteger la página de inicio de sesión simplemente cambiando su dirección a la tuya propia y única."
+
+#: libs/hide-login-page/admin/pages/hide-login.php:226
+msgid "<strong>Protect your admin login</strong>."
+msgstr "<strong>Protege tu acceso de administrador</strong>."
+
+#: libs/hide-login-page/admin/pages/hide-login.php:209
+msgid "The entered login page name is already used for one of your pages. Try to choose a different login page name!"
+msgstr "El nombre de la página de acceso introducido ya se utiliza para una de sus páginas. ¡Intenta elegir un nombre de página de acceso diferente!"
+
+#: libs/hide-login-page/admin/pages/hide-login.php:202
+msgid "You entered an incorrect part of the path to your login page. The path to the login page can not consist only of digits, at least 3 characters, you must use only the characters [0-9A-z_-]!"
+msgstr "Has introducido una parte incorrecta en la ruta de tu página de acceso. La ruta a la página de inicio de sesión no puede consistir sólo en dígitos, al menos 3 caracteres, ¡debe usar sólo los caracteres [0-9A-z_-]!"
+
+#: admin/pages/class-pages-components.php:183
+msgid "Hide login page"
+msgstr "Ocultar página de acceso"
+
+#: libs/hide-login-page/includes/classes/class.configurate-hide-login-page.php:294
+msgid "This has been disabled"
+msgstr "Esto ha sido desactivado"
+
+#: libs/antispam-premium/admin/boot.php:63
+#: libs/antispam-premium/admin/boot.php:88
+msgid "You have %s unapproved comments. Would you like to send them for spam checking? %s"
+msgstr "Tienes %s comentarios sin aprobar. ¿Quieres enviarlos para comprobación de spam? %s"
+
+#: libs/antispam-premium/admin/boot.php:61
+#: libs/antispam-premium/admin/boot.php:86
+msgid "Yes, do it"
+msgstr "Sí, hazlo"
+
+#: libs/antispam-premium/admin/includes/class-dashboard-widget.php:147
+msgid "For all time using the plugin, %s spam attacks were stopped."
+msgstr "En todo el tiempo que has usado este plugin, se han detenido %s ataques de spam."
+
+#: libs/antispam-premium/admin/includes/class-dashboard-widget.php:104
+msgid "Show statistics for 7 days"
+msgstr "Mostrar estadísticas de 7 días"
+
+#: libs/antispam-premium/admin/includes/class-dashboard-widget.php:103
+msgid "Plugin stopped spam attacks"
+msgstr "Ataques de spam parados por el plugin"
+
+#: libs/antispam-premium/admin/includes/class-dashboard-widget.php:93
+msgid "Spam attack"
+msgstr "Ataque de spam"
+
+#: admin/pages/firewall/class-pages-firewall-login-attempts.php:119
+#: libs/antispam-premium/admin/includes/class-dashboard-widget.php:93
+msgid "Date"
+msgstr "Fecha"
+
+#: libs/antispam-premium/admin/includes/class-users-list-table.php:105
+msgid "Empty Spam"
+msgstr "Vaciar spam"
+
+#: libs/antispam-premium/admin/includes/class-comments-list-table.php:77
+#: libs/antispam-premium/admin/includes/class-users-list-table.php:85
+msgid "Successfully was checked for spam!"
+msgstr "¡Se ha comprobado correctamente el spam!"
+
+#: libs/antispam-premium/admin/includes/class-comments-list-table.php:75
+#: libs/antispam-premium/admin/includes/class-users-list-table.php:83
+msgid "Comment hasn't been checked for spam because of error:"
+msgstr "El comentario no ha sido revisado en busca de spam debido a un error:"
+
+#: libs/antispam-premium/admin/includes/class-comments-list-table.php:53
+#: libs/antispam-premium/admin/includes/class-users-list-table.php:61
+msgid "Spam checking status"
+msgstr "Estado de la comprobación de spam"
+
+#: libs/antispam-premium/admin/pages/class-pages-settings.php:111
+msgid "It remains to check %s comments."
+msgstr "Faltan por comprobar %s comentarios."
+
+#: libs/antispam-premium/admin/pages/class-pages-settings.php:109
+msgid "Please wait! Checking comments..."
+msgstr "¡Por favor espera! Comprobando comentarios..."
+
+#: libs/antispam-premium/admin/includes/class-comments-list-table.php:130
+#: libs/antispam-premium/anti-spam-premium.php:124
+msgid "Spam checking queue"
+msgstr "Cola de comprobación de spam"
+
+#: libs/antispam-premium/anti-spam-premium.php:121
+msgid "Spam"
+msgstr "Spam"
+
+#: libs/antispam-premium/includes/3rd-party/class-extension.php:117
+msgid "Your message has been marked as spam!"
+msgstr "¡Tu mensaje se ha marcado como spam!"
+
+#: libs/antispam-premium/includes/cron-schedules.php:108
+msgid "User hasn't been checked for spam due an error:"
+msgstr "El usuario no se ha comprobado en busca de spam debido a un error:"
+
+#: libs/antispam-premium/includes/cron-schedules.php:16
+msgid "Every Five minets"
+msgstr "Cada cinco minutos"
+
+#: libs/antispam-premium/includes/class-forms-listener.php:171
+msgid "Comment #%d hasn't been checked for spam due an error:"
+msgstr "El comentario #%d no ha sido revisado en busca de spam debido a un error:"
+
+#: libs/antispam-premium/includes/class-forms-listener.php:169
+msgid "Comment #%d hasn't been checked for spam due an unknown error."
+msgstr "El comentario #%d no ha sido revisado en busca de spam debido a un error desconocido."
+
+#: libs/antispam-premium/includes/class-forms-listener.php:101
+msgid "User #%d hasn't been checked for spam due an error:"
+msgstr "El usuario #%d no ha sido revisado en busca de spam debido a un error:"
+
+#: libs/antispam-premium/includes/class-forms-listener.php:99
+msgid "User #%d hasn't been checked for spam due an unknown error."
+msgstr "El usuario #%d no ha sido revisado en busca spam debido a un error desconocido."
+
+#: views/audit/fix-database-prefix.php:30
+msgid "Save Changes"
+msgstr "Guardar los cambios"
+
+#: views/audit/fix-database-prefix.php:20
+msgid "You current table prefix is"
+msgstr "Tu prefijo de tabla actual es"
+
+#: views/audit/fix-database-prefix.php:15
+msgid "Please enter new prefix"
+msgstr "Por favor, introduce el nuevo prefijo"
+
+#: views/audit/fix-database-prefix.php:10
+msgid "With the use of this tweak you can easily replce your database prefix to other keyword and you don’t need to change it manyally."
+msgstr "Con este retoque puedes reemplazar fácilmente el prefijo de tu base de datos a otra palabra clave, sin cambiarlo manualmente."
+
+#: views/audit/fix-database-prefix.php:9
+msgid "Fixing database prefix"
+msgstr "Corregir el prefijo de la base de datos"
+
+#: views/quickstart.php:234
+msgid "Push"
+msgstr "Push"
+
+#: views/quickstart.php:233
+msgid "Uptime"
+msgstr "Tiempo de actividad"
+
+#: views/quickstart.php:232
+msgid "Frequency"
+msgstr "Frecuencia"
+
+#: views/quickstart.php:231
+msgid "URL's"
+msgstr "URLs"
+
+#: views/quickstart.php:182
+msgid "Manage site checker"
+msgstr "Gestionar verificador de sitios"
+
+#: views/quickstart.php:179
+msgid "Site checker"
+msgstr "Verificador de sitios"
+
+#: views/quickstart.php:175
+msgid "Manage scanner"
+msgstr "Gestionar el explorador"
+
+#: views/quickstart.php:144
+msgid "Security issues detected!"
+msgstr "¡Se han detectado problemas de seguridad!"
+
+#: views/quickstart.php:75
+msgid "View more details"
+msgstr "Ver más detalles"
+
+#: views/quickstart.php:69
+msgid "Manage Firewall"
+msgstr "Gestionar el cortafuegos"
+
+#: views/quickstart.php:56
+msgid "Full scan your site."
+msgstr "Exploración completa de tu sitio."
+
+#: views/quickstart.php:41
+msgid "Quick start"
+msgstr "Inicio rápido"
+
+#: admin/pages/class-pages-plugin-settings.php:157 views/dashboard.php:274
+msgid "Scanning speed"
+msgstr "Velocidad de la exploración"
+
+#: views/dashboard.php:222
+msgid "Scheduled scan"
+msgstr "Exploración programada"
+
+#: views/dashboard.php:173
+msgid "files"
+msgstr "archivos"
+
+#: views/dashboard.php:168
+msgid "Scanned: "
+msgstr "Explorado: "
+
+#: admin/pages/class-pages-scanner.php:66 views/dashboard.php:163
+#: views/quickstart.php:172
+msgid "Scanner"
+msgstr "Explorador"
+
+#: views/dashboard.php:126
+msgid "Anti-spam status"
+msgstr "Estado del antispam"
+
+#: views/dashboard.php:102
+msgid ""
+"Enabled and Protecting: In this mode, the Titan Web Application Firewall is actively\n"
+"                                blocking requests matching known attack patterns and is actively protecting your site\n"
+"                                from attackers."
+msgstr ""
+"Activado y protegiendo: En este modo, el cortafuegos de aplicaciones web de Titán está activamente\n"
+"                                bloqueando las peticiones que coinciden con los patrones de ataque conocidos y está protegiendo activamente tu sitio\n"
+"                                de los atacantes."
+
+#: admin/pages/firewall/class-pages-firewall.php:62 views/dashboard.php:55
+#: views/quickstart.php:66
+msgid "Firewall"
+msgstr "Cortafuegos"
+
+#: views/pro-version.php:6 views/require-license-activate.php:66
+msgid "Buy license"
+msgstr "Comprar la licencia"
+
+#: views/pro-version.php:2 views/require-license-activate.php:55
+msgid "Please activate your license to use this plugin feature."
+msgstr "Por favor, activa tu licencia para usar esta característica del plugin."
+
+#: views/firewall/firewall-dashboard-page.php:98
+msgid "Optimize the Titan Firewall"
+msgstr "Optimizar el cortafuegos Titan"
+
+#: views/firewall/firewall-dashboard-page.php:94
+msgid "The plugin will load as a regular plugin after WordPress has been loaded, and while it can block many malicious requests, some vulnerable plugins or WordPress itself may run vulnerable code before all plugins are loaded."
+msgstr "El plugin se cargará como un plugin regular después de que WordPress haya sido cargado, y aunque puede bloquear muchas solicitudes maliciosas, algunos plugins vulnerables o el propio WordPress puede ejecutar código vulnerable antes de que se carguen todos los plugins."
+
+#: views/firewall/firewall-dashboard-page.php:94
+msgid "Basic WordPress Protection:"
+msgstr "Protección básica para WordPress:"
+
+#: views/firewall/firewall-dashboard-page.php:92
+msgid "Protection Level"
+msgstr "Nivel de protección"
+
+#: admin/pages/class-pages-dashboard.php:286
+#: admin/pages/class-pages-plugin-settings.php:168 views/dashboard.php:76
+#: views/firewall/firewall-dashboard-page.php:87
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: views/dashboard.php:72 views/firewall/firewall-dashboard-page.php:84
+msgid "Learning Mode"
+msgstr "Modo de aprendizaje"
+
+#: views/dashboard.php:68 views/firewall/firewall-dashboard-page.php:81
+msgid "Enabled and Protecting"
+msgstr "Activo y protegiendo"
+
+#: views/firewall/firewall-dashboard-page.php:74
+msgid ""
+"Enabled and Protecting: In this mode, the Titan Web Application Firewall is actively\n"
+"\t\t\t\t\t\t\t\tblocking requests matching known attack patterns and is actively protecting your site\n"
+"\t\t\t\t\t\t\t\tfrom attackers."
+msgstr ""
+"Activado y protegiendo: En este modo, el cortafuegos de aplicaciones web de Titán está activamente\n"
+"\t\t\t\t\t\t\t\tbloqueando las solicitudes que coinciden con los patrones de ataque conocidos y está protegiendo activamente tu sitio\n"
+"\t\t\t\t\t\t\t\tde los atacantes."
+
+#: views/dashboard.php:61 views/firewall/firewall-dashboard-page.php:73
+msgid "Web Application Firewall Status"
+msgstr "Estado del cortafuegos de la aplicación web"
+
+#: admin/pages/setup/steps/class-step-congratulation.php:74
+#: views/firewall/firewall-dashboard-page.php:62
+msgid "How does Titan determine this?"
+msgstr "¿Cómo determina esto Titan?"
+
+#: views/firewall/firewall-dashboard-page.php:59
+msgid "70% Optimize the Titan Firewall."
+msgstr "70% Optimizar el cortafuegos de Titan."
+
+#: views/firewall/firewall-dashboard-page.php:58
+msgid "30% Enable the Titan Firewall."
+msgstr "30% Habilitar el cortafuegos de Titan."
+
+#: admin/pages/setup/steps/class-step-congratulation.php:67
+#: views/firewall/firewall-dashboard-page.php:56
+msgid "How do I get to 100%?"
+msgstr "¿Cómo obtengo el 100%?"
+
+#: admin/pages/firewall/class-pages-firewall.php:63
+#: views/firewall/firewall-dashboard-page.php:54
+msgid "Stops Complex Attacks"
+msgstr "Detiene los ataques complejos"
+
+#: views/firewall/firewall-dashboard-page.php:53
+msgid "Web Application Firewall"
+msgstr "Web Application Firewall"
+
+#: views/firewall/firewall-dashboard-page.php:37 views/quickstart.php:97
+msgid "Titan Firewall Deactivated"
+msgstr "Cortafuegos Titan desactivado"
+
+#: views/firewall/firewall-dashboard-page.php:31 views/quickstart.php:92
+msgid "Titan Firewall in Learning Mode"
+msgstr "Cortafuegos Titan en modo de aprendizaje"
+
+#: views/firewall/firewall-dashboard-page.php:25 views/quickstart.php:87
+msgid "Titan Firewall Activated"
+msgstr "Cortafuegos Titan activado"
+
+#: views/firewall/firewall-dashboard-page.php:13
+msgid ""
+"The Titan Web Application Firewall is a PHP based, application level firewall that filters out\n"
+"\t\t\t\t\tmalicious requests to your site."
+msgstr ""
+"Titan Web Application Firewall es un cortafuegos basado en PHP, a nivel de aplicación que filtra\n"
+"\t\t\t\t\tsolicitudes maliciosas a tu sitio."
+
+#: views/firewall/firewall-dashboard-page.php:12
+msgid "Web Application Firewall (WAF)"
+msgstr "Web Application Firewall (WAF)"
+
+#: views/firewall/install-auto-prepend-success.php:24
+msgid "Nice work! The firewall is now optimized."
+msgstr "¡Buen trabajo! El cortafuegos está ahora optimizado."
+
+#: views/firewall/install-auto-prepend-success.php:18
+msgid "Fail"
+msgstr "Fallido"
+
+#: views/firewall/install-auto-prepend-success.php:16
+msgid "Success"
+msgstr "Correcto"
+
+#: views/firewall/install-auto-prepend-success.php:26
+#: views/firewall/uninstall-auto-prepend-processing.php:42
+msgid "The changes have not yet taken effect. If you are using LiteSpeed or IIS as your web server or CGI/FastCGI interface, you may need to wait a few minutes for the changes to take effect since the configuration files are sometimes cached. You also may need to select a different server configuration in order to complete this step, but wait for a few minutes before trying. You can try refreshing this page."
+msgstr "Los cambios aún no han surtido efecto. Si estás usando LiteSpeed o IIS como su servidor web o interfaz CGI/FastCGI, puede que tengas que esperar unos minutos para que los cambios surtan efecto, ya que los archivos de configuración a veces se almacenan en caché. También puede que tengas que seleccionar una configuración de servidor diferente para completar este paso, pero espera unos minutos antes de intentarlo. Puedes intentar recargar esta página."
+
+#: views/firewall/uninstall-auto-prepend-processing.php:40
+msgid "Uninstallation from this site was successful! The Titan Firewall is still active because it is installed in another WordPress installation."
+msgstr "¡La desinstalación de este sitio fue un éxito! El cortafuegos de Titan sigue activo porque está instalado en otra instalación de WordPress."
+
+#: views/firewall/uninstall-auto-prepend-processing.php:34
+msgid "Waiting for it to take effect. This may take up to %s."
+msgstr "Esperando a que tome efecto. Esto puede tomar %s."
+
+#: views/firewall/uninstall-auto-prepend-processing.php:32
+msgid "The auto_prepend_file setting has been successfully removed from .htaccess and .user.ini. Once this change takes effect, Extended Protection Mode will be disabled."
+msgstr "La configuración de auto_prepend_file se ha eliminado con éxito de .htaccess y .user.ini. Una vez que este cambio surta efecto, el Modo de Protección Extendida será desactivado."
+
+#: views/firewall/uninstall-auto-prepend-processing.php:22
+msgid "Uninstall Titan Firewall. Please wait..."
+msgstr "Desinstalando el cortafuegos Titan. Por favor espera..."
+
+#: views/firewall/uninstall-auto-prepend-processing.php:20
+msgid "Uninstallation was successful!"
+msgstr "¡Se ha desinstalado correctamente!"
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:123
+msgid "Once you have downloaded the files, click Continue to complete uninstallation."
+msgstr "Una vez hayas descargado los archivos, haz clic en continuar para completar la desinstalación."
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:113
+msgid "Download %s"
+msgstr "Descarga %s"
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:102
+msgid "Please download a backup of the following files before we make the necessary changes:"
+msgstr "Por favor descarga una copia de seguridad de los siguientes archivos antes de que hagamos los cambios necesarios:"
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:76
+msgid "We've preselected your server configuration based on our tests, but if you know your web server's configuration, please select it now. You can also choose \"Manual Configuration\" for alternate installation details."
+msgstr "Hemos preseleccionado la configuración de tu servidor basándonos en nuestras pruebas, pero si sabes la configuración de tu servidor, selecciónala ahora. También puedes elegir «configuración manual» para detalles de instalación alternativos."
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:74
+msgid "If you know your web server's configuration, please select it from the list below."
+msgstr "Si sabes la configuración de tu servidor web, selecciónala en la lista inferior."
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:60
+msgid "Manual Configuration"
+msgstr "Configuración manual"
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:56
+msgid "Windows (IIS)"
+msgstr "Windows (IIS)"
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:50
+msgid "NGINX"
+msgstr "NGINX"
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:44
+msgid "LiteSpeed/lsapi"
+msgstr "LiteSpeed/lsapi"
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:38
+msgid "Apache + CGI/FastCGI"
+msgstr "Apache + CGI/FastCGI"
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:32
+msgid "Apache + suPHP"
+msgstr "Apache + suPHP"
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:26
+msgid "Apache + mod_php"
+msgstr "Apache + mod_php"
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:20
+msgid "Before this file can be deleted, the configuration for the <code>auto_prepend_file</code> setting needs to be removed."
+msgstr "Antes de que se pueda eliminar este archivo, es necesario eliminar la configuración del ajuste <code>auto_prepend_file</code>."
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:18
+msgid "Automatic uninstallation cannot be completed, but you may still be able to <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">manually uninstall extended protection</a>."
+msgstr "La desinstalación automática no se puede completar, pero es posible que aún puedas desinstalar manualmente la <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">protección extendida.</a>."
+
+#: views/firewall/uninstall-auto-prepend-file-modal.php:10
+msgid "Extended Protection Mode of the Titan Web Application Firewall uses the PHP ini setting called <code>auto_prepend_file</code> in order to ensure it runs before any potentially vulnerable code runs. This PHP setting currently refers to the Titan file at:"
+msgstr "El Modo de Protección Extendida del Firewall de Aplicaciones Web de Titán utiliza la configuración PHP ini llamada <code>auto_prepend_file</code> para asegurar que se ejecuta antes de que se ejecute cualquier código potencialmente vulnerable. Esta configuración de PHP se refiere actualmente al archivo Titán en:"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:140
+#: views/firewall/modal-content-block-ips.php:61
+msgid "Reason"
+msgstr "Motivo"
+
+#: views/firewall/modal-content-block-ips.php:53
+msgid "Referrer"
+msgstr "Referido"
+
+#: views/firewall/modal-content-block-ips.php:46
+msgid "User agent"
+msgstr "Agente de usuario"
+
+#: views/firewall/modal-content-block-ips.php:39
+msgid "Hostname"
+msgstr "Hostname"
+
+#: views/firewall/modal-content-block-ips.php:32
+msgid "IP Address Range"
+msgstr "Rango de direcciones IP"
+
+#: admin/pages/firewall/class-pages-firewall-blocking.php:120
+#: views/firewall/modal-content-block-ips.php:24
+msgid "Ip Address"
+msgstr "Dirección IP"
+
+#: views/firewall/modal-content-block-ips.php:16
+msgid "Custom Pattern"
+msgstr "Patrón personalizado"
+
+#: views/firewall/modal-content-block-ips.php:13
+msgid "Address"
+msgstr "Dirección"
+
+#: anti-spam.php:53
+msgid "Titan security"
+msgstr "Titan security"
+
+#: includes/class.module-base.php:98
+msgid "This script file does not exist!"
+msgstr "¡Este archivo script no existe!"
+
+#: includes/class.module-base.php:68
+msgid "This template does not exist!"
+msgstr "¡Esta plantilla no existe!"
+
+#: includes/functions.php:41
+msgid "Once 30 sec"
+msgstr "Una vez cada 30 seg"
+
+#: includes/scanner/views/results.php:80
+msgid "No malware found"
+msgstr "No se ha encontrado software malicioso"
+
+#: includes/scanner/views/results.php:15 views/dashboard.php:183
+#: views/quickstart.php:43
+msgid "Start scan"
+msgstr "Iniciar exploración"
+
+#: includes/scanner/views/results.php:15
+msgid "Click %1s to start scanning for malware"
+msgstr "Haz clic en %1s para empezar a buscar malware"
+
+#: includes/scanner/views/scanner.php:34
+msgid "Scanning all files of your site for malware. At each launch, site scanning starts from the beginning"
+msgstr "Explorando todos tus archivos en busca de malware. En cada inicio, la exploración del sitio comienza desde el principio"
+
+#: includes/scanner/views/scanner.php:26
+msgid "Scan"
+msgstr "Explorar"
+
+#: includes/scanner/views/scanner.php:22 views/dashboard.php:180
+msgid "Stop scanning"
+msgstr "Detener la exploración"
+
+#: includes/scanner/views/scanner.php:18
+msgid "Malware scan"
+msgstr "Exploración de software malicioso"
+
+#: includes/scanner/classes/class.scanner.php:97
+msgid "Scanning cancelled"
+msgstr "Exploración cancelada"
+
+#: includes/scanner/classes/class.scanner.php:95
+msgid "Cancelled"
+msgstr "Cancelada"
+
+#: includes/scanner/classes/class.scanner.php:79
+msgid "Scanning started"
+msgstr "Exploración iniciada"
+
+#: includes/scanner/classes/class.scanner.php:77
+msgid "Started"
+msgstr "Iniciada"
+
+#: includes/audit/views/all-audit.php:65
+msgid "No security issues"
+msgstr "No hay problemas de seguridad"
+
+#: includes/audit/views/all-audit.php:11
+msgid "Click %1s to perform a security audit"
+msgstr "Haz clic en %1s para realizar una auditoría de seguridad"
+
+#: includes/audit/classes/class.audit.php:452
+msgid "Firewall protects against password brute force and blocks suspicious activity."
+msgstr "El cortafuegos protege frente a ataques de fuerza bruta y bloquea actividad sospechosa."
+
+#: includes/audit/classes/class.audit.php:451
+msgid "The firewall is disabled."
+msgstr "El cortafuegos está desactivado."
+
+#: includes/audit/classes/class.audit.php:429
+msgid "Allowing anyone to view all files in the Uploads folder with a browser will allow them to easily download all your uploaded files."
+msgstr "Permitir a cualquiera ver tus archivos en la carpeta de subidas con un navegador les permitirá descargar fácilmente todos los archivos que hayas subido."
+
+#: includes/audit/classes/class.audit.php:428
+msgid "The Uploads folder is browsable."
+msgstr "La carpeta de subidas es visible."
+
+#: includes/audit/classes/class.audit.php:414
+msgid "Disable it for live websites in <b>wp_config.php:</b><br>%1$s"
+msgstr "Desactívalo para webs en producción en <b>wp_config.php:</b><br>%1$s"
+
+#: includes/audit/classes/class.audit.php:413
+msgid "The plugins and themes file editor is a security issue because it not only shows the PHP source code, it also enables attackers to inject malicious code into your site if they manage to gain access to admin."
+msgstr "El editor de archivos de plugins y temas es un problema de seguridad porque no solamente muestra el código fuente PHP, sino que también permite a los atacantes inyectar código malicioso en tu sitio si consiguen acceder al área de administración."
+
+#: includes/audit/classes/class.audit.php:412
+msgid "The plugins and themes file editor is enabled on your site"
+msgstr "El editor de archivos de plugins y temas está activo en tu sitio"
+
+#: includes/audit/classes/class.audit.php:398
+msgid "It is important to hide or delete the readme.html or readme.txt file, because it contains information about the WP version."
+msgstr "Es importante esconder o eliminar el archivo readme.html o readme.txt, porque contiene información sobre la versión de WP."
+
+#: includes/audit/classes/class.audit.php:397
+msgid "Readme.html or readme.txt file is available in the site root"
+msgstr "El archivo readme.html o readme.txt está disponible en la raíz del sitio"
+
+#: includes/audit/classes/class.audit.php:379
+msgid "Need to update themes, as previous versions may be vulnerable:"
+msgstr "Es necesario actualizar los temas, ya que las versiones anteriores pueden ser vulnerables:"
+
+#: includes/audit/classes/class.audit.php:378
+msgid "You have %1s themes that need to be updated"
+msgstr "Tienes %1s temas que necesitan ser actualizados"
+
+#: includes/audit/classes/class.audit.php:357
+msgid "Need to update plugins, as previous versions may be vulnerable:"
+msgstr "Es necesario actualizar los plugins, ya que las versiones anteriores pueden ser vulnerables:"
+
+#: includes/audit/classes/class.audit.php:356
+msgid "You have %1s plugins that need to be updated"
+msgstr "Tienes %1s plugins que necesitan ser actualizados"
+
+#: includes/audit/classes/class.audit.php:338
+msgid "Some plugins on your site are not compatible with PHP and Wordpress versions: "
+msgstr "Algunos plugins de tu sitio no son compatibles con las versiones de PHP y WordPress: "
+
+#: includes/audit/classes/class.audit.php:337
+msgid "Incompatible plugins found"
+msgstr "Se han encontrado plugins incompatibles"
+
+#: includes/audit/classes/class.audit.php:304
+msgid "By knowing the username, you are one step closer to logging in using the username to brute-force the password, or to gain access in a similar way."
+msgstr "Conociendo el nombre de usuario, estás un paso más cerca de entrar usando el nombre de usuario para forzar la contraseña, o para obtener acceso de una manera similar."
+
+#: includes/audit/classes/class.audit.php:303
+msgid "Author URL by ID access"
+msgstr "Acceso a la URL del autor por ID"
+
+#: includes/audit/classes/class.audit.php:297
+msgid "Since user names make up half of the login credentials, this made it easier for hackers to launch brute- force attacks. You need to set complex and unique names for your site administrators."
+msgstr "Como los nombres de usuario constituyen la mitad de las credenciales de inicio de sesión, esto facilitó a los hackers el lanzamiento de ataques de fuerza bruta. Es necesario establecer nombres complejos y únicos para los administradores de su sitio."
+
+#: includes/audit/classes/class.audit.php:296
+msgid "The standard administrator login 'admin' is used"
+msgstr "El acceso estándar de administrador «admin» está siendo usado"
+
+#: includes/audit/classes/class.audit.php:269
+msgid "Error"
+msgstr "Error"
+
+#: includes/audit/classes/class.audit.php:263
+msgid "HTTPS is not available on this site"
+msgstr "HTTPS no está disponible en este sitio"
+
+#: includes/audit/classes/class.audit.php:260
+msgid "Available only on <a href='%1s'>%2s</a>"
+msgstr "Disponible solo en <a href='%1s'>%2s</a>"
+
+#: includes/audit/classes/class.audit.php:257
+msgid "No openssl extension for php"
+msgstr "No se ha encontrado la extensión openssl de php"
+
+#: includes/audit/classes/class.audit.php:252
+msgid "The SSL certificate ends "
+msgstr "El certificado SSL caducará el "
+
+#: includes/audit/classes/class.audit.php:246
+msgid "Problems with the SSL certificate were detected on your site"
+msgstr "Se han detectado problemas con el certificado SSL en tu sitio"
+
+#: includes/audit/classes/class.audit.php:232
+msgid "Enabling 'expose_php' PHP Directive exposes to the world that PHP is installed on the server, which includes the PHP version within the HTTP header."
+msgstr "Activando la directiva 'expose_php' PHP expone al mundo que PHP está instalado en el servidor, que incluye la versión de PHP dentro del encabezado HTTP."
+
+#: includes/audit/classes/class.audit.php:231
+msgid "The 'expose_php' PHP directive outputs the PHP version"
+msgstr "La directiva 'expose_php' de PHP da como resultado la versión de PHP"
+
+#: includes/audit/classes/class.audit.php:225
+msgid "Enabling 'allow_url_include' PHP Directive will make your site vulnerable to cross-site attacks (XSS)."
+msgstr "Activar la directiva PHP 'allow_url_include' hace que tu sitio sea vulnerable a los ataques de sitios cruzados (XSS)."
+
+#: includes/audit/classes/class.audit.php:224
+msgid "The 'allow_url_include' PHP directive is enabled"
+msgstr "La directiva PHP 'allow_url_include' está activada"
+
+#: includes/audit/classes/class.audit.php:218
+msgid "Displaying any debugging information in the interface can be extremely bad for site security. If any PHP errors occur on your site , they must be registered in a secure location and not displayed to visitors or potential attackers."
+msgstr "Mostrar cualquier información de depuración en la interfaz puede ser extremadamente malo para la seguridad del sitio. Si se produce algún error de PHP en tu sitio, debe registrarse en una ubicación segura y no mostrarse a los visitantes o potenciales atacantes."
+
+#: includes/audit/classes/class.audit.php:217
+msgid "The 'display_errors' PHP directive is enabled"
+msgstr "La directiva PHP 'display_errors' está activada"
+
+#: includes/audit/classes/class.audit.php:202
+msgid "You can generate these using the <a href='https://api.wordpress.org/secret-key/1.1/salt/'>WordPress.org secret-key service</a>"
+msgstr "Puedes generarlas usando el <a href='https://api.wordpress.org/secret-key/1.1/salt/'>servicio de claves secretas de WordPress.org</a>"
+
+#: includes/audit/classes/class.audit.php:201
+msgid "Authentication Unique Keys and Salts are not set in wp-config.php file"
+msgstr "No se han añadido las claves únicas y salts al archivo wp-config"
+
+#: includes/audit/classes/class.audit.php:194
+msgid "This allows hackers to plan a massive attack based on the default prefix 'wp_'"
+msgstr "Esto permite a los hackers planear un ataque masivo basado en el prefijo por defecto «wp_»"
+
+#: includes/audit/classes/class.audit.php:193
+msgid "Database table prefix is empty or has a default value: 'wp_'"
+msgstr "El prefijo de la tabla de la base de datos está en blanco o tiene el valor por defecto: 'wp_'"
+
+#: includes/audit/classes/class.audit.php:187
+msgid "When enabled, WordPress will use non-compressed versions (dev versions) of JS and CSS files . The default is to use min versions of the files. For security and performance reasons, this constant must be disabled on the production site."
+msgstr "Cuando esté activado, WordPress utilizará versiones no comprimidas (versiones dev) de los archivos JS y CSS . El valor predeterminado es usar versiones min de los archivos. Por razones de seguridad y rendimiento, esta constante debe ser desactivada en el sitio de producción."
+
+#: includes/audit/classes/class.audit.php:186
+msgid "Wordpress Script Debug Mode is enabled on your site"
+msgstr "El modo de depuración de scripts de WordPress está activado en tu sitio"
+
+#: includes/audit/classes/class.audit.php:180
+msgid "When its enabled, all SQL queries will be saved in the $wpdb->queries variable as an array. For security and performance reasons, this constant must be disabled on the production site."
+msgstr "Cuando se habilite, todas las consultas SQL se guardarán en la variable $wpdb->queries como un array. Por razones de seguridad y rendimiento, esta constante debe ser desactivada en el sitio de producción."
+
+#: includes/audit/classes/class.audit.php:179
+msgid "Wordpress Database Debug mode is enabled on your site"
+msgstr "El modo de depuración de la base de datos de WordPress está activado en tu sitio"
+
+#: includes/audit/classes/class.audit.php:173
+msgid "Every good developer should enable debugging before starting work on a new plugin or theme. In fact, WordPress Codex \"strongly recommends\" that developers use WP_DEBUG. Unfortunately, many developers forget to disable debugging mode even when the site is running. Displaying debug logs in the web interface will allow hackers to learn a lot about your WordPress website."
+msgstr "Todo buen desarrollador debería activar el modo de depuración antes de empezar a trabajar en un nuevo plugin o tema. De hecho, el codex de WordPress «recomienda» que los desarrolladores usen WP_DEBUG. Desafortunadamente, muchos desarrolladores olvidan desactivar el modo de depuración aunque el sitio esté en producción. Mostrar los registros de depuración en la interfaz web permite a los hackers aprender un montón de tu web WordPress."
+
+#: includes/audit/classes/class.audit.php:172
+msgid "Wordpress Debug mode is enabled on your site"
+msgstr "El modo de depuración de WordPress está habilitado en tu sitio"
+
+#: includes/audit/classes/class.audit.php:157
+msgid "Older versions of Wordpress may be vulnerable"
+msgstr "Las versiones de WordPress más antiguas pueden ser vulnerables"
+
+#: includes/audit/classes/class.audit.php:156
+msgid "Your Wordpress version %1s is less than the recommended %2s"
+msgstr "Tu versión de WordPress %1s es inferior a la recomendada %2s"
+
+#: includes/audit/classes/class.audit.php:149
+msgid "Older versions of MySQL are very slow and vulnerable"
+msgstr "Las versiones viejas de MySQL son muy lentas y vulnerables"
+
+#: includes/audit/classes/class.audit.php:148
+msgid "Your MySQL version %1s is less than the recommended %2s"
+msgstr "Tu versión MySQL %1s es anterior a la recomendada %2s"
+
+#: includes/audit/classes/class.audit.php:141
+msgid "Older versions of PHP are slow and vulnerable"
+msgstr "Las versiones viejas de PHP son lentas y vulnerables"
+
+#: includes/audit/classes/class.audit.php:140
+msgid "Your PHP version %1s is less than the recommended %2s"
+msgstr "Tu versión PHP %1s es anterior a la recomendada %2s"
+
+#: includes/audit/classes/class.cert.php:169
+msgid "HTTPS is not activated on this site."
+msgstr "HTTPS no está activado en este sitio."
+
+#: includes/audit/classes/class.cert.php:165
+msgid "Verification is only available on HTTPS"
+msgstr "La verificación solo está disponible con HTTPS"
+
+#: includes/audit/classes/class.cert.php:161
+msgid "PHP openssl extension is missing"
+msgstr "No se ha encontrado la extensión PHP openssl"
+
+#: includes/audit/classes/class.audit.php:266
+#: includes/audit/classes/class.cert.php:157
+msgid "Unknown error"
+msgstr "Error desconocido"
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:472
+msgid "Please enter your new password."
+msgstr "Por favor, introduce tu nueva contraseña."
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:455
+msgid "Update Password"
+msgstr "Actualizar contraseña"
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:446
+msgid "Confirm new password"
+msgstr "Confirma la nueva contraseña"
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:440
+msgid "Confirm use of weak password"
+msgstr "Confirma el uso de una contraseña débil"
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:436
+msgid "Strength indicator"
+msgstr "Indicador de fortaleza"
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:426
+msgid "New Password"
+msgstr "Nueva contraseña"
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:314
+msgid "The password has not been updated."
+msgstr "La contraseña no se ha actualizado."
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:311
+msgid "Your profile has not been updated."
+msgstr "Tu perfil no se ha actualizado."
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:308
+msgid "The user changes have not been saved."
+msgstr "Los cambios del usuario no se han guardado."
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:305
+msgid "The user has not been created."
+msgstr "El usuario no se ha creado."
+
+#: includes/tweaks/password-requirements/class-password-requirements.php:118
+#: includes/tweaks/password-requirements/class-password-requirements.php:301
+msgid "The provided password does not meet this site's requirements."
+msgstr "La contraseña facilitada no reúne los requisitos de este sitio."
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:807
+msgid "Deny Login"
+msgstr "Denegar el acceso"
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:803
+msgid "Confirm Login"
+msgstr "Confirmar el acceso"
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:798
+msgid "Please Verify the Login Request"
+msgstr "Por favor, verifica la solicitud de acceso"
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:667
+msgid "You have logged in successfully."
+msgstr "Te has conectado con éxito."
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:639
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:713
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:814
+msgid "&larr; Back to %s"
+msgstr "&larr; Volver a %s"
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:638
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:712
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:813
+msgid "Are you lost?"
+msgstr "¿Estás perdido?"
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:541
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:547
+msgid "Invalid Interstitial Action"
+msgstr "Acción intersticial no válida"
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:504
+msgid "Action Processed"
+msgstr "Acción procesada"
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:503
+msgid "Action processed. Please continue in your original browser."
+msgstr "Acción procesada. Por favor, sigue en tu navegador original."
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:452
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:458
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:484
+msgid "Unsupported Interstitial. Please login again."
+msgstr "Intersticial no compatible. Por favor, accede de nuevo."
+
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:300
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:1006
+#: includes/tweaks/password-requirements/login-interstitial/class-login-interstitial.php:1036
+msgid "Sorry, this request has expired. Please log in again."
+msgstr "Lo siento, esta solicitud ha caducado. Por favor, accede de nuevo."
+
+#: includes/tweaks/password-requirements/login-interstitial/functions-login-header.php:103
+msgid "Powered by WordPress"
+msgstr "Funciona con WordPress"
+
+#: includes/tweaks/password-requirements/login-interstitial/functions-login-header.php:102
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: includes/tweaks/password-requirements/login-interstitial/class-session.php:503
+msgid "Interstitial state not found."
+msgstr "No se encontró estado intersticial."
+
+#: includes/tweaks/password-requirements/login-interstitial/class-session.php:478
+msgid "Failed to create interstitial state."
+msgstr "Fallo al crear el estado intersticial."
+
+#: includes/tweaks/password-requirements/login-interstitial/class-session.php:284
+#: includes/tweaks/password-requirements/login-interstitial/class-session.php:321
+msgid "Could not calculate signature."
+msgstr "No se pudo calcular la firma."
+
+#: includes/tweaks/password-requirements/login-interstitial/class-session.php:210
+#: includes/tweaks/password-requirements/login-interstitial/class-session.php:241
+msgid "Invalid user."
+msgstr "Usuario no válido."
+
+#: includes/tweaks/password-requirements/login-interstitial/class-session.php:206
+#: includes/tweaks/password-requirements/login-interstitial/class-session.php:237
+msgid "Invalid signature."
+msgstr "Firma no válida."
+
+#: includes/tweaks/password-requirements/login-interstitial/class-session.php:196
+#: includes/tweaks/password-requirements/login-interstitial/class-session.php:227
+msgid "Session expired."
+msgstr "Sesión caducada."
+
+#: includes/tweaks/password-requirements/class-password-requirements-base.php:140
+msgid "<strong>ERROR</strong>: The password you have chosen appears to have been used before. You must choose a new password."
+msgstr "<strong>ERROR</strong>: La contraseña que has elegido parece que ya la has utilizado anteriormente. Debes elegir una nueva contraseña."
+
+#: includes/tweaks/password-requirements/class-password-requirements-base.php:134
+msgid "Invalid User"
+msgstr "Usuario no válido"
+
+#: includes/tweaks/password-requirements/class-password-requirements-base.php:110
+msgid "A password change is required for your account."
+msgstr "Se necesita un cambio de contraseña para tu cuenta."
+
+#: includes/tweaks/password-requirements/class-strong-passwords.php:189
+msgid "<strong>Error</strong>: Due to site rules, a strong password is required. Please choose a new password that rates as <strong>Strong</strong> on the meter."
+msgstr "<strong>Error</strong>: Debido a las reglas del sitio se necesita una contraseña fuerte. Por favor, elige una nueva contraseña que puntúe <strong>fuerte</strong> en el medidor."
+
+#: includes/tweaks/password-requirements/class-strong-passwords.php:178
+#: includes/tweaks/password-requirements/class-strong-passwords.php:179
+msgid "Minimum Role for Strong Passwords"
+msgstr "Perfil mínimo al que pedir contraseñas fuertes"
+
+#: includes/tweaks/password-requirements/class-strong-passwords.php:163
+msgid "Warning: If your site invites public registrations setting the role too low may annoy your members."
+msgstr "Advertencia: Si tu sitio invita a los registros públicos estableciendo el perfil demasiado bajo esto puede ser molesto para tus usuarios."
+
+#: includes/tweaks/password-requirements/class-strong-passwords.php:162
+msgid "For more information on WordPress roles and capabilities please see %s."
+msgstr "Para obtener más información acerca de los perfiles y permisos de WordPress, por favor, consulta %s."
+
+#: includes/tweaks/password-requirements/class-strong-passwords.php:161
+msgid "Minimum role at which a user must choose a strong password."
+msgstr "Perfil mínimo desde el que el usuario debe elegir una contraseña segura."
+
+#: includes/tweaks/password-requirements/class-strong-passwords.php:155
+msgid "Minimum Role"
+msgstr "Perfil mínimo"
+
+#: admin/pages/class-pages-tweaks.php:114
+#: admin/pages/setup/steps/class-step-setting-tweaks.php:35
+#: includes/tweaks/password-requirements/class-strong-passwords.php:136
+msgid "Force users to use strong passwords as rated by the WordPress password meter."
+msgstr "Forzar a usuarios a utilizar contraseñas seguras según la clasificación del medidor de contraseña WordPress."
+
+#: includes/tweaks/password-requirements/class-strong-passwords.php:135
+msgid "Strong Passwords"
+msgstr "Contraseñas seguras"
+
+#: includes/tweaks/password-requirements/class-strong-passwords.php:91
+msgid "Due to site rules, a strong password is required for your account. Please choose a new password that rates as strong on the meter."
+msgstr "Debido a las reglas del sitio, se necesita una contraseña segura para tu cuenta. Por favor, elige una nueva contraseña que puntúe como fuerte en el medidor."
+
+#: includes/tweaks/class-security-tweaks.php:266
+msgid "<strong>ERROR</strong>: Wrong login or password"
+msgstr "<strong>ERROR</strong>: nombre de usuario o contraseña incorrectos"
+
+#: includes/sitechecker/classes/class.sitechecker.php:229
+msgid "URL adding error"
+msgstr "Error al añadir la URL"
+
+#: includes/sitechecker/classes/class.sitechecker.php:222
+msgid "URL successfully added"
+msgstr "URL añadida correctamente"
+
+#: includes/sitechecker/classes/class.sitechecker.php:211
+msgid "URL is empty"
+msgstr "La URL está vacía"
+
+#: includes/sitechecker/classes/class.sitechecker.php:186
+msgid "URL deletion error"
+msgstr "Error al borrar la URL"
+
+#: includes/sitechecker/classes/class.sitechecker.php:180
+msgid "URL not deleted"
+msgstr "La URL no se ha borrado"
+
+#: includes/sitechecker/classes/class.sitechecker.php:175
+msgid "URL successfully deleted"
+msgstr "La URL se ha borrado correctamente"
+
+#: includes/sitechecker/classes/class.sitechecker.php:151
+msgid "You have subscribed to PUSH notifications"
+msgstr "Te has suscrito a las notificaciones PUSH"
+
+#: includes/sitechecker/classes/class.sitechecker.php:141
+msgid "You have unsubscribed to PUSH notifications"
+msgstr "Te has desuscrito de las notificaciones PUSH"
+
+#: includes/sitechecker/classes/class.sitechecker.php:124
+msgid "Available only to premium users"
+msgstr "Solo disponible para usuarios premium"
+
+#: includes/scanner/classes/class.scanner.php:36
+#: includes/scanner/classes/class.scanner.php:69
+#: includes/scanner/classes/class.scanner.php:71
+#: includes/scanner/classes/class.scanner.php:87
+#: includes/scanner/classes/class.scanner.php:89
+#: includes/sitechecker/classes/class.sitechecker.php:118
+#: includes/sitechecker/classes/class.sitechecker.php:163
+#: includes/sitechecker/classes/class.sitechecker.php:203
+msgid "You don't have enough capability to edit this information"
+msgstr "No tienes suficientes capacidades para editar esta información"
+
+#: includes/check/views/main.php:19
+msgid "After launching, the it will check your site for vulnerabilities and doing security audit. After you solve the detected security problems , you need to run the check again."
+msgstr "Después del lanzamiento, revisará tu sitio por vulnerabilidades y hará una auditoría de seguridad. Después de resolver los problemas de seguridad detectados, tendrás que ejecutar la revisión de nuevo."
+
+#: includes/check/views/main.php:18 includes/scanner/views/scanner.php:33
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/check/classes/class.check.php:158 includes/check/views/hided.php:34
+msgid "Malware"
+msgstr "Software malicioso"
+
+#: includes/check/classes/class.check.php:151 views/quickstart.php:149
+msgid "Vulnerabilities"
+msgstr "Vulnerabilidades"
+
+#: includes/check/classes/class.check.php:143 includes/check/views/hided.php:31
+#: includes/check/views/main.php:12 views/dashboard.php:306
+#: views/quickstart.php:73 views/quickstart.php:141
+msgid "Security audit"
+msgstr "Auditoría de seguridad"
+
+#: includes/bruteforce/class-limit-login-attempts.php:846
+msgid "WC Error"
+msgstr "Error WC"
+
+#: includes/bruteforce/class-limit-login-attempts.php:822
+msgid "<strong>ERROR</strong>: Incorrect username or password."
+msgstr "<strong>ERROR</strong>: Nombre de usuario o contraseña incorrectos."
+
+#: includes/bruteforce/class-limit-login-attempts.php:820
+msgid "<strong>ERROR</strong>: Incorrect email address or password."
+msgstr "<strong>ERROR</strong>: Dirección de correo electrónico o contraseña incorrectos."
+
+#: includes/bruteforce/class-limit-login-attempts.php:751
+msgid "You can also try <a href=\"%s\">resetting your password</a> and that should help you to log in."
+msgstr "También puedes tratar de <a href=\"%s\">restablecer tu contraseña</a> y eso debería ayudarte a acceder."
+
+#: includes/bruteforce/class-limit-login-attempts.php:748
+msgid "Please try again in %d minute."
+msgid_plural "Please try again in %d minutes."
+msgstr[0] "Por favor, inténtalo dentro de %d minuto."
+msgstr[1] "Por favor, inténtalo dentro de %d minutos."
+
+#: includes/bruteforce/class-limit-login-attempts.php:746
+msgid "Please try again in %d hour."
+msgid_plural "Please try again in %d hours."
+msgstr[0] "Por favor, inténtalo dentro de %d hora."
+msgstr[1] "Por favor, inténtalo dentro de %d horas."
+
+#: includes/bruteforce/class-limit-login-attempts.php:738
+msgid "Please try again later."
+msgstr "Por favor, inténtalo de nuevo más tarde."
+
+#: includes/bruteforce/class-limit-login-attempts.php:734
+msgid "<strong>ERROR</strong>: Too many failed login attempts."
+msgstr "<strong>ERROR</strong>: Demasiados intentos de acceso fallidos."
+
+#: includes/bruteforce/class-limit-login-attempts.php:339
+#: includes/bruteforce/class-limit-login-attempts.php:898
+msgid "<strong>%d</strong> attempt remaining."
+msgid_plural "<strong>%d</strong> attempts remaining."
+msgstr[0] "Queda <strong>%d</strong> intento más."
+msgstr[1] "Quedan <strong>%d</strong> intentos más."
+
+#: includes/class-titan-security-plugin.php:288
+msgid "Upgrade to premium"
+msgstr "Mejorar a Premium"
+
+#: includes/class-titan-security-plugin.php:282
+msgid "Do you like our plugin?"
+msgstr "¿Te gusta nuestro plugin?"
+
+#: admin/pages/class-pages-dashboard.php:141
+#: includes/class-titan-security-plugin.php:272
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: includes/class-titan-security-plugin.php:265
+msgid "Titan Security"
+msgstr "Titan Security"
+
+#: includes/antispam/classes/class-antispam.php:90
+msgid "Anti-spam successfully disabled"
+msgstr "Anti-spam desactivado correctamente"
+
+#: includes/antispam/classes/class-antispam.php:86
+msgid "Anti-spam successfully enabled"
+msgstr "Anti-spam activado correctamente"
+
+#: admin/ajax/install-addons.php:26 admin/ajax/install-addons.php:108
+#: admin/pages/class-pages-dashboard.php:334
+#: admin/pages/class-pages-dashboard.php:388
+#: admin/pages/class-pages-plugin-settings.php:352
+#: includes/antispam/classes/class-antispam.php:75
+#: libs/factory/core/ajax/install-addons.php:27
+#: libs/factory/core/ajax/install-addons.php:112
+msgid "You don't have enough capability to edit this information."
+msgstr "No tienes suficientes capacidades para editar esta información."
+
+#: includes/vulnerabilities/views/all-table.php:145
+msgid "No vulnerabilities"
+msgstr "No hay vulnerabilidades"
+
+#: includes/vulnerabilities/views/all-table.php:105 views/quickstart.php:159
+msgid "Themes"
+msgstr "Temas"
+
+#: includes/vulnerabilities/views/all-table.php:70 views/quickstart.php:156
+msgid "Plugins"
+msgstr "Plugins"
+
+#: includes/vulnerabilities/views/all-table.php:40 views/quickstart.php:153
+msgid "Wordpress"
+msgstr "WordPress"
+
+#: includes/audit/views/all-audit.php:11 includes/check/views/main.php:14
+#: includes/vulnerabilities/views/all-table.php:16 views/dashboard.php:310
+msgid "Check now"
+msgstr "Comprobar ahora"
+
+#: includes/vulnerabilities/views/all-table.php:16
+msgid "Click %1s to search for vulnerabilities"
+msgstr "Haz clic en %1s para buscar vulnerabilidades"
+
+#: includes/vulnerabilities/views/all-table.php:44
+#: includes/vulnerabilities/views/all-table.php:75
+#: includes/vulnerabilities/views/all-table.php:110
+#: includes/vulnerabilities/views/plugins-table.php:20
+#: includes/vulnerabilities/views/themes-table.php:19
+#: includes/vulnerabilities/views/wordpress-table.php:18
+msgid "No description of the vulnerability"
+msgstr "No hay una descripción para esta vulnerabilidad"
+
+#. Description of the plugin
+msgid "Titan Security - Anti-spam, Anti-virus, Firewall and Malware Scan"
+msgstr "Titan Security - Anti-spam, Anti-virus, Firewall and Malware Scan"
+
+#: admin/pages/class-pages-antispam.php:265
+msgid "<b>You have to make additional settings in the Caldera Forms plugin!</b><br> Please create an Anti-spam processor for each of your forms that you want to protect. You can read this <a href=\"%s\" target=\"_blank\" rel=\"noopener\">manual</a> to learn more about how to create an Anti-spam processor in the Caldera Forms plugin."
+msgstr "<b>¡Debes realizar ajustes adicionales en el plugin «Caldera Forms»!</b><br>Por favor, crea un procesador antispam para cada uno de los formularios que quieras proteger. Puedes leer este <a href=\"%s\" target=\"_blank\" rel=\"noopener\">manual</a> para aprender más sobre cómo crear un procesador antispam en el plugin «Caldera Forms»."
+
+#: admin/pages/class-pages-antispam.php:228
+msgid "Caldera Forms has powerful anti-spam by default. The Anti-spam plugin provides additional anti-spam protection for your Caldera Forms."
+msgstr "«Caldera Forms» tiene por defecto un poderoso sistema antispam. El plugin Anti-spam proporciona protección adicional antispam para tus formularios de «Caldera Forms»."
+
+#: admin/pages/class-pages-antispam.php:226
+msgid "Protect Caldera Forms"
+msgstr "Proteger «Caldera Forms»"
+
+#: admin/pages/class-pages-antispam.php:216
+msgid "Protects contact forms of the Ninja Forms plugin from spam."
+msgstr "Protege del spam a los formularios de contacto del plugin «Ninja Forms»."
+
+#: admin/pages/class-pages-antispam.php:214
+msgid "Protect Ninja Forms"
+msgstr "Proteger «Ninja Forms»"
+
+#: admin/pages/class-pages-antispam.php:204
+msgid "Job Spam-Free for WordPress Contact Forms."
+msgstr "Trabajos sin spam para los formularios de contacto de WordPress."
+
+#: admin/pages/class-pages-antispam.php:202
+msgid "Protect Contact Forms 7"
+msgstr "Proteger Contact Form 7"
+
+#: admin/pages/class-pages-antispam.php:137
+msgid "%s spam comments were blocked by Anti-spam plugin so far."
+msgstr "Hasta el momento, %s comentarios de spam han sido bloqueados por el plugin Anti-spam."
+
+#: admin/pages/class-pages-check.php:201
+#: libs/factory/feedback/views/deactivate-form.php:83
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: libs/factory/feedback/views/deactivate-form.php:82
+msgid "Skip & Deactivate"
+msgstr "Saltar y desactivar"
+
+#: libs/factory/feedback/views/deactivate-form.php:80
+msgid "Anonymous feedback"
+msgstr "Respuesta anónima"
+
+#: libs/factory/feedback/views/deactivate-form.php:75
+msgid "We will receive the following information from you: site address, php version, Wordpress version, version of our plugin, this will help us better understand the causes of the problem. If you don't want to send this data, click the \"Anonymous\" checkbox."
+msgstr "Recibiremos de ti la siguiente información: la dirección del sitio, la versión de PHP, la versión de WordPress y la versión de nuestro plugin, lo que nos ayudará a comprender mejor las causas del problema. Si no quieres enviar estos datos, haz clic en la casilla de verificación «Anónimo»."
+
+#: libs/factory/feedback/views/deactivate-form.php:70
+msgid "Other"
+msgstr "Otro"
+
+#: libs/factory/feedback/views/deactivate-form.php:61
+msgid "It's a temporary deactivation. I'm just debugging an issue."
+msgstr "Es una desactivación temporal. Solo estoy depurando un problema."
+
+#: libs/factory/feedback/views/deactivate-form.php:52
+msgid "The plugin broke my site"
+msgstr "El plugin ha roto mi sitio"
+
+#: libs/factory/feedback/views/deactivate-form.php:43
+msgid "I no longer need the plugin"
+msgstr "Ya no necesito el plugin"
+
+#: libs/factory/feedback/views/deactivate-form.php:34
+msgid "I only needed the plugin for a short period"
+msgstr "Solo necesitaba el plugin durante un periodo corto"
+
+#: libs/factory/feedback/views/deactivate-form.php:25
+msgid "The plugin suddenly stopped working"
+msgstr "El plugin, de repente, ha dejado de funcionar"
+
+#: libs/factory/feedback/views/deactivate-form.php:16
+msgid "I found a better plugin"
+msgstr "He encontrado un plugin mejor"
+
+#: libs/factory/feedback/views/deactivate-form.php:8
+msgid "If you have a moment, please let us know why you are deactivating"
+msgstr "Si tienes un momento, por favor, dinos por qué lo estás desactivando"
+
+#: libs/factory/feedback/views/deactivate-form.php:4
+msgid "Quick Feedback"
+msgstr "Respuesta rápida"
+
+#: libs/factory/templates/pages/class-page-license.php:337
+msgid "Сommercial license, only to the premium add-on to this free plugin. You cannot distribute or modify the premium add-on. But free plugin is a GPLv3 compatible license allowing you to change and use this version of the plugin for free."
+msgstr "Licencia comercial, solo para la extensión premium de este plugin gratuito. No puedes distribuir ni modificar la extensión premium. Pero el plugin gratuito tiene una licencia compatible con GPLv3 que te permite cambiar y usar esta versión del plugin de forma gratuita."
+
+#: libs/factory/templates/pages/class-page-license.php:303
+msgid "Upgrade to Premium"
+msgstr "Actualizar a Premium"
+
+#: admin/ajax/logs.php:22 admin/ajax/notice.php:17
+msgid "Logs clean-up successfully"
+msgstr "Limpieza de logs correcta"
+
+#: admin/ajax/logs.php:16
+msgid "Failed to clean-up logs. Please try again later."
+msgstr "Error al limpiar los registros. Vuelve a intentarlo más tarde."
+
+#: admin/pages/class-pages-antispam.php:191
+msgid "Advanced protection of comment forms"
+msgstr "Protección avanzada de los formularios de comentarios"
+
+#: admin/pages/class-pages-antispam.php:183
+msgid "Registration form can be protected in a matter of minutes with a few new fields and limits imposed."
+msgstr "El formulario de registro puede ser protegido en cuestión de minutos con algunos nuevos campos y estableciendo límites."
+
+#: admin/pages/class-pages-antispam.php:181
+msgid "Protect Register Form"
+msgstr "Proteger el formulario de registro"
+
+#: admin/pages/class-pages-antispam.php:174
+#: admin/pages/firewall/class-pages-firewall-settings.php:115
+#: admin/pages/firewall/class-pages-firewall-settings.php:206
+#: admin/pages/firewall/class-pages-firewall-settings.php:289
+#: admin/pages/firewall/class-pages-firewall-settings.php:299
+msgid "Additional modules to spam protect."
+msgstr "Módulos adicionales de protección contra el spam."
+
+#: admin/pages/class-pages-antispam.php:174
+msgid "Modules."
+msgstr "Módulos."
+
+#: admin/pages/class-pages-antispam.php:167
+msgid "To help your site with transparency under privacy laws like the GDPR, Antispam can display a notice to your users under your comment forms. This feature is disabled by default, however, you can turn it on above."
+msgstr "Para ayudar a tu sitio a ser transparente según las leyes de privacidad, como el RGPD, Antispam puede mostrar a tus usuarios un aviso debajo de tus formularios de comentarios. Por defecto, esta característica está desactivada, sin embargo, puedes activarla arriba."
+
+#: admin/pages/class-pages-antispam.php:165
+msgid "Display a privacy notice under your comment forms."
+msgstr "Muestra un aviso de privacidad debajo de tus formularios de comentarios."
+
+#: admin/pages/class-pages-antispam.php:156
+#: admin/pages/setup/steps/class-step-setting-antispam.php:45
+msgid "Save spam comments into spam section. Useful for testing how the plugin works."
+msgstr "Guarda los comentarios de spam en la sección de spam. Es útil para probar cómo funciona el plugin."
+
+#: admin/pages/class-pages-antispam.php:154
+#: admin/pages/setup/steps/class-step-setting-antispam.php:43
+msgid "Save spam comments"
+msgstr "Guardar los comentarios de spam"
+
+#: admin/pages/class-pages-antispam.php:137
+msgid "Base options."
+msgstr "Opciones base."
+
+#: admin/pages/class-pages-antispam.php:93
+msgid "Anti-spam"
+msgstr "Anti-spam"
+
+#: libs/antispam-premium/admin/boot.php:114
+msgid "Anti-spam Pro"
+msgstr "Anti-spam Pro"
+
+#: admin/pages/class-pages-components-license.php:70
+#: admin/pages/class-pages-license.php:69
+msgid "Product activation"
+msgstr "Activación del producto"
+
+#: admin/pages/class-pages-components-license.php:69
+#: admin/pages/class-pages-license.php:68
+msgid "License"
+msgstr "Licencia"
+
+#: admin/pages/class-pages-logs.php:98
+msgid "Clean-up Logs (<span id=\"js-wlogger-size\">%s</span>)"
+msgstr "Limpieza de los registros (<span id=\"js-wlogger-size\">%s</span>)"
+
+#: admin/pages/class-pages-logs.php:96
+msgid "Working..."
+msgstr "Trabajando..."
+
+#: admin/pages/class-pages-logs.php:94
+msgid "Export Debug Information"
+msgstr "Exportar la información de depuración"
+
+#: admin/pages/class-pages-logs.php:61
+msgid "Plugin debug report"
+msgstr "Informe de depuración del plugin"
+
+#: admin/pages/class-pages-logs.php:60 admin/pages/class-pages-logs.php:86
+msgid "Error Log"
+msgstr "Registro de errores"
+
+#: libs/factory/core/includes/class-factory-plugin-abstract.php:582
+msgid "You cannot use this feature on the frontend."
+msgstr "No puedes usar esta característica en la portada."
+
+#: libs/factory/core/includes/functions.php:152
+msgid "%1$s is <strong>deprecated</strong> since version %2$s with no alternative available."
+msgstr "%1$s está <strong>obsoleto</strong> desde la versión %2$s sin ninguna alternativa disponible."
+
+#: libs/factory/core/includes/functions.php:150
+msgid "%1$s is <strong>deprecated</strong> since version %2$s! Use %3$s instead."
+msgstr "¡%1$s está <strong>obsoleto</strong> desde la versión %2$s! Usa %3$s en su lugar."
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:816
+msgid ""
+"Congratulations, you have activated a premium license! Please activate premium add-on to use pro features now.\n"
+"        <a href=\"%s\">Activate</a> premium add-on or <a href=\"%s\">cancel</a> license."
+msgstr ""
+"¡Felicidades, has activado una licencia premium! Por favor, activa ahora la extensión premium para usar las características pro.\n"
+"        <a href=\"%s\">Activar</a> la extensión premium o <a href=\"%s\">cancelar</a> la licencia."
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:814
+msgid ""
+"Congratulations, you have activated a premium license! Please install premium add-on to use pro features now.\n"
+"        <a href=\"%s\">Install</a> premium add-on or <a href=\"%s\">cancel</a> license."
+msgstr ""
+"¡Felicidades, has activado una licencia premium! Por favor, instala ahora la extensión premium para usar las características pro.\n"
+"        <a href=\"%s\">Instalar</a> la extensión premium o <a href=\"%s\">cancelar</a> la licencia."
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:813
+msgid "Your license has expired. You can no longer get premium plugin updates, premium support and your access to Webcraftic services has been suspended."
+msgstr "Tu licencia ha caducado. Ya no puedes obtener las actualizaciones premium del plugin ni soporte premium y tu acceso a los servicios de Webcraftic ha sido suspendido."
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:812
+msgid "License activation required. A license is required to get premium plugin updates, as well as to get additional services."
+msgstr "Se necesita la activación de la licencia. Es necesaria una licencia para obtener las actualizaciones premium del plugin, así como para obtener servicios adicionales."
+
+#: libs/factory/core/includes/class-factory-migrations.php:508
+msgid "There is no PHP Tokenizer extension installed on your server, you cannot use the token_get_all function."
+msgstr "No hay ninguna extensión PHP Tokenizer instalada en tu servidor y no puedes usar la función `token_get_all`."
+
+#: libs/factory/core/includes/class-factory-migrations.php:177
+msgid "migrations DEBUG bar"
+msgstr "barra de DEPURACIÓN de migraciones"
+
+#: libs/factory/core/includes/class-factory-migrations.php:170
+msgid "Migrate now"
+msgstr "Migrar ahora"
+
+#: libs/factory/core/includes/class-factory-migrations.php:169
+msgid "Need migration:"
+msgstr "Migración necesaria:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:168
+msgid "Current plugin version:"
+msgstr "Versión actual del plugin:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:167
+msgid "Old plugin version (debug):"
+msgstr "Versión antigua del plugin (depuración):"
+
+#: libs/factory/core/includes/class-factory-migrations.php:165
+msgid "Plugin activated:"
+msgstr "Plugin activado:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:139
+msgid "migration error"
+msgstr "error de migración"
+
+#: libs/factory/core/includes/class-factory-migrations.php:132
+msgid "I fixed, confirm migration"
+msgstr "Lo he corregido, confirmo la migración"
+
+#: libs/factory/core/includes/class-factory-requirements.php:290
+msgid "Plugin %s is already activated, you are trying to activate it again."
+msgstr "El plugin %s ya está activado, estás intentando activarlo de nuevo."
+
+#: libs/factory/core/includes/class-check-compatibility.php:90
+#: libs/factory/core/includes/class-factory-requirements.php:283
+msgid "You need to update WordPress to %s or higher!"
+msgstr "¡Tienes que actualizar WordPress a la versión %s o superior!"
+
+#: libs/factory/core/includes/class-check-compatibility.php:85
+#: libs/factory/core/includes/class-factory-requirements.php:276
+msgid "You need to update the PHP version to %s or higher!"
+msgstr "¡Tienes que actualizar PHP a la versión %s o superior!"
+
+#: libs/factory/core/includes/class-check-compatibility.php:79
+#: libs/factory/core/includes/class-factory-requirements.php:246
+msgid "Possible reasons:"
+msgstr "Posibles razones:"
+
+#: libs/factory/core/includes/class-check-compatibility.php:78
+#: libs/factory/core/includes/class-factory-requirements.php:245
+msgid "The %s plugin has stopped."
+msgstr "El plugin %s se ha detenido."
+
+#: libs/factory/core/includes/class-check-compatibility.php:76
+#: libs/factory/core/includes/class-factory-requirements.php:243
+msgid "warning"
+msgstr "advertencia"
+
+#: libs/factory/forms/controls/holders/more-link.php:56
+msgid "hide extra options"
+msgstr "ocultar las opciones adicionales"
+
+#: libs/factory/forms/controls/checkbox.php:136
+msgid "Off"
+msgstr "Desactivado"
+
+#: libs/factory/forms/controls/checkbox.php:133
+msgid "On"
+msgstr "Activado"
+
+#: libs/factory/forms/controls/paddings-editor.php:70
+msgid "Select a side and move the slider to set up:"
+msgstr "Selecciona un lado y mueve el control deslizante para configurarlo:"
+
+#: libs/factory/forms/controls/font.php:190
+msgid "Monospaced:"
+msgstr "Monospaced:"
+
+#: libs/factory/forms/controls/font.php:134
+msgid "Serif:"
+msgstr "Serif:"
+
+#: libs/factory/forms/controls/font.php:83
+msgid "Sans Serif:"
+msgstr "Sans Serif:"
+
+#: libs/factory/forms/controls/pattern.php:117
+msgid "Changing the color may takes a minute or more. Please be patient."
+msgstr "Cambiar el color puede tardar un minuto o más. Por favor, sé paciente."
+
+#: libs/factory/forms/controls/pattern.php:114
+msgid "Select color:"
+msgstr "Seleccionar el color:"
+
+#: libs/factory/forms/controls/pattern.php:107
+msgid "re-color"
+msgstr "volver a colorear"
+
+#: libs/factory/forms/controls/pattern.php:105
+msgid "Change color"
+msgstr "Cambiar el color"
+
+#: libs/factory/forms/controls/google-font.php:136
+msgid "Unexpected error. The list of Google Fonts are empty."
+msgstr "Error inesperado. La lista de fuentes de Google está vacía."
+
+#: libs/factory/forms/controls/google-font.php:126
+msgid "Invalide response from the Google Fonts API."
+msgstr "Respuesta no válida desde la API de Google Fonts."
+
+#: libs/factory/forms/controls/google-font.php:118
+msgid "Unable to retrieve the list of Google Fonts."
+msgstr "No se ha podido recuperar la lista de fuentes de Google."
+
+#: libs/factory/forms/controls/google-font.php:68
+msgid "Google Fonts:"
+msgstr "Google Fonts:"
+
+#: libs/factory/forms/controls/google-font.php:57
+msgid "Standard:"
+msgstr "Estándar:"
+
+#: libs/factory/forms/controls/font.php:80
+#: libs/factory/forms/controls/google-font.php:52
+msgid "(use default website font)"
+msgstr "(usar la fuente por defecto de la web)"
+
+#: libs/factory/forms/controls/gradient.php:70
+msgid "horizontal"
+msgstr "horizontal"
+
+#: libs/factory/forms/controls/gradient.php:69
+msgid "vertical"
+msgstr "vertical"
+
+#: libs/factory/forms/controls/dropdown.php:271
+#: libs/factory/forms/controls/dropdown.php:352
+msgid "- empty -"
+msgstr "- vacío -"
+
+#: libs/factory/forms/controls/dropdown.php:126
+#: libs/factory/forms/controls/list.php:96
+#: libs/factory/forms/controls/list.php:139
+msgid "The list is empty."
+msgstr "La lista está vacía."
+
+#: libs/factory/forms/controls/multiple-textbox.php:89
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: libs/factory/templates/includes/ajax-handlers.php:121
+msgid "Subscription success cancelled"
+msgstr "Suscripción cancelada correctamente"
+
+#: libs/factory/templates/includes/ajax-handlers.php:117
+msgid "The license has been updated"
+msgstr "La licencia ha sido actualizada"
+
+#: libs/factory/templates/includes/ajax-handlers.php:113
+msgid "The license is deactivated"
+msgstr "La licencia está desactivada"
+
+#: libs/factory/templates/includes/ajax-handlers.php:108
+msgid "Your license has been successfully activated"
+msgstr "Tu licencia ha sido activada correctamente"
+
+#: libs/factory/templates/includes/ajax-handlers.php:105
+msgid "License key is empty or license key too long (license key is 32 characters long)"
+msgstr "La clave de licencia está vacía o es demasiado larga (la clave de licencia tiene 32 caracteres de longitud)."
+
+#: libs/factory/templates/includes/ajax-handlers.php:94
+msgid "Licensing action not passed or this action is prohibited!"
+msgstr "¡La acción de licencia no ha sido aprobada o esta acción está prohibida!"
+
+#: admin/class-page-titan-basic.php:77
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:478
+msgid "If you find a php error or a vulnerability in plugin, you can <a href=\"%s\" target=\"_blank\" rel=\"noopener\">create ticket</a> in hot support that we responded instantly."
+msgstr "Si encuentras un error de PHP o una vulnerabilidad en el plugin, puedes <a href=\"%s\" target=\"_blank\" rel=\"noopener\">crear un tique</a> en el soporte que responderemos de forma instantánea."
+
+#: admin/class-page-titan-basic.php:73
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:474
+msgid "Get starting free support"
+msgstr "Obtén soporte gratuito inicial"
+
+#: admin/class-page-titan-basic.php:68
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:469
+msgid "We provide free support for this plugin. If you are pushed with a problem, just create a new ticket. We will definitely help you!"
+msgstr "Proporcionamos soporte gratuito para este plugin. Si tienes un problema, simplemente crea un nuevo tique. ¡Definitivamente te ayudaremos!"
+
+#: admin/class-page-titan-basic.php:65
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:466
+msgid "Having Issues?"
+msgstr "¿Tienes problemas?"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:433
+msgid "Donation for plugin development"
+msgstr "Donación para el desarrollo del plugin"
+
+#: admin/class-page-titan-basic.php:117
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:415
+msgid "Go rate us and push ideas"
+msgstr "Ve a valorarnos y a proponer ideas"
+
+#: admin/class-page-titan-basic.php:107
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:411
+msgid "And also write your ideas on how to extend or improve the plugin."
+msgstr "Y escribe también tus ideas sobre cómo ampliar o mejorar el plugin."
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:410
+msgid "Help the author, leave a review on wordpress.org. Thanks to feedback, I will know that the plugin is really useful to you and is needed."
+msgstr "Ayuda al autor, deja una reseña en wordpress.org. Gracias a los comentarios, sabré que el plugin te es útil realmente y que es necesario."
+
+#: admin/class-page-titan-basic.php:104
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:408
+msgid "Do you want the plugin to improved and update?"
+msgstr "¿Quieres que el plugin sea mejorado y actualizado?"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:381
+msgid "Hover to the icon to get help for the feature you selected."
+msgstr "Pasa el cursor por encima del icono para obtener ayuda sobre la característica que has seleccionado."
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:377
+msgid "Absolutely safe setting, We recommend to use."
+msgstr "Ajuste absolutamente seguro. Recomendamos usarlo."
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:370
+msgid "When set this option, you must be careful. Plugins and themes may depend on this function. You must be sure that you can disable this feature for the site."
+msgstr "Al configurar esta opción, debes tener cuidado. Los plugins y temas pueden depender de esta función. Debes estar seguro de que puedes desactivar esta característica en el sitio."
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:363
+msgid "A neutral setting that can not harm your site, but you must be sure that you need to use it."
+msgstr "Un ajuste neutro que no puede dañar tu sitio, pero debes estar seguro de que necesitas usarlo."
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:341
+msgid "Upgrade for $%s"
+msgstr "Actualiza por $%s"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:308
+msgid "MORE IN CLEARFY <span>BUSINESS</span>"
+msgstr "MÁS EN CLEARFY <span>BUSINESS</span>"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:302
+msgid "Perfect support."
+msgstr "Soporte perfecto."
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:301
+msgid "No ads;"
+msgstr "Sin publicidad;"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:300
+msgid "Advanced settings;"
+msgstr "Ajustes avanzados;"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:299
+msgid "Multisite support;"
+msgstr "Compatibilidad con multisitio;"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:298
+msgid "40 new premium components within a year for the single price;"
+msgstr "40 nuevos componentes premium al año por un precio único;"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:297
+msgid "4 premium components now;"
+msgstr "4 componentes premium ahora;"
+
+#: admin/pages/class-pages-components.php:119
+#: libs/factory/templates/pages/class-pages-components.php:103
+#: views/pro-version.php:4 views/require-license-activate.php:62
+msgid "Activate license"
+msgstr "Activar la licencia"
+
+#: libs/factory/templates/pages/class-page-more-features.php:170
+msgid "Get the ultimate plugin 100% FREE"
+msgstr "Obtén el plugin definitivo 100 % GRATIS"
+
+#: libs/factory/templates/pages/class-page-more-features.php:156
+msgid "In quick mode, you can easily configure the plugin according to your needs."
+msgstr "En el modo rápido, puedes configurar el plugin fácilmente de acuerdo a tus necesidades."
+
+#: libs/factory/templates/pages/class-page-more-features.php:155
+msgid "Easy setup"
+msgstr "Fácil configuración"
+
+#: libs/factory/templates/pages/class-page-more-features.php:148
+msgid ""
+"Allows you to hide the version of the site and plugins. Allows you to hide your\n"
+"\t\t\t\t\t\t\tWordPress."
+msgstr ""
+"Te permite ocultar la versión del sitio y de los plugins. Te permite ocultar tu\n"
+"\t\t\t\t\t\t\tWordPress."
+
+#: libs/factory/templates/pages/class-page-more-features.php:147
+msgid "Site privacy"
+msgstr "Privacidad del sitio"
+
+#: libs/factory/templates/pages/class-page-more-features.php:141
+msgid "Increases performance by disabling unused functions and reducing the number of requests."
+msgstr "Aumenta el rendimiento al desactivar las funciones no utilizadas y al reducir el número de solicitudes."
+
+#: libs/factory/templates/pages/class-page-more-features.php:140
+msgid "Speed Optimization"
+msgstr "Optimización de la velocidad"
+
+#: libs/factory/templates/pages/class-page-more-features.php:134
+msgid "Allows you to remove unused widgets."
+msgstr "Te permite eliminar los widgets no usados."
+
+#: libs/factory/templates/pages/class-page-more-features.php:133
+msgid "Manage widgets"
+msgstr "Gestionar los widgets"
+
+#: libs/factory/templates/pages/class-page-more-features.php:126
+msgid ""
+"Enables or disables automatically updates for plugins, themes and core. It is also possible\n"
+"\t\t\t\t\t\t\tto disable all updates."
+msgstr ""
+"Activa o desactiva automáticamente las actualizaciones de los plugins, los temas y del núcleo. También es posible\n"
+"\t\t\t\t\t\t\tdesactivar todas las actualizaciones."
+
+#: libs/factory/templates/pages/class-page-more-features.php:125
+msgid "Manage updates"
+msgstr "Gestionar las actualizaciones"
+
+#: libs/factory/templates/pages/class-page-more-features.php:119
+msgid "Disables comments on the entire site or on specific pages."
+msgstr "Desactiva los comentarios en todo el sitio o en páginas específicas."
+
+#: libs/factory/templates/pages/class-page-more-features.php:118
+msgid "Disable comments"
+msgstr "Desactivar los comentarios"
+
+#: libs/factory/templates/pages/class-page-more-features.php:112
+msgid "Enables and disables features that improve the protection of your site."
+msgstr "Activa y desactiva características que mejoran la protección de tu sitio."
+
+#: libs/factory/templates/pages/class-page-more-features.php:111
+msgid "Site protection"
+msgstr "Protección del sitio"
+
+#: libs/factory/templates/pages/class-page-more-features.php:105
+msgid "Removes duplicate pages, closes external links, changes the headers of the server."
+msgstr "Elimina las páginas duplicadas, cierra los enlaces externos, cambia las cabeceras del servidor."
+
+#: libs/factory/templates/pages/class-page-more-features.php:104
+msgid "Improve SEO"
+msgstr "Mejorar el SEO"
+
+#: libs/factory/templates/pages/class-page-more-features.php:98
+msgid "Clears the source code of the page from unused code."
+msgstr "Limpia el código fuente de la página de código no usado."
+
+#: libs/factory/templates/pages/class-page-more-features.php:97
+msgid "Code cleaning"
+msgstr "Limpieza del código"
+
+#: libs/factory/templates/pages/class-page-more-features.php:82
+#: libs/hide-login-page/admin/pages/more-features.php:18
+msgid "More features"
+msgstr "Más características"
+
+#: libs/factory/templates/pages/class-page-more-features.php:68
+msgid "More features (<b>free</b>)"
+msgstr "Más características (<b>gratis</b>)"
+
+#: admin/pages/class-pages-license.php:287
+#: libs/factory/templates/pages/class-page-license.php:272
+msgid "Can’t find your key? Go to <a href=\"%s\" target=\"_blank\" rel=\"noopener\">this page</a> and login using the e-mail address associated with your purchase."
+msgstr "¿No encuentras tu clave? Ve a <a href=\"%s\" target=\"_blank\" rel=\"noopener\">esta página</a> y accede usando la dirección de correo electrónico asociada a tu compra."
+
+#: admin/pages/class-pages-license.php:283
+#: libs/factory/templates/pages/class-page-license.php:268
+msgid "<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Lean more</a> about the premium version and get the license key to activate it now!"
+msgstr "<a href=\"%s\" target=\"_blank\" rel=\"noopener\">Aprende más</a> sobre la versión premium y ¡obtén la clave de licencia para activarla ahora!"
+
+#: libs/factory/templates/pages/class-page-license.php:408
+msgid "Submit Key"
+msgstr "Enviar la clave"
+
+#: libs/factory/templates/pages/class-page-license.php:403
+msgid "Have a key to activate the plugin? Paste it here:"
+msgstr "¿Tienes una clave para activar el plugin? Pégala aquí:"
+
+#: libs/factory/templates/pages/class-page-license.php:401
+msgid "Have a key to activate the premium version? Paste it here:"
+msgstr "¿Tienes una clave para activar la versión premium? Pégala aquí:"
+
+#: libs/factory/templates/pages/class-page-license.php:390
+msgid "remained"
+msgstr "restantes"
+
+#: libs/factory/templates/pages/class-page-license.php:388
+msgid "day(s)"
+msgstr "día(s)"
+
+#: libs/factory/templates/pages/class-page-license.php:378
+msgid "please update the key"
+msgstr "por favor, actualiza la clave"
+
+#: libs/factory/templates/pages/class-page-license.php:377
+msgid "EXPIRED!"
+msgstr "¡CADUCADA!"
+
+#: libs/factory/templates/pages/class-page-license.php:367
+msgid "active sites"
+msgstr "sitios activos"
+
+#: admin/pages/class-pages-license.php:109
+#: libs/factory/templates/pages/class-page-license.php:365
+msgid "of"
+msgstr "de"
+
+#: libs/factory/templates/pages/class-page-license.php:359
+msgid "plan"
+msgstr "plan"
+
+#: libs/factory/templates/pages/class-page-license.php:355
+msgid "domain"
+msgstr "dominio"
+
+#: libs/factory/templates/pages/class-page-license.php:347
+msgid "Your license has expired, please extend the license to get updates and support."
+msgstr "Tu licencia ha caducado, por favor, amplía la licencia para obtener actualizaciones y soporte."
+
+#: libs/factory/templates/pages/class-page-license.php:341
+msgid "You use a paid subscription for the plugin updates. In case you don’t want to receive paid updates, please, click <a data-action=\"unsubscribe\" class=\"wcl-control-btn\" href=\"#\">cancel subscription</a>"
+msgstr "Usas una suscripción de pago para las actualizaciones del plugin. En caso de que no quieras recibir actualizaciones de pago, por favor, haz clic en <a data-action=\"unsubscribe\" class=\"wcl-control-btn\" href=\"#\">cancelar la suscripción</a>"
+
+#: admin/pages/class-pages-license.php:113
+#: libs/factory/templates/pages/class-page-license.php:335
+msgid "Public License is a GPLv3 compatible license allowing you to change and use this version of the plugin for free. Please keep in mind this license covers only free edition of the plugin. Premium versions are distributed with other type of a license."
+msgstr "La licencia pública es una licencia compatible con GPLv3 que te permite cambiar y usar esta versión del plugin de forma gratuita. Por favor, ten en cuenta que esta licencia solo cubre la edición gratuita del plugin. Las versiones Premium se distribuyen con otro tipo de licencia."
+
+#: admin/pages/class-pages-license.php:110
+#: libs/factory/templates/pages/class-page-license.php:324
+msgid "Automatic renewal, every %s"
+msgstr "Renovación automática, cada %s"
+
+#: libs/factory/templates/pages/class-page-license.php:316
+msgid "Synchronization"
+msgstr "Sincronización"
+
+#: libs/factory/templates/pages/class-page-license.php:312
+msgid "Delete Key"
+msgstr "Borrar la clave"
+
+#: libs/factory/templates/pages/class-page-license.php:306
+msgid "Your current license for %1$s:"
+msgstr "Tu licencia actual para %1$s:"
+
+#: libs/factory/templates/pages/class-page-license.php:286
+msgid "Activate %s"
+msgstr "Activar %s"
+
+#: libs/factory/pages/pages.php:73
+msgid "You are trying to call this earlier than the plugin menu will be registered."
+msgstr "Estás intentando llamarlo antes de que sea registrado el menú del plugin."
+
+#: libs/factory/templates/pages/templates/impressive-lite/class-page-template-impressive-lite.php:222
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:725
+msgid "You do not have permission to edit page."
+msgstr "No tienes permiso para editar la página."
+
+#: libs/factory/templates/pages/templates/impressive-lite/class-page-template-impressive-lite.php:264
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:617
+#: views/backup.php:67
+msgid "Save"
+msgstr "Guardar"
+
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:608
+msgid "Page"
+msgstr "Página"
+
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:350
+msgid "It seems that a caching/performance plugin is active on this site. Please manually invalidate that plugin's cache after making any changes to the settings below."
+msgstr "Parece que en este sitio hay activo un plugin de caché/rendimiento. Por favor, invalida manualmente la caché de ese plugin después de hacer cualquier cambio en los siguientes ajustes."
+
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:350
+msgid "The settings have been updated successfully!"
+msgstr "¡Los ajustes han sido actualizados correctamente!"
+
+#: admin/pages/class-pages-plugin-settings.php:52
+#: admin/pages/firewall/class-pages-firewall-settings.php:61
+#: includes/class-titan-security-plugin.php:277
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:132
+#: views/components.php:83
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/antispam/functions.php:67
+msgid "This site uses Antispam to reduce spam. <a href=\"%s\" target=\"_blank\" rel=\"nofollow noopener\">Learn how your comment data is processed</a>."
+msgstr "Este sitio usa Anti-Spam para reducir el spam. <a href=\"%s\" target=\"_blank\" rel=\"nofollow noopener\"> Aprende cómo se procesan los datos de tus comentarios </a>."
+
+#. Author URI of the plugin
+msgid "https://cm-wp.com/"
+msgstr "https://cm-wp.com/"
+
+#. Author of the plugin
+msgid "CreativeMotion"
+msgstr "CreativeMotion"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/anti-spam/"
+msgstr "http://es.wordpress.org/plugins/anti-spam/"

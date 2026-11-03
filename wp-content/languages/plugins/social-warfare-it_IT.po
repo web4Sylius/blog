@@ -1,0 +1,282 @@
+# Translation of Plugins - WordPress Social Sharing Plugin &#8211; Social Warfare - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - WordPress Social Sharing Plugin &#8211; Social Warfare - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-03-06 17:43:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - WordPress Social Sharing Plugin &#8211; Social Warfare - Stable (latest release)\n"
+
+#: lib/options/SWP_Options_Page.php:569
+msgid "Registration"
+msgstr "Registrazione"
+
+#: lib/utilities/SWP_Plugin_Updater.php:426
+msgid "Error"
+msgstr "Errore"
+
+#: lib/utilities/SWP_Plugin_Updater.php:426
+msgid "You do not have permission to install plugin updates"
+msgstr "Non hai l'autorizzazione per installare gli aggiornamenti del plugin"
+
+#: lib/options/SWP_Options_Page.php:448
+msgid "Full Content?"
+msgstr "Tutto il contenuto?"
+
+#: lib/options/SWP_Options_Page.php:443
+msgid "Full Content vs. Excerpts"
+msgstr "Tutto il contenuto vs. Riassunto"
+
+#: lib/options/SWP_Options_Page.php:433
+msgid "If you want to stop content pirates from framing your content, turn this on."
+msgstr "Se vuoi impedire ai pirati di contenuto di inserire frame nelle tue pagine, attiva questo."
+
+#: lib/options/SWP_Options_Page.php:431 lib/options/SWP_Options_Page.php:437
+msgid "Frame Buster"
+msgstr "Frame Buster"
+
+#: lib/options/SWP_Options_Page.php:417
+msgid "Advanced"
+msgstr "Avanzate"
+
+#: lib/options/SWP_Options_Page.php:679
+msgid "Facebook App ID"
+msgstr "Facebook App ID"
+
+#: lib/options/SWP_Options_Page.php:673
+msgid "Facebook Page URL"
+msgstr "Facebook URL Pagina"
+
+#: lib/options/SWP_Options_Page.php:667
+msgid "Pinterest Username"
+msgstr "Nome utente Pinterest"
+
+#: lib/admin/SWP_User_Profile.php:64 lib/options/SWP_Options_Page.php:661
+msgid "Twitter Username"
+msgstr "Nome utente Twitter"
+
+#: lib/options/SWP_Options_Page.php:658
+msgid "If you would like to set sitewide defaults for your social identity, add them below."
+msgstr "Se vuoi aggiungere delle identità sociali disponibili su tutto il sito, aggiungile qua in basso."
+
+#: lib/options/SWP_Options_Page.php:654
+msgid "Social Identity"
+msgstr "Identità Sociale"
+
+#: lib/options/SWP_Options_Page.php:752
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: lib/options/SWP_Options_Page.php:770
+msgid "Fade In / Fade Out"
+msgstr "Fade In / Fade Out"
+
+#: lib/options/SWP_Options_Page.php:769
+msgid "Slide In / Slide Out"
+msgstr "Slide In / Slide Out"
+
+#: lib/options/SWP_Options_Page.php:766
+msgid "Transition"
+msgstr "Transizione"
+
+#: lib/options/SWP_Options_Page.php:759
+msgid "Minimum Screen Width"
+msgstr "Larghezza minima dello schermo"
+
+#: lib/options/SWP_Options_Page.php:743
+msgid "On the left side of the page"
+msgstr "Sul lato sinistro della pagina"
+
+#: lib/options/SWP_Options_Page.php:742
+msgid "Bottom of the Page"
+msgstr "In fondo alla pagina"
+
+#: lib/options/SWP_Options_Page.php:741
+msgid "Top of the Page"
+msgstr "All'inizio della pagina"
+
+#: lib/options/SWP_Options_Page.php:739
+msgid "Float Position"
+msgstr "Posizione Galleggiante"
+
+#: lib/options/SWP_Options_Page.php:728
+msgid "If you would like to activate floating share buttons, turn this on."
+msgstr "Se desideri attivare i pulsanti di condivisione galleggianti, attiva questo."
+
+#: lib/options/SWP_Options_Page.php:727 lib/options/SWP_Options_Page.php:733
+msgid "Floating Share Buttons"
+msgstr "Pulsanti di condivisione galleggianti"
+
+#: lib/options/SWP_Options_Page.php:529
+msgid "Alignment"
+msgstr "Allineamento"
+
+#: lib/options/SWP_Options_Page.php:519
+msgid "Decimal Separator"
+msgstr "Separatore decimale"
+
+#: lib/options/SWP_Options_Page.php:508
+msgid "Decimal Places"
+msgstr "Posizioni decimali"
+
+#: lib/options/SWP_Options_Page.php:704
+msgid "Styles"
+msgstr "Stili"
+
+#: lib/options/SWP_Section_HTML.php:360 lib/options/SWP_Section_HTML.php:545
+msgid "Post Type"
+msgstr "Post Type"
+
+#: lib/options/SWP_Options_Page.php:502
+msgid "Total Counts"
+msgstr "Conteggio totale"
+
+#: lib/options/SWP_Options_Page.php:491
+msgid "Use the toggles below to determine how to display your social proof."
+msgstr "Usa le opzioni qua sotto per decidere come mostrare il tuo social proof."
+
+#: lib/options/SWP_Options_Page.php:490
+msgid "Share Counts"
+msgstr "Condividi conteggio"
+
+#: lib/options/SWP_Options_Page.php:476
+msgid "Social Networks"
+msgstr "Social Network"
+
+#: lib/utilities/SWP_Utility.php:145
+msgid "No settings to save."
+msgstr "Nessuna impostazione salvata."
+
+#: lib/options/SWP_Registration_Tab_Template.php:57
+#: lib/Social_Warfare_Addon.php:416
+msgid "Security failed."
+msgstr "Errore di sicurezza."
+
+#: lib/options/SWP_Section_HTML.php:86
+msgid "Press Ctrl+C to Copy this information."
+msgstr "Premi Ctrl+C per copiare queste informazioni."
+
+#: lib/options/SWP_Section_HTML.php:258
+#: lib/url-management/SWP_Link_Shortener.php:173
+msgid "Connected"
+msgstr "Connesso"
+
+#: lib/options/SWP_Option_Toggle.php:66 lib/options/SWP_Section_HTML.php:227
+msgid "OFF"
+msgstr "OFF"
+
+#: lib/options/SWP_Option_Toggle.php:65 lib/options/SWP_Section_HTML.php:227
+msgid "ON"
+msgstr "ON"
+
+#: lib/options/SWP_Options_Page.php:485 lib/options/SWP_Option_Icons.php:178
+msgid "Inactive"
+msgstr "Inattivo"
+
+#: lib/options/SWP_Options_Page.php:482 lib/options/SWP_Option_Icons.php:129
+msgid "Active"
+msgstr "Attivo"
+
+#: lib/admin/SWP_Settings_Link.php:44
+msgid "Settings"
+msgstr "Impostazioni"
+
+#. Author of the plugin
+msgid "Warfare Plugins"
+msgstr "Warfare Plugins"
+
+#. Plugin Name of the plugin
+#: assets/js/post-editor/blocks.php:59
+msgid "Social Warfare"
+msgstr "Social Warfare"
+
+#: lib/social-networks/SWP_Twitter.php:40
+msgid "Tweet"
+msgstr "Tweet"
+
+#: lib/social-networks/SWP_Stumble_Upon.php:38
+msgid "Stumble"
+msgstr "Stumble"
+
+#: lib/social-networks/SWP_Pinterest.php:35
+msgid "Pin"
+msgstr "Pin"
+
+#: lib/options/SWP_Section_HTML.php:351 lib/options/SWP_Section_HTML.php:517
+msgid "Off"
+msgstr "Off"
+
+#: lib/options/SWP_Section_HTML.php:350 lib/options/SWP_Section_HTML.php:516
+msgid "On"
+msgstr "On"
+
+#: lib/options/SWP_Options_Page.php:400 lib/options/SWP_Section_HTML.php:346
+msgid "None/Manual Placement"
+msgstr "Nessuno/Posizionamento Manuale"
+
+#: lib/options/SWP_Options_Page.php:399 lib/options/SWP_Section_HTML.php:345
+msgid "Both Above and Below the Content"
+msgstr "Entrambi sopra e sotto al contenuto."
+
+#: lib/options/SWP_Options_Page.php:398 lib/options/SWP_Section_HTML.php:344
+msgid "Below the Content"
+msgstr "Sotto al contenuto"
+
+#: lib/options/SWP_Options_Page.php:397 lib/options/SWP_Section_HTML.php:343
+msgid "Above the Content"
+msgstr "Sopra al contenuto"
+
+#: lib/frontend-output/SWP_Shortcode.php:173
+#: assets/js/post-editor/src/block/click-to-tweet.js:22
+msgid "Click To Tweet"
+msgstr "Click To Tweet"
+
+#: lib/buttons-panel/SWP_Buttons_Panel_Trait.php:721
+msgid "Shares"
+msgstr "Condivisioni"
+
+#: lib/options/SWP_Options_Page.php:445
+msgid "If your theme does not use excerpts, but instead displays the full post content on archive, category, and home pages, activate this toggle to allow the buttons to appear in those areas."
+msgstr "Se il tuo tema non usa i riassunti, ma invece mostra l'intero contenuto dell'articolo nelle pagine archivio, categoria e nella homepage. Attiva questa funzione per far mostrare i pulsanti anche in quelle pagine."
+
+#: lib/options/SWP_Section_HTML.php:366
+msgid "Floating Buttons (If Activated)"
+msgstr "Pulsanti galleggianti (se attivi)"
+
+#: lib/options/SWP_Section_HTML.php:363
+msgid "Static Buttons"
+msgstr "Pulsanti statici"
+
+#: lib/options/SWP_Options_Page.php:540
+msgid "Position Share Buttons"
+msgstr "Posizione pulsanti di condivisione"
+
+#: lib/options/SWP_Options_Page.php:496
+msgid "Button Counts"
+msgstr "Conteggio pulsanti"
+
+#: lib/options/SWP_Section_HTML.php:267
+#: lib/url-management/SWP_Link_Shortener.php:179
+msgid "Authenticate"
+msgstr "Autentica"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://warfareplugins.com"
+msgstr "https://warfareplugins.com"
+
+#: lib/options/SWP_Section_HTML.php:219
+msgid "Click here to visit OpenShareCount.com"
+msgstr "Clicca per visitare OpenShareCounts.com"
+
+#. Description of the plugin
+msgid "A plugin to maximize social shares and drive more traffic using the fastest and most intelligent share buttons on the market, calls to action via in-post click-to-tweets, popular posts widgets based on share popularity, link-shortening, Google Analytics and much, much more!"
+msgstr "Un plugin per massimizzare le condivisioni sociali e portare più traffico usando i pulsanti di condivisione più veloci e intelligenti sul mercato, call to action con click-to-tweets i, widget contenenti gli articoli più popolari in base alle loro condivisioni, accorcia i link, Google Analytics e molto, molto altro!"
+
+#: lib/options/SWP_Options_Page.php:478
+msgid "Drag & Drop to activate and order your share buttons."
+msgstr "Drag & Drop (trascina e rilascia) per attivare e disporre i tuoi pulsanti per i social network."

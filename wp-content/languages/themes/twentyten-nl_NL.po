@@ -1,0 +1,506 @@
+# Translation of Themes - Twenty Ten in Dutch
+# This file is distributed under the same license as the Themes - Twenty Ten package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-10-26 12:09:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: nl\n"
+"Project-Id-Version: Themes - Twenty Ten\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "The 2010 theme for WordPress is stylish, customizable, simple, and readable -- make it yours with a custom menu, header image, and background. Twenty Ten supports six widgetized areas (two in the sidebar, four in the footer) and featured images (thumbnails for gallery posts and custom header images for posts and pages). It includes stylesheets for print and the admin Visual Editor, special styles for posts in the \"Asides\" and \"Gallery\" categories, and has an optional one-column page template that removes the sidebar."
+msgstr "Het 2010 theme voor WordPress is stijlvol, aanpasbaar, simpel en leesbaar -- maak het je eigen met een aangepast menu, header afbeelding en achtergrond. Twenty Ten heeft 6 widget gebieden (twee in de zijbalk, vier in de footer) en uitgelichte afbeeldingen (thumbnails voor galerij berichten en aangepaste header afbeeldingen voor berichten en pagina's). Ook heeft het een stylesheet voor printen en de beheerder Visual Editor, speciale stijlen voor berichten in de \"Asides\" en \"Galerij\" categorieën, en heeft het een optionele een koloms pagina templates welke de zijbalk verwijderd."
+
+#. Theme Name of the theme
+#: block-patterns.php:20
+#, gp-priority: high
+msgid "Twenty Ten"
+msgstr "Twenty Ten"
+
+#: block-patterns.php:58
+msgid "Relaxing at the lake after dinner"
+msgstr "Ontspannen bij het meer na het eten"
+
+#: block-patterns.php:58
+msgid "A lake at night, with Adirondack chairs in the foreground. The sun sets in the background."
+msgstr "Een meer bij nacht, met Adirondack stoelen op de voorgrond. De zon gaat onder op de achtergrond."
+
+#: block-patterns.php:58
+msgid "Later that night, we went back to the lake and sat by the shore. It felt different at night; quieter, as if all of nature had gone to sleep for  a little while. The only noises were the chirp of crickets and the soft splash of the waves lapping at the shore. What a beautiful way to end the day."
+msgstr "Later die avond gingen we terug naar het meer en zaten aan de oever. Het voelde 's nachts anders aan; stiller, alsof de hele natuur even was gaan slapen. De enige geluiden waren het getjilp van krekels en het zachte geklots van de golven die tegen de oever klotsten. Wat een mooie manier om de dag te eindigen."
+
+#: block-patterns.php:58
+msgid "Nearby our cabin was a lake. The sunrise looked beautiful as it rose over the hills beyond the water, reflecting down onto the gentle morning waves. I sat on the dock and drank a cup of coffee, enjoying the cool air on my skin. The coffee kept me warm inside."
+msgstr "Vlakbij onze hut was een meer. De zonsopgang zag er prachtig uit toen hij oprees over de heuvels achter het water, en weerkaatste op de zachte ochtendgolven. Ik zat op de steiger en dronk een kop koffie, genietend van de koele lucht op mijn huid. De koffie hield me warm van binnen."
+
+#: block-patterns.php:58
+msgid "The lake at 6:54 AM"
+msgstr "Het meer om 6:54 AM"
+
+#: block-patterns.php:58
+msgid "A lake with several boats docked. The sun is rising behind mountains in the background."
+msgstr "Een meer met verschillende boten aangemeerd. De zon komt op achter bergen op de achtergrond."
+
+#: block-patterns.php:55
+msgid "Alternating Images"
+msgstr "Wisselende afbeeldingen"
+
+#: block-patterns.php:47
+msgid "— Malebo Sephodi"
+msgstr "- Malebo Sephodi"
+
+#: block-patterns.php:47
+msgid "\"Take time off&hellip; The world will not fall apart without you.\""
+msgstr "\"Neem de tijd voor&hellip; De wereld zal niet zonder jou in elkaar storten\""
+
+#: block-patterns.php:44
+msgid "Highlighted Quote"
+msgstr "Uitgelicht citaat"
+
+#: block-patterns.php:36
+msgid "It’s amazing what a good weekend can do. After a tough couple weeks at work, I knew I needed to get away and be in nature. My partner and I decided to take a long weekend and stay in a cabin in the woods. We packed up after work on Friday and drove out into the country, passing through fields full of horses, old farms, and quaint little town squares. It was an idyllic drive. Eventually, we reached our destination and unpacked the car. We couldn’t wait to cook up a simple dinner and then relax by the fireplace."
+msgstr "Het is verbazend wat een goed weekend kan doen. Na een paar zware weken op het werk wist ik dat ik er even tussenuit moest en in de natuur moest zijn. Mijn partner en ik besloten een lang weekend te nemen en in een hut in het bos te verblijven. We pakten vrijdag na het werk in en reden het land in, langs velden vol paarden, oude boerderijen, en schilderachtige stadspleintjes. Het was een idyllische rit. Uiteindelijk bereikten we onze bestemming en pakten de auto uit. We konden niet wachten om een eenvoudig diner klaar te maken en daarna bij de open haard te ontspannen."
+
+#: block-patterns.php:36
+msgid "A Weekend Away"
+msgstr "Een weekendje weg"
+
+#: block-patterns.php:36
+msgid "An old barn we passed on the drive"
+msgstr "Een oude schuur die we op de oprit passeerden"
+
+#: block-patterns.php:36
+msgid "A red barn with a white roof in a field."
+msgstr "Een rode schuur met een wit dak in een veld."
+
+#: block-patterns.php:33
+msgid "Introduction"
+msgstr "Inleiding"
+
+#. translators: %s: Post title.
+#: loop-attachment.php:27
+msgid "Go to %s"
+msgstr "Ga naar %s"
+
+#: functions.php:438
+msgid "Your comment is awaiting moderation. This is a preview; your comment will be visible after it has been approved."
+msgstr "Je reactie is in afwachting van moderatie. Dit is een voorbeeld; je reactie wordt zichtbaar nadat deze is goedgekeurd."
+
+#. translators: %s: The post title.
+#: comments.php:40
+msgid "One Response to %s"
+msgstr "Eén reactie op %s"
+
+#: functions.php:112
+msgid "White"
+msgstr "Wit"
+
+#: functions.php:107
+msgid "Light Gray"
+msgstr "Lichtgrijs"
+
+#: functions.php:102
+msgid "Medium Gray"
+msgstr "Medium grijs"
+
+#: functions.php:97
+msgid "Black"
+msgstr "Zwart"
+
+#: functions.php:92
+msgid "Blue"
+msgstr "Blauw"
+
+#. Template Name of the theme
+msgid "One column, no sidebar"
+msgstr "Één kolom, geen zijbalk"
+
+#. translators: %s: Tag title.
+#: tag.php:18
+msgid "Tag Archives: %s"
+msgstr "Tag archieven: %s"
+
+#: sidebar.php:36
+msgid "Meta"
+msgstr "Meta"
+
+#: sidebar.php:29
+msgid "Archives"
+msgstr "Archieven"
+
+#: search.php:34
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Geen resultaten die voldeden aan je zoekcriteria. Probeer het opnieuw met andere keywords."
+
+#: search.php:32
+msgid "Nothing Found"
+msgstr "Niets gevonden"
+
+#. translators: %s: Search query.
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#. translators: 1: CSS classes, 2: Category list.
+#: loop.php:187
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">Getagged</span> %2$s"
+
+#. translators: 1: CSS classes, 2: Category list.
+#: loop.php:174
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">Geplaatst in</span> %2$s"
+
+#: loop.php:120
+msgctxt "asides category slug"
+msgid "asides"
+msgstr "asides"
+
+#: loop.php:113 loop.php:136 loop.php:193
+msgid "% Comments"
+msgstr "% reacties"
+
+#: loop.php:113 loop.php:136 loop.php:193
+msgid "1 Comment"
+msgstr "1 reactie"
+
+#: loop.php:113 loop.php:136 loop.php:193
+msgid "Leave a comment"
+msgstr "Een reactie plaatsen"
+
+#: loop.php:110
+msgid "View posts in the Gallery category"
+msgstr "Bekijk de berichten in de categorie Galerij"
+
+#: loop.php:107 loop.php:110
+msgid "More Galleries"
+msgstr "Meer galerijen"
+
+#: loop.php:107
+msgid "View Galleries"
+msgstr "Galerijen bekijken"
+
+#. translators: %s: Post title.
+#: loop.php:92
+msgid "Permalink to %s"
+msgstr "Permalink naar %s"
+
+#. translators: 1: HTML tag attributes, 2: Image count.
+#: loop.php:90
+msgid "This gallery contains <a %1$s>%2$s photo</a>."
+msgid_plural "This gallery contains <a %1$s>%2$s photos</a>."
+msgstr[0] "Deze galerij bevat <a %1$s>%2$s foto</a>."
+msgstr[1] "Deze galerij bevat <a %1$s>%2$s foto's</a>."
+
+#: loop.php:65 loop.php:104
+msgctxt "gallery category slug"
+msgid "gallery"
+msgstr "galerij"
+
+#: loop.php:35
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Er zijn geen resultaten gevonden voor het opgevraagde archief. Wellicht kan je de zoekfunctie gebruiken om naar een gerelateerd bericht te zoeken."
+
+#: loop.php:26 loop.php:209
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere berichten <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop.php:25 loop.php:208
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere berichten"
+
+#. translators: %s: Author display name.
+#: loop-single.php:69
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Bekijk alle berichten van %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: loop-single.php:26 loop-single.php:85
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: loop-single.php:25 loop-single.php:84
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr "&larr;"
+
+#: loop-attachment.php:165 loop-page.php:36 loop-single.php:41 loop.php:161
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: loop-attachment.php:83 loop-attachment.php:175 loop-page.php:41
+#: loop-single.php:79 loop.php:114 loop.php:137 loop.php:195
+msgid "Edit"
+msgstr "Bewerken"
+
+#: loop-attachment.php:76
+msgid "Link to full-size image"
+msgstr "Link naar afbeelding op ware grootte"
+
+#. translators: %s: Image dimensions.
+#: loop-attachment.php:72
+msgid "Full size is %s pixels"
+msgstr "Volledige grootte is %s pixels"
+
+#. translators: 1: CSS classes, 2: Date.
+#: loop-attachment.php:59
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">Gepubliceerd</span> %2$s"
+
+#. translators: %s: Author display name.
+#: loop-attachment.php:44
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">Door</span> %2$s"
+
+#. translators: %s: Title of parent post.
+#: loop-attachment.php:32
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: header.php:115
+msgid "Skip to content"
+msgstr "Spring naar inhoud"
+
+#. translators: %s: Page number.
+#: header.php:36
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#. translators: 3: Post permalink, 4: Post title.
+#: functions.php:643
+msgid "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Bookmark de <a href=\"%3$s\" title=\"Permalink naar %4$s\" rel=\"bookmark\">permalink</a>."
+
+#. translators: 1: Category name, 3: Post permalink, 4: Post title.
+#: functions.php:640
+msgid "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dit bericht is geplaatst in %1$s. Bookmark de <a href=\"%3$s\" title=\"Permalink naar %4$s\" rel=\"bookmark\">permalink</a>."
+
+#. translators: 1: Category name, 2: Tag name, 3: Post permalink, 4: Post
+#. title.
+#: functions.php:637
+msgid "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr "Dit bericht is geplaatst in %1$s met de tags %2$s. Bookmark de <a href=\"%3$s\" title=\"Permalink naar %4$s\" rel=\"bookmark\">permalink</a>."
+
+#. translators: %s: Author display name.
+#: functions.php:618 loop-attachment.php:50
+msgid "View all posts by %s"
+msgstr "Alle berichten tonen van %s"
+
+#. translators: 1: CSS classes, 2: Date, 3: Author display name.
+#: functions.php:606
+msgid "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</span> %3$s"
+msgstr "<span class=\"%1$s\">Geplaatst op</span> %2$s <span class=\"meta-sep\">door</span> %3$s"
+
+#: functions.php:567
+msgid "Fourth Footer Widget Area"
+msgstr "Vierde footer widgetruimte"
+
+#: functions.php:554
+msgid "Third Footer Widget Area"
+msgstr "Derde footer widgetruimte"
+
+#: functions.php:541
+msgid "Second Footer Widget Area"
+msgstr "Tweede footer widgetruimte"
+
+#: functions.php:530 functions.php:543 functions.php:556 functions.php:569
+msgid "An optional widget area for your site footer."
+msgstr "Een optioneel widgetruimte in je site footer."
+
+#: functions.php:528
+msgid "First Footer Widget Area"
+msgstr "Eerste footer widgetruimte"
+
+#: functions.php:517
+msgid "An optional secondary widget area, displays below the primary widget area in your sidebar."
+msgstr "Een optioneel extra widget ruimte. Wordt getoond onder het primaire widget ruimte in je zijbalk."
+
+#: functions.php:515
+msgid "Secondary Widget Area"
+msgstr "Secundaire widgetruimte"
+
+#: functions.php:504
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Voeg hier widgets toe om in je zijbalk te verschijnen."
+
+#: functions.php:502
+msgid "Primary Widget Area"
+msgstr "Primaire widgetruimte"
+
+#: functions.php:481
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:454 functions.php:481
+msgid "(Edit)"
+msgstr "(bewerken)"
+
+#. translators: 1: Date, 2: Time.
+#: functions.php:450
+msgid "%1$s at %2$s"
+msgstr "%1$s om %2$s"
+
+#: functions.php:436
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie is in afwachting van moderatie."
+
+#. translators: %s: Author display name.
+#: functions.php:429
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">schreef:</span>"
+
+#: functions.php:329 loop-attachment.php:161 loop.php:129 loop.php:157
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder <span class=\"meta-nav\">&rarr;</span>"
+
+#. translators: Header image description.
+#: functions.php:254
+msgid "Sunset"
+msgstr "Zonsondergang"
+
+#. translators: Header image description.
+#: functions.php:248
+msgid "Path"
+msgstr "Pad"
+
+#. translators: Header image description.
+#: functions.php:242
+msgid "Inkwell"
+msgstr "Inktvlek"
+
+#. translators: Header image description.
+#: functions.php:236
+msgid "Forest Floor"
+msgstr "Bosgrond"
+
+#. translators: Header image description.
+#: functions.php:230
+msgid "Fern"
+msgstr "Varen"
+
+#. translators: Header image description.
+#: functions.php:224
+msgid "Concave"
+msgstr "Concaaf"
+
+#. translators: Header image description.
+#: functions.php:218
+msgid "Cherry Blossoms"
+msgstr "Kersenbloessems"
+
+#. translators: Header image description.
+#: functions.php:212
+msgid "Berries"
+msgstr "Bessen"
+
+#: functions.php:137
+msgid "Primary Navigation"
+msgstr "Primair navigatiemenu"
+
+#. translators: %s: WordPress
+#: footer.php:49
+msgid "Proudly powered by %s."
+msgstr "Mogelijk gemaakt door %s."
+
+#: footer.php:46
+msgid "Semantic Personal Publishing Platform"
+msgstr "Semantisch persoonlijk publicatieplatform"
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr "Reacties zijn gesloten."
+
+#: comments.php:57 comments.php:77
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Nieuwere reacties <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:56 comments.php:76
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Oudere reacties"
+
+#. translators: 1: The number of comments, 2: The post title.
+#: comments.php:46
+msgid "%1$s Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "%1$s reactie op %2$s"
+msgstr[1] "%1$s reacties op %2$s"
+
+#: comments.php:18
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dit bericht is beveiligd met een wachtwoord. Geef het wachtwoord om reacties te bekijken."
+
+#. translators: %s: Category title.
+#: category.php:18
+msgid "Category Archives: %s"
+msgstr "Categorie archieven: %s"
+
+#. translators: %s: Author display name.
+#: author.php:58 loop-single.php:61
+msgid "About %s"
+msgstr "Over %s"
+
+#. translators: %s: Author display name.
+#: author.php:32
+msgid "Author Archives: %s"
+msgstr "Auteursarchieven: %s"
+
+#: archive.php:45
+msgid "Blog Archives"
+msgstr "Blog archieven"
+
+#. translators: %s: Date.
+#: archive.php:43
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: %s: Date.
+#: archive.php:43
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Jaarlijkse archieven: <span>%s</span>"
+
+#. translators: %s: Date.
+#: archive.php:40
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: %s: Date.
+#: archive.php:40
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Maandelijkse archieven: <span>%s</span>"
+
+#. translators: %s: Date.
+#: archive.php:37
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Dagelijkse archieven: <span>%s</span>"
+
+#: 404.php:18
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "Helaas, de door jou opgevraagde pagina kon niet worden gevonden. Misschien kan de zoekfunctie helpen."
+
+#: 404.php:16 loop.php:33
+msgid "Not Found"
+msgstr "Niet gevonden"
+
+#. Author URI of the theme
+#: footer.php:46
+#, gp-priority: low
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "the WordPress team"
+msgstr "the WordPress team"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://wordpress.org/themes/twentyten/"
+msgstr "https://wordpress.org/themes/twentyten/"

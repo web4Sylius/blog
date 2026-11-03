@@ -1,0 +1,4 @@
+.marques-footer { clear:both; }
+.marques-footer ul { float:left;  margin: 20px 0px 0 20px; padding: 0; width: 150px; }
+.marques-footer li { line-height: 12px; list-style-image: url("../images/puce.gif"); }
+.marques-footer a { color: #FFFFFF; font-size: 11px; text-decoration:none; }

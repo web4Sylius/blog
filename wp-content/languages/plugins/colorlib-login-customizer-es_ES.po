@@ -1,0 +1,618 @@
+# Translation of Plugins - Custom Login Page Customizer by Colorlib - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Custom Login Page Customizer by Colorlib - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-11-06 11:57:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Custom Login Page Customizer by Colorlib - Stable (latest release)\n"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:261
+msgid "Show both"
+msgstr "Mostrar ambos"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:260
+msgid "Show text only"
+msgstr "Mostrar solo el texto"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:259
+msgid "Show image only"
+msgstr "Mostrar solo la imagen"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:255
+msgid "Select how the logo should be displayed"
+msgstr "Selecciona cómo debe mostrarse el logotipo"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:254
+msgid "Logo settings"
+msgstr "Ajustes del logotipo"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:282
+msgid "Login page title that is shown when you access the admin login page."
+msgstr "El título de la página de acceso se muestra cuando entras a la página de acceso de administración."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:281
+msgid "Login Page Title"
+msgstr "Título de la página de acceso"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:742
+msgid "You can change the default text for the lost password button."
+msgstr "Puedes cambiar el texto por defecto del botón contraseña perdida."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:729
+msgid "Lost Password Form Texts"
+msgstr "Textos del formulario de contraseña perdida"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:720
+msgid "You can change the default text for the login link at the end of the form."
+msgstr "Puedes cambiar el texto por defecto para el enlace de acceso al final del formulario."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:719
+msgid "Login link"
+msgstr "Enlace de acceso"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:712
+msgid "You can change the default text for the register button."
+msgstr "Puedes cambiar el texto por defecto para el botón de registro."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:711
+#: includes/lib/class-colorlib-login-customizer-customizer.php:741
+msgid "Button label"
+msgstr "Etiqueta del botón"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:704
+msgid "You can change the default registration confirmation text."
+msgstr "Puedes cambiar el texto de confirmación de registro por defecto."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:703
+msgid "Registration confirmation text"
+msgstr "Texto de confirmación de registro"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:696
+msgid "You can change the default text for email label or just delete it."
+msgstr "Puedes cambiar el texto por defecto de la etiqueta del correo electrónico o solo eliminarla."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:695
+msgid "Email label"
+msgstr "Etiqueta del correo electrónico"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:682
+msgid "Register Form Texts"
+msgstr "Textos del formulario de registro"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:673
+msgid "You can change the default text for the register link at the end of the form."
+msgstr "Puedes cambiar el texto por defecto para el enlace de registro al final del formulario."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:672
+msgid "Register link"
+msgstr "Enlace de registro"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:639
+msgid "Login Form Texts"
+msgstr "Textos del formulario de acceso"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:496
+msgid "General Form options"
+msgstr "Opciones generales del formulario"
+
+#: includes/login-template.php:227
+msgid "Get New Password"
+msgstr "Obtener nueva contraseña"
+
+#: includes/login-template.php:210
+msgid "Registration confirmation will be emailed to you."
+msgstr "Recibirás confirmación del registro por correo electrónico."
+
+#: includes/login-template.php:199
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: includes/login-template.php:195
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:275
+msgid "The tooltip that will be displayed when hovering over the logo. Also this is used as Logo text when you select \"Use Text Logo\""
+msgstr "La información emergente se mostrará al pasar el cursor por encima del logotipo. Esto también se usará como texto del logotipo cuando selecciones «Usar texto del logotipo»"
+
+#: includes/class-colorlib-login-customizer-review.php:25
+msgid "No, not good enough"
+msgstr "No, no es lo suficientemente bueno"
+
+#: includes/class-colorlib-login-customizer-review.php:24
+msgid "I already did"
+msgstr "Ya lo he hecho"
+
+#: includes/class-colorlib-login-customizer-review.php:23
+msgid "Ok, you deserve it"
+msgstr "Vale, te lo mereces"
+
+#: includes/class-colorlib-login-customizer-review.php:22
+msgid "Hey, I noticed you have installed our plugin for %s day(s) - that's awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress? Just to help us spread the word and boost our motivation."
+msgstr "Oye, me he dado cuenta de que has tenido nuestro plugin instalado durante %s día(s) - ¡eso es fantástico! Por favor, ¿podrías hacerme un GRAN favor y valorarlo con 5 estrellas en WordPress, para ayudarnos a correr la voz y estimular nuestra motivación?"
+
+#: includes/login-template.php:253
+msgid "Back to"
+msgstr "Volver a"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:624
+msgid "You can change the default text for \"Back to\" site "
+msgstr "Puedes cambiar el texto por defecto para «Volver al» sitio"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:623
+msgid "Back to site text"
+msgstr "Texto de volver al sitio"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:617
+msgid "You can change the default text for \"Lost your password\" "
+msgstr "Puedes cambiar el texto por defecto para «¿Has perdido tu contraseña?»"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:616
+msgid "Lost Password Text"
+msgstr "Texto de contraseña olvidada"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:274
+msgid "Logo Title"
+msgstr "Título del logotipo"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:267
+msgid "Logo URL"
+msgstr "URL del logotipo"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:666
+msgid "You can change the default text for the log in button."
+msgstr "Puedes cambiar el texto por defecto del botón de acceder."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:665
+msgid "Login label"
+msgstr "Botón de inicio de sesión"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:659
+msgid "You can change the default remember me text."
+msgstr "Puedes cambiar el texto por defecto para «Recuérdame»."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:658
+msgid "Remember Me label"
+msgstr "Casilla de recuérdame"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:833
+msgid "CSS code"
+msgstr "Código CSS"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:828
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:820
+msgid "Show/Hide the \"Remember Me\" checkbox"
+msgstr "Mostrar/ocultar la casilla «recuérdame»"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:819
+msgid "Hide \"Remember Me\""
+msgstr "Ocultar «Recuérdame»"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:792
+msgid "This will change the submit button text's shadow property. Example: 0 -1px 1px #006799"
+msgstr "Esto cambiará la propiedad de la sombra del botón de envío. Por ejemplo: 0 -1px 1px #006799"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:791
+msgid "Button text shadow"
+msgstr "Sombra del texto del botón"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:751
+msgid "Form Button & Links"
+msgstr "Botones y enlaces del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:652
+msgid "You can change the default text for password label or just delete it."
+msgstr "Puedes cambiar el texto por defecto de la etiqueta del campo de la contraseña o simplemente eliminarlo."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:651
+msgid "Password label"
+msgstr "Campo de contraseña"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:645
+#: includes/lib/class-colorlib-login-customizer-customizer.php:688
+#: includes/lib/class-colorlib-login-customizer-customizer.php:735
+msgid "You can change the default text for username label or just delete it."
+msgstr "Puedes cambiar el texto por defecto para la etiqueta del campo del nombre de usuario o simplemente eliminarlo."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:644
+#: includes/lib/class-colorlib-login-customizer-customizer.php:687
+#: includes/lib/class-colorlib-login-customizer-customizer.php:734
+msgid "Username label"
+msgstr "Campo del nombre de usuario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:589
+msgid "Please input the desired border radiuse for the form field. Example: 5px 5px 5px 5px"
+msgstr "Por favor, introduce el radio del borde deseado para los campos del formulario. Por ejemplo: 5px 5px 5px 5px"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:588
+msgid "Form field border radius"
+msgstr "Radio del borde de los campos del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:582
+msgid "Please input the desired border for the form field. Example: 2px dotted black"
+msgstr "Por favor, introduce el borde deseado para el campo del formulario. Por ejemplo: 2px dotted black"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:581
+msgid "Form field border"
+msgstr "Borde de los campos del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:554
+msgid "This will change the border radius property. Example: 2px 2px 2px 2px"
+msgstr "Esto cambiará la propiedad del radio del borde. Por ejemplo: 2px 2px 2px 2px"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:553
+msgid "Form border radius"
+msgstr "Radio del borde del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:375
+msgid "Columns Width"
+msgstr "Ancho de las columnas"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:305
+msgid "This will change the text size of logo."
+msgstr "Esto cambiará el tamaño del texto del logotipo."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:304
+msgid "Logo text size"
+msgstr "Tamaño del texto del logotipo"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:297
+msgid "This will change the color text property on hover."
+msgstr "Esto cambiará la propiedad del color del texto al pasar el cursor."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:296
+msgid "Logo text color hover"
+msgstr "Color del texto del logotipo al pasar el cursor"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:289
+msgid "This will change the color text property."
+msgstr "Esto cambiará la propiedad del color del texto."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:288
+msgid "Logo text color"
+msgstr "Color del texto del logotipo"
+
+#. Author URI of the plugin
+msgid "https://colorlib.com/"
+msgstr "https://colorlib.com/"
+
+#. Author of the plugin
+msgid "Colorlib"
+msgstr "Colorlib"
+
+#. Description of the plugin
+msgid "Colorlib Login Customizer is an awesome and intuitive plugin that helps you personalize your login form directly from the Customizer. The plugin fully supports the Live Customizer feature and you can see all the changes in real time and edit them."
+msgstr "Colorlib Login Customizer es un plugin intuitivo fantástico que te ayuda a personalizar tu formulario de acceso directamente desde el personalizador. Este plugin es totalmente compatible con la característica del personalizador en directo y así puedes ver todos los cambios en tiempo real y editarlos."
+
+#: includes/login-template.php:247
+msgid "Lost your password?"
+msgstr "¿Has perdido tu contraseña?"
+
+#: includes/login-template.php:211
+msgid "Register"
+msgstr "Registro"
+
+#: includes/login-template.php:189
+msgid "Remember Me"
+msgstr "Recuérdame"
+
+#: includes/login-template.php:178
+msgid "Password"
+msgstr "Contraseña"
+
+#: includes/login-template.php:174 includes/login-template.php:216
+msgid "Username or Email Address"
+msgstr "Nombre de usuario o dirección de correo electrónico"
+
+#: includes/login-template.php:104
+msgid "Powered by WordPress"
+msgstr "Funciona con WordPress"
+
+#: includes/login-template.php:103
+msgid "https://wordpress.org/"
+msgstr "https://es.wordpress.org/"
+
+#: includes/login-template.php:101 includes/login-template.php:190
+msgid "Log In"
+msgstr "Acceder"
+
+#. translators: Login screen title. 1: Login screen name, 2: Network or site
+#. name
+#: includes/login-template.php:34
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#: includes/lib/controls/class-colorlib-login-customizer-control-color-picker.php:74
+msgid "(clear)"
+msgstr "(vaciar)"
+
+#: includes/lib/class-colorlib-login-customizer-settings.php:100
+msgid "Start Customizing!"
+msgstr "¡Empezar la personalización!"
+
+#: includes/lib/class-colorlib-login-customizer-settings.php:99
+msgid "Login Customizer plugin allows you to easily customize your login page straight from your WordPress Customizer! You can preview your changes before you save them! Awesome, right?"
+msgstr "¡El plugin Login Customizer te permite personalizar fácilmente tu página de acceso desde tu personalizador de WordPress! ¡Puedes ver tus cambios antes de guardarlos! ¿Increible, no?"
+
+#: includes/lib/class-colorlib-login-customizer-settings.php:83
+msgid "Settings"
+msgstr "Ajustes "
+
+#: includes/lib/class-colorlib-login-customizer-settings.php:68
+msgid "Login Customizer"
+msgstr "Personalizador del acceso"
+
+#. Plugin Name of the plugin
+#: includes/lib/class-colorlib-login-customizer-customizer.php:858
+#: includes/lib/class-colorlib-login-customizer-settings.php:68
+#: includes/lib/class-colorlib-login-customizer-settings.php:98
+msgid "Colorlib Login Customizer"
+msgstr "Colorlib Login Customizer"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:813
+msgid "This will change the text color of links, that are underneath the login form, on hover"
+msgstr "Esto cambiará el color del texto de los enlaces que hay debajo del formulario de acceso al pasar el cursor"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:812
+msgid "Link color hover"
+msgstr "Color de los enlaces al pasar el cursor"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:806
+msgid "This will change the text color of links that are underneath the login form"
+msgstr "Esto cambiará el color del texto de los enlaces que hay debajo del formulario de acceso"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:805
+msgid "Link color"
+msgstr "Color del enlace"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:799
+msgid "This will change the submit button's text color property"
+msgstr "Esto cambiará la propiedad del color del texto del botón de envío"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:798
+msgid "Button color"
+msgstr "Color del botón"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:785
+msgid "This will change the submit button's shadow property. Example: 0 1px 0 #006799"
+msgstr "Esto cambiará la propiedad de la sombra del botón de envío. Por ejemplo: 0 1px 0 #006799"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:784
+msgid "Button shadow"
+msgstr "Sombra del botón"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:778
+msgid "This will change the submit button's border property on hover"
+msgstr "Esto cambiará la propiedad del borde del botón de envío al pasar el cursor"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:777
+msgid "Button border hover state"
+msgstr "Estado del borde del botón al pasar el cursor"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:771
+msgid "This will change the submit button's border color property"
+msgstr "Esto cambiará la propiedad del color del borde del botón de envío"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:770
+msgid "Button border color"
+msgstr "Color del borde del botón"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:764
+msgid "This will change the submit button's background property on hover"
+msgstr "Esto cambiará la propiedad del fondo del botón de envío al pasar el cursor"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:763
+msgid "Button background hover state"
+msgstr "Estado del fondo del botón al pasar el cursor"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:757
+msgid "This will change the submit button's background property"
+msgstr "Esto cambiará la propiedad del fondo del botón de envío"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:756
+msgid "Button background"
+msgstr "Fondo del botón"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:631
+msgid "Show/Hide the links under the login form"
+msgstr "Mostrar/ocultar los enlaces de debajo del formulario de acceso"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:630
+msgid "Hide Extra Links"
+msgstr "Ocultar los enlaces extra"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:610
+msgid "This will change the label text color property."
+msgstr "Esto cambiará la propiedad del color del texto de la etiqueta."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:609
+msgid "Form label color"
+msgstr "Color de la etiqueta del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:603
+msgid "This will change the text color property."
+msgstr "Esto cambiará la propiedad del color del texto."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:602
+msgid "Form field color"
+msgstr "Color de los campos del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:595
+msgid "Form field background"
+msgstr "Fondo de los campos del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:575
+msgid "This will change the margin property. Example: 26px 24px 46px 30px"
+msgstr "Esto cambiará la propiedad del margen. Por ejemplo: 26px 24px 46px 30px"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:574
+msgid "Form field margin"
+msgstr "Margen de los campos del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:568
+msgid "Please input the desired width for the form field in pixels. Example: 20"
+msgstr "Por favor, introduce la anchura deseada para el campo del formulario en píxeles. Por ejemplo: 20"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:567
+msgid "Form field width"
+msgstr "Ancho de los campos del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:561
+msgid "This will change the form's shadow property. Example: 0 1px 0 #006799"
+msgstr "Esto cambiará la propiedad de la sombra del formulario. Por ejemplo: 0 1px 0 #006799"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:560
+msgid "Form shadow"
+msgstr "Sombra del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:547
+msgid "This will change the border property. Example: 2px dotted black"
+msgstr "Esto cambiará la propiedad del borde. Por ejemplo: 2px dotted black"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:546
+msgid "Form border"
+msgstr "Bordes del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:540
+msgid "This will change the padding property. Example: 26px 24px 46px 30px"
+msgstr "Esto cambiará la propiedad del relleno. Por ejemplo: 26px 24px 46px 30px"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:539
+msgid "Form padding"
+msgstr "Relleno del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:532
+msgid "Form background color"
+msgstr "Color de fondo del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:526
+msgid "This will change the background image property of login form."
+msgstr "Esto cambiará la propiedad de la imagen de fondo del formulario de acceso."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:525
+msgid "Form background image"
+msgstr "Imagen de fondo del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:514
+msgid "Please input the desired height for the login form in pixels. Example: 20"
+msgstr "Por favor, introduce la altura deseada para el campo del formulario de acceso en píxeles. Por ejemplo: 20"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:513
+msgid "Form Height"
+msgstr "Altura del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:502
+msgid "Please input the desired width for the login form in pixels. Example: 20"
+msgstr "Por favor, introduce la anchura deseada para el campo del formulario de acceso en píxeles. Por ejemplo: 20"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:501
+msgid "Form Width"
+msgstr "Anchura del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:486
+msgid "Form Column background"
+msgstr "Fondo de la columna del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:478
+msgid "Form Column background color"
+msgstr "Color de fondo de la columna del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:464
+msgid "Custom background"
+msgstr "Fondo personalizado"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:458
+#: includes/lib/class-colorlib-login-customizer-customizer.php:479
+#: includes/lib/class-colorlib-login-customizer-customizer.php:533
+#: includes/lib/class-colorlib-login-customizer-customizer.php:596
+msgid "This will change the background color property."
+msgstr "Esto cambiará la propiedad del color del fondo."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:457
+msgid "Custom background color"
+msgstr "Color de fondo personalizado"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:452
+msgid "Background options"
+msgstr "Opciones del fondo"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:429
+msgid "Form Horizontal Alignment"
+msgstr "Alineación horizontal del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:408
+msgid "Form Vertical Alignment"
+msgstr "Alineación vertical del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:382
+msgid "Form Column Alignment"
+msgstr "Alineación de la columna del formulario"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:358
+msgid "Columns"
+msgstr "Columnas"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:353
+msgid "Layout options"
+msgstr "Opciones de diseño"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:339
+msgid "Make sure you set the logo height to match your image."
+msgstr "Asegúrate de que estableces la altura del logotipo para que coincida con la de tu imagen."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:338
+msgid "Logo Height"
+msgstr "Altura del logotipo"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:326
+msgid "Make sure you set the logo width to match your image."
+msgstr "Asegúrate de que estableces correctamente la anchura del logotipo para que coincida con la de tu imagen."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:325
+msgid "Logo Width"
+msgstr "Anchura del logotipo"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:318
+#: includes/lib/class-colorlib-login-customizer-customizer.php:465
+#: includes/lib/class-colorlib-login-customizer-customizer.php:487
+msgid "This will upload an image to your media library and store the attachment ID in the option field. Once you have uploaded an imge the thumbnail will display above these buttons."
+msgstr "Esto subirá una imagen a tu biblioteca de medios y guardará el ID del adjunto en el campo de opciones. Una vez hayas subido una imagen, la miniatura se mostrará encima de estos botones."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:317
+msgid "Custom logo"
+msgstr "Logotipo personalizado"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:268
+msgid "This is where the logo will link to."
+msgstr "Esto es adónde enlazará el logotipo."
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:258
+msgid "Hide logo"
+msgstr "Ocultar el logotipo"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:249
+msgid "Logo options"
+msgstr "Opciones del logotipo"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:67
+msgid "Temapltes"
+msgstr "Plantillas"
+
+#: includes/lib/class-colorlib-login-customizer-customizer.php:62
+msgid "Templates"
+msgstr "Plantillas"
+
+#: includes/class-colorlib-login-customizer.php:221
+#: includes/class-colorlib-login-customizer.php:230
+#: includes/lib/class-colorlib-login-customizer-settings.php:130
+#: includes/lib/class-colorlib-login-customizer-settings.php:139
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampas, ¿eh?"
